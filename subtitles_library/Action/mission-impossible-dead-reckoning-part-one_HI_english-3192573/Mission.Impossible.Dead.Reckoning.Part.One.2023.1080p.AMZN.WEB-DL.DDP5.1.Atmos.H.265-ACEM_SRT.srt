@@ -1,0 +1,9142 @@
+1
+00:00:43,214 --> 00:00:44,481
+<i>Mission Report.</i>
+
+2
+00:00:44,587 --> 00:00:49,508
+<i>Russian Federation submarine
+K599 Sevastopol</i>.
+
+3
+00:00:50,054 --> 00:00:53,758
+<i>Podkova. Day 74.</i>
+
+4
+00:00:55,658 --> 00:00:58,661
+<i>The active learning defense
+system we are testing...</i>
+
+5
+00:00:59,393 --> 00:01:01,437
+<i>...continues to operate flawlessly.</i>
+
+6
+00:01:01,438 --> 00:01:03,374
+<i>One might even say...</i>
+
+7
+00:01:03,399 --> 00:01:04,701
+<i>miraculously.</i>
+
+8
+00:01:04,835 --> 00:01:07,772
+<i>We are navigating
+under the Arctic ice cap</i>
+
+9
+00:01:07,905 --> 00:01:10,908
+<i>by dead reckoning
+and five days from home.</i>
+
+10
+00:01:11,041 --> 00:01:13,878
+<i>After 25,000 nautical miles,</i>
+
+11
+00:01:14,011 --> 00:01:16,914
+<i>the</i> Sevastopol
+<i>has deliberately approached</i>
+
+12
+00:01:17,047 --> 00:01:18,716
+<i>every navy in the world</i>
+
+13
+00:01:18,849 --> 00:01:21,886
+<i>and remained
+completely undetected.</i>
+
+14
+00:01:23,319 --> 00:01:28,926
+<i>The</i> Podkova's <i>stealth capability
+has exceeded all expectations.</i>
+
+15
+00:01:34,064 --> 00:01:40,470
+<i>We are at this moment
+the state of the art of war.</i>
+
+16
+00:01:44,108 --> 00:01:46,509
+<i>The most fearsome
+killing machine</i>
+
+17
+00:01:46,643 --> 00:01:48,746
+<i>ever devised by man.</i>
+
+18
+00:01:51,081 --> 00:01:54,450
+<i>And we are impossible to find.</i>
+
+19
+00:01:57,387 --> 00:02:00,523
+Captain, we have a submerged contact,
+designated Semyon-83,
+
+20
+00:02:00,657 --> 00:02:03,326
+exhibiting tonals of
+a US Virginia-class submarine.
+
+21
+00:02:03,459 --> 00:02:05,428
+Bearing 130°, drawing forward.
+
+22
+00:02:06,529 --> 00:02:09,066
+Chief of the Watch,
+man battle stations silently.
+
+23
+00:02:09,200 --> 00:02:10,201
+Wait for orders.
+
+24
+00:02:10,333 --> 00:02:11,601
+Officer of the Deck,
+ship status?
+
+25
+00:02:11,735 --> 00:02:13,904
+Ship's depth, 50 meters.
+Bottom, 72 meters.
+
+26
+00:02:14,038 --> 00:02:16,307
+Clearance to the ice canopy,
+21 meters.
+
+27
+00:02:16,439 --> 00:02:18,341
+Distance to deep water?
+Two kilometers.
+
+28
+00:02:18,474 --> 00:02:20,044
+Aleutian Precipice
+in six minutes.
+
+29
+00:02:20,177 --> 00:02:23,247
+Ranging maneuver.
+Helm, left 15 degrees rudder.
+
+30
+00:02:23,379 --> 00:02:24,414
+Steady course 100°.
+
+31
+00:02:24,547 --> 00:02:26,150
+Come up easy on a standard bell.
+
+32
+00:02:26,283 --> 00:02:27,985
+Captain has the conn.
+Helm, aye!
+
+33
+00:02:28,118 --> 00:02:29,686
+Coming to course 100°.
+
+34
+00:02:43,734 --> 00:02:45,635
+Steady on course 100°.
+
+35
+00:02:45,769 --> 00:02:47,238
+Weapons Officer, range?
+
+36
+00:02:47,370 --> 00:02:51,008
+Firing solution is tracking
+at a distance of 15,000 meters.
+
+37
+00:02:51,141 --> 00:02:54,111
+Sir, that doesn't make sense.
+Tonals this loud and clear?
+
+38
+00:02:54,245 --> 00:02:56,313
+<i>He must be closer than that.</i>
+
+39
+00:02:57,815 --> 00:03:00,416
+Captain, firing solution
+just did a step change
+
+40
+00:03:00,550 --> 00:03:01,819
+to 10,000 meters.
+
+41
+00:03:02,552 --> 00:03:03,553
+Nothing moves that fast.
+
+42
+00:03:03,686 --> 00:03:04,989
+All solutions are matching.
+
+43
+00:03:05,122 --> 00:03:06,323
+The range is true.
+
+44
+00:03:06,456 --> 00:03:08,359
+Helm, right full rudder
+to course 270°.
+
+45
+00:03:08,491 --> 00:03:10,393
+Course 270°, aye.
+
+46
+00:03:13,831 --> 00:03:16,100
+We'll just walk away
+and head for deep water.
+
+47
+00:03:16,233 --> 00:03:17,902
+Contact bearing 160°.
+
+48
+00:03:18,969 --> 00:03:20,436
+Bearing rate zero?
+
+49
+00:03:20,570 --> 00:03:23,406
+He's there,
+turning with us again.
+
+50
+00:03:24,375 --> 00:03:25,642
+He can see us.
+
+51
+00:03:26,343 --> 00:03:27,878
+Impossible. We're invisible.
+
+52
+00:03:28,012 --> 00:03:31,048
+Weapons, run diagnostics
+on sonar and fire control.
+
+53
+00:03:31,181 --> 00:03:32,316
+<i>Something isn't right.</i>
+
+54
+00:03:32,448 --> 00:03:33,984
+Sir, he's flooding
+his torpedo tubes!
+
+55
+00:03:35,119 --> 00:03:36,020
+Torpedo room, conn.
+
+56
+00:03:36,153 --> 00:03:38,122
+<i>Load all torpedo tubes.</i>
+Aye, Sir.
+
+57
+00:03:40,958 --> 00:03:43,394
+Check clear!
+Forward clear!
+
+58
+00:03:43,526 --> 00:03:46,163
+Aft clear! Ram torpedo!
+Ramming!
+
+59
+00:03:47,563 --> 00:03:49,300
+Torpedo tubes loaded.
+
+60
+00:03:49,432 --> 00:03:50,935
+He's opened outer doors!
+
+61
+00:03:51,068 --> 00:03:52,836
+Weapons, flood tubes one
+through four and open outer doors.
+
+62
+00:03:52,970 --> 00:03:54,805
+Enter firing solution
+into tube two.
+
+63
+00:03:54,939 --> 00:03:57,640
+Aye, Captain. Making tube
+two ready in all respects.
+
+64
+00:03:57,775 --> 00:03:59,009
+Captain, he's provoking us.
+
+65
+00:03:59,143 --> 00:04:01,544
+He wants an excuse
+to blow us out of the water.
+
+66
+00:04:01,678 --> 00:04:03,781
+Enemy torpedo in the water,
+bearing 200°.
+
+67
+00:04:03,914 --> 00:04:05,215
+1,000 meters and accelerating.
+
+68
+00:04:05,349 --> 00:04:07,151
+Helm, left full rudder,
+all ahead flank cavitate.
+
+69
+00:04:07,284 --> 00:04:08,618
+My rudder is left full.
+
+70
+00:04:08,752 --> 00:04:10,154
+Answering all ahead
+flank cavitate.
+
+71
+00:04:10,287 --> 00:04:12,622
+Launch countermeasures.
+Launching countermeasures.
+
+72
+00:04:15,993 --> 00:04:16,860
+Fire tube two.
+
+73
+00:04:16,994 --> 00:04:18,095
+Firing tube two.
+
+74
+00:04:21,432 --> 00:04:23,133
+Our torpedo is away.
+Running hot.
+
+75
+00:04:25,970 --> 00:04:28,638
+Enemy torpedo still homing,
+range 800 meters.
+
+76
+00:04:28,772 --> 00:04:29,974
+He's blown through
+our countermeasures.
+
+77
+00:04:30,107 --> 00:04:32,142
+Helm, right full rudder.
+Right full.
+
+78
+00:04:32,276 --> 00:04:33,911
+Aye, Sir!
+600 meters.
+
+79
+00:04:34,044 --> 00:04:35,913
+Diving Officer, stand by to
+emergency blow all main ballast tanks.
+
+80
+00:04:36,046 --> 00:04:38,614
+400 meters. Chief of the Watch,
+stand by the collision alarm.
+
+81
+00:04:38,749 --> 00:04:40,217
+200 meters.
+This is the captain.
+
+82
+00:04:40,351 --> 00:04:43,153
+All hands brace for impact.
+Enemy torpedo impact in...
+
+83
+00:04:43,287 --> 00:04:45,655
+five... four...
+
+84
+00:04:46,290 --> 00:04:48,726
+three... two...
+
+85
+00:04:49,360 --> 00:04:51,795
+one. Impact!
+
+86
+00:05:02,706 --> 00:05:03,807
+What just happened?
+
+87
+00:05:03,941 --> 00:05:05,142
+It's, it's gone.
+
+88
+00:05:05,275 --> 00:05:06,377
+It missed us?
+
+89
+00:05:06,509 --> 00:05:07,577
+No.
+
+90
+00:05:07,711 --> 00:05:10,781
+It vanished
+like it was never there.
+
+91
+00:05:10,914 --> 00:05:13,417
+Sonar,
+where is the enemy vessel?
+
+92
+00:05:13,549 --> 00:05:14,584
+Bearing 330°,
+
+93
+00:05:14,718 --> 00:05:16,253
+4,000 meters
+off our starboard bow.
+
+94
+00:05:16,387 --> 00:05:17,955
+Our torpedo is running true.
+
+95
+00:05:18,088 --> 00:05:20,424
+Impact with
+enemy submarine in...
+
+96
+00:05:20,556 --> 00:05:24,128
+three... two... one.
+
+97
+00:05:28,564 --> 00:05:29,665
+Where was the impact?
+
+98
+00:05:29,800 --> 00:05:32,469
+Captain, enemy submarine
+has vanished.
+
+99
+00:05:32,602 --> 00:05:34,104
+It's gone, Sir.
+
+100
+00:05:34,238 --> 00:05:35,272
+I don't understand.
+
+101
+00:05:41,577 --> 00:05:42,813
+He was never there.
+
+102
+00:05:45,681 --> 00:05:47,117
+We've been chasing a phantom.
+
+103
+00:05:47,251 --> 00:05:50,120
+It was right there.
+The instruments don't lie.
+
+104
+00:05:50,254 --> 00:05:52,222
+They lied to us today.
+
+105
+00:05:52,356 --> 00:05:55,292
+Weapons,
+shut down our torpedo. Aye, Captain.
+
+106
+00:05:55,426 --> 00:05:56,927
+Shutting down torpedo.
+
+107
+00:05:57,061 --> 00:05:59,229
+Secure from battle stations.
+
+108
+00:06:02,466 --> 00:06:04,634
+This is why we have sea trials.
+
+109
+00:06:05,502 --> 00:06:07,004
+There's a bug in the system.
+
+110
+00:06:08,772 --> 00:06:10,673
+A ghost in the machine.
+
+111
+00:06:12,776 --> 00:06:14,745
+It's time to
+go home. Captain!
+
+112
+00:06:14,878 --> 00:06:16,579
+Our own torpedo
+is not responding.
+
+113
+00:06:16,713 --> 00:06:17,915
+It's coming right at us!
+
+114
+00:06:18,048 --> 00:06:20,583
+Our torpedo's homing,
+range 400 meters!
+
+115
+00:06:20,717 --> 00:06:21,684
+Oh, my God.
+Wire command.
+
+116
+00:06:21,819 --> 00:06:23,220
+Shut down our weapon!
+
+117
+00:06:24,455 --> 00:06:27,791
+Our torpedo's still closing,
+range 200 meters!
+
+118
+00:06:27,925 --> 00:06:31,095
+Blow all main ballast tanks!
+Sound the collision alar..
+
+119
+00:07:30,621 --> 00:07:32,055
+Food delivery.
+
+120
+00:07:41,765 --> 00:07:43,200
+Hello?
+
+121
+00:07:51,542 --> 00:07:52,776
+Designator.
+
+122
+00:07:53,210 --> 00:07:54,244
+Easy.
+
+123
+00:07:55,479 --> 00:07:56,880
+Easy.
+
+124
+00:07:58,916 --> 00:08:00,350
+Designator.
+
+125
+00:08:02,986 --> 00:08:05,088
+India-Zulu-254.
+
+126
+00:08:05,923 --> 00:08:08,025
+Bravo-Echo-11.
+
+127
+00:08:09,760 --> 00:08:10,994
+No, not yet.
+
+128
+00:08:11,128 --> 00:08:13,530
+You need to ask me
+the security question first.
+
+129
+00:08:13,664 --> 00:08:15,465
+Oh, yeah. Sorry.
+
+130
+00:08:16,400 --> 00:08:17,434
+Uh...
+
+131
+00:08:18,268 --> 00:08:19,736
+what is the oath?
+
+132
+00:08:24,308 --> 00:08:26,910
+We live and die
+in the shadows...
+
+133
+00:08:28,145 --> 00:08:29,980
+for those we hold close...
+
+134
+00:08:31,515 --> 00:08:33,283
+and for those we never meet.
+
+135
+00:08:37,054 --> 00:08:38,789
+You can put it on the table.
+
+136
+00:08:54,238 --> 00:08:55,405
+Hey.
+
+137
+00:08:58,942 --> 00:09:00,510
+Welcome to the IMF.
+
+138
+00:09:02,546 --> 00:09:04,281
+You made the right choice.
+
+139
+00:09:07,818 --> 00:09:09,086
+Sir.
+
+140
+00:09:14,258 --> 00:09:16,460
+<i>Good evening, Mr. Hunt.</i>
+
+141
+00:09:17,628 --> 00:09:19,496
+<i>It's been a long time.</i>
+
+142
+00:09:20,397 --> 00:09:23,066
+<i>Our lives are
+the sum of our choices,</i>
+
+143
+00:09:24,201 --> 00:09:26,370
+<i>and we cannot escape the past.</i>
+
+144
+00:09:27,404 --> 00:09:30,240
+<i>Thirty years ago,
+you were offered the choice.</i>
+
+145
+00:09:30,374 --> 00:09:34,278
+<i>Join the IMF
+or spend your life in prison.</i>
+
+146
+00:09:35,312 --> 00:09:37,581
+<i>Because of
+your unique natural talents,</i>
+
+147
+00:09:37,715 --> 00:09:39,783
+<i>your government forgave you.</i>
+
+148
+00:09:39,916 --> 00:09:42,119
+<i>But we will never forget.</i>
+
+149
+00:09:42,252 --> 00:09:44,855
+<i>Just as you will
+never forget the death</i>
+
+150
+00:09:44,988 --> 00:09:47,891
+<i>that brought you to us
+all those years ago.</i>
+
+151
+00:10:02,740 --> 00:10:03,907
+<i>This is to remind you</i>
+
+152
+00:10:04,041 --> 00:10:06,443
+<i>of your oath
+and allegiance to us.</i>
+
+153
+00:10:07,411 --> 00:10:10,147
+<i>The stakes of this mission
+are higher than ever.</i>
+
+154
+00:10:10,280 --> 00:10:13,650
+<i>Your habitual rogue behavior
+will not be tolerated.</i>
+
+155
+00:10:13,785 --> 00:10:15,285
+<i>Should you choose to accept,</i>
+
+156
+00:10:15,419 --> 00:10:18,422
+<i>it is imperative
+that you listen.</i>
+
+157
+00:10:19,323 --> 00:10:21,892
+<i>Your government is
+searching for a key.</i>
+
+158
+00:10:22,025 --> 00:10:25,128
+<i>Its purpose,
+its vital importance to us</i>
+
+159
+00:10:25,262 --> 00:10:27,698
+<i>is none of your concern.</i>
+
+160
+00:10:27,831 --> 00:10:29,366
+<i>What should concern you</i>
+
+161
+00:10:29,499 --> 00:10:33,003
+<i>is the involvement
+of your friend Ilsa Faust.</i>
+
+162
+00:10:34,137 --> 00:10:36,540
+<i>She killed a courier
+in Istanbul.</i>
+
+163
+00:10:36,673 --> 00:10:38,909
+<i>And we believe
+he was carrying one half</i>
+
+164
+00:10:39,042 --> 00:10:40,778
+<i>of the key we're searching for.</i>
+
+165
+00:10:41,845 --> 00:10:45,750
+<i>Why she has chosen to interfere
+in this affair is a mystery,</i>
+
+166
+00:10:45,882 --> 00:10:48,051
+<i>as are her whereabouts.</i>
+
+167
+00:10:48,952 --> 00:10:50,320
+<i>What is certain</i>
+
+168
+00:10:50,454 --> 00:10:53,323
+<i>is that your government
+has put a price on her head...</i>
+
+169
+00:10:54,491 --> 00:10:58,061
+<i>and these bounty hunters
+are out to collect it.</i>
+
+170
+00:10:59,096 --> 00:11:01,833
+<i>They never bring
+a fugitive back alive,</i>
+
+171
+00:11:01,965 --> 00:11:04,334
+<i>and rarely in one piece.</i>
+
+172
+00:11:04,468 --> 00:11:08,105
+<i>We believe they're headed for
+the Arabian Desert's Empty Quarter</i>
+
+173
+00:11:08,238 --> 00:11:09,573
+<i>in search of your friend.</i>
+
+174
+00:11:09,707 --> 00:11:14,277
+<i>Find the bounty hunters,
+and you may just find her.</i>
+
+175
+00:11:14,411 --> 00:11:17,414
+<i>Your mission,
+should you choose to accept it,</i>
+
+176
+00:11:17,547 --> 00:11:20,984
+<i>is to acquire the key
+and deliver it to us.</i>
+
+177
+00:11:21,118 --> 00:11:24,588
+<i>What happens to Ilsa
+after that is up to you.</i>
+
+178
+00:11:25,455 --> 00:11:26,590
+<i>As always,</i>
+
+179
+00:11:26,724 --> 00:11:29,226
+<i>if any members of your team
+are caught or killed,</i>
+
+180
+00:11:29,359 --> 00:11:32,864
+<i>the secretary will disavow
+any knowledge of your actions.</i>
+
+181
+00:11:33,765 --> 00:11:37,701
+<i>This message will self-destruct
+in five seconds.</i>
+
+182
+00:11:38,268 --> 00:11:40,237
+<i>Good luck, Ethan.</i>
+
+183
+00:12:13,838 --> 00:12:15,238
+Come.
+
+184
+00:13:04,856 --> 00:13:06,122
+Ethan.
+
+185
+00:13:35,218 --> 00:13:36,754
+Hyah! Hyah!
+
+186
+00:15:03,607 --> 00:15:04,641
+Ohh!
+
+187
+00:15:48,251 --> 00:15:50,054
+So what are we dealing with?
+
+188
+00:15:50,186 --> 00:15:53,690
+This "entity" has
+multiple personalities,
+
+189
+00:15:53,824 --> 00:15:56,192
+at times behaving
+like a computer virus,
+
+190
+00:15:56,326 --> 00:15:58,328
+then a tapeworm, then a botnet.
+
+191
+00:15:58,461 --> 00:16:00,463
+Distorting any and all
+digital information
+
+192
+00:16:00,597 --> 00:16:02,133
+with which it comes in contact.
+
+193
+00:16:02,265 --> 00:16:04,769
+Once infected,
+nothing recorded, stored,
+
+194
+00:16:04,902 --> 00:16:07,705
+or transmitted digitally
+can be trusted as fact.
+
+195
+00:16:07,838 --> 00:16:11,474
+At the outset, it concentrated
+primarily on news and social media
+
+196
+00:16:11,608 --> 00:16:13,077
+which was of
+little concern to us
+
+197
+00:16:13,209 --> 00:16:14,712
+as it often suited our purposes.
+
+198
+00:16:14,845 --> 00:16:16,814
+Until six months ago,
+when the entity breached
+
+199
+00:16:16,947 --> 00:16:19,249
+Saudi Arabia's General
+Intelligence Directorate.
+
+200
+00:16:19,382 --> 00:16:22,619
+And assimilated their
+top secret active-learning AI
+
+201
+00:16:22,753 --> 00:16:24,889
+before vanishing into the cloud.
+
+202
+00:16:25,022 --> 00:16:28,092
+Subsequent attacks increased
+ten-thousandfold overnight,
+
+203
+00:16:28,224 --> 00:16:29,894
+spreading exponentially.
+
+204
+00:16:30,027 --> 00:16:32,963
+Indicating that
+the Entity has since become
+
+205
+00:16:33,764 --> 00:16:34,799
+sentient.
+
+206
+00:16:35,733 --> 00:16:37,634
+You're telling me this thing
+has a mind of its own?
+
+207
+00:16:37,768 --> 00:16:39,569
+<i>Over the last three weeks alone,</i>
+
+208
+00:16:39,703 --> 00:16:42,305
+<i>it has accessed our satellite
+telecommunications,</i>
+
+209
+00:16:42,439 --> 00:16:44,507
+<i>the Federal Reserve,
+the stock market,</i>
+
+210
+00:16:44,641 --> 00:16:46,110
+<i>and the national power grid.</i>
+
+211
+00:16:46,242 --> 00:16:47,410
+<i>The FAA, NASA</i>
+
+212
+00:16:47,544 --> 00:16:49,345
+<i>and the combined branches
+of our military.</i>
+
+213
+00:16:49,479 --> 00:16:50,881
+<i>And we're not alone.</i>
+
+214
+00:16:51,015 --> 00:16:53,951
+<i>It has penetrated the World
+and European Central Banks.</i>
+
+215
+00:16:54,085 --> 00:16:55,618
+<i>Gained entry
+to the major defense,</i>
+
+216
+00:16:55,753 --> 00:16:57,454
+<i>finance
+and infrastructure systems</i>
+
+217
+00:16:57,587 --> 00:17:01,926
+<i>of Russia, India, Israel,
+Australasia, all of Europe.</i>
+
+218
+00:17:02,059 --> 00:17:04,929
+<i>And what did it do
+to all these systems exactly?</i>
+
+219
+00:17:05,062 --> 00:17:06,329
+Nothing.
+
+220
+00:17:07,263 --> 00:17:09,332
+Nothing?
+It came and it went,
+
+221
+00:17:09,466 --> 00:17:12,502
+leaving fingerprints where
+they could easily be found
+
+222
+00:17:12,635 --> 00:17:15,605
+and sending
+a very clear message.
+
+223
+00:17:17,141 --> 00:17:18,641
+"I shall return."
+
+224
+00:17:18,776 --> 00:17:22,445
+Whatever its ultimate goal is,
+we're powerless to stop it.
+
+225
+00:17:22,579 --> 00:17:25,049
+The full force of its energy
+is now directed
+
+226
+00:17:25,182 --> 00:17:26,382
+at a single objective.
+
+227
+00:17:26,516 --> 00:17:28,318
+The world's
+intelligence networks.
+
+228
+00:17:28,451 --> 00:17:30,653
+The very truth as we know it.
+
+229
+00:17:30,788 --> 00:17:33,891
+<i>The entire intelligence
+community is racing</i>
+
+230
+00:17:34,024 --> 00:17:35,458
+<i>to archive hard copies</i>
+
+231
+00:17:35,592 --> 00:17:37,594
+<i>of our fact-positive
+knowledge bases</i>
+
+232
+00:17:37,728 --> 00:17:39,629
+<i>before our most secure
+data centers</i>
+
+233
+00:17:39,764 --> 00:17:41,598
+<i>are breached and corrupted.</i>
+
+234
+00:17:41,732 --> 00:17:43,533
+<i>Which is only a matter of time.</i>
+
+235
+00:17:43,666 --> 00:17:47,370
+<i>The Entity will know precisely
+how to undermine our every strength</i>
+
+236
+00:17:47,504 --> 00:17:49,472
+<i>and exploit our every weakness.</i>
+
+237
+00:17:49,606 --> 00:17:52,243
+How to turn our allies
+into enemies
+
+238
+00:17:52,375 --> 00:17:55,378
+and our enemies into aggressors.
+
+239
+00:17:55,512 --> 00:17:58,015
+Why not air-gap
+our intelligence servers?
+
+240
+00:17:58,149 --> 00:18:00,683
+Cut them off from
+the outside world entirely?
+
+241
+00:18:00,818 --> 00:18:01,819
+We already have.
+
+242
+00:18:01,952 --> 00:18:05,089
+But servers require humans
+to maintain them.
+
+243
+00:18:05,222 --> 00:18:08,291
+And humans are the
+weakest link in any security chain,
+
+244
+00:18:08,424 --> 00:18:12,595
+especially when dealing with a Godless,
+stateless, amoral enemy.
+
+245
+00:18:12,730 --> 00:18:14,932
+One that has been
+patiently listening,
+
+246
+00:18:15,065 --> 00:18:16,533
+reading, watching.
+
+247
+00:18:16,666 --> 00:18:20,204
+Harvesting our deepest
+personal secrets for years.
+
+248
+00:18:20,336 --> 00:18:25,009
+Able to beguile, blackmail,
+bribe or be anyone it wants.
+
+249
+00:18:25,142 --> 00:18:28,746
+And to manipulate us at will
+through our total dependence
+
+250
+00:18:28,879 --> 00:18:31,949
+on a carefully constructed
+digital reality.
+
+251
+00:18:32,082 --> 00:18:34,051
+An enemy that is everywhere...
+
+252
+00:18:35,351 --> 00:18:37,188
+and nowhere...
+
+253
+00:18:37,320 --> 00:18:38,923
+and has no center.
+
+254
+00:18:43,260 --> 00:18:44,962
+All right,
+
+255
+00:18:45,095 --> 00:18:48,565
+so what you're telling me is the
+most awesome Goddamn intelligence
+
+256
+00:18:48,698 --> 00:18:51,101
+and tactical apparatus
+on the planet
+
+257
+00:18:51,235 --> 00:18:54,004
+has no way
+of killing this thing.
+
+258
+00:18:54,637 --> 00:18:56,807
+You don't want to kill it, Sir.
+
+259
+00:18:58,341 --> 00:18:59,676
+You want to control it.
+
+260
+00:18:59,810 --> 00:19:02,579
+And how do we do that,
+Mr. Kittridge?
+
+261
+00:19:03,814 --> 00:19:06,382
+The CIA's assets
+in the Kremlin informed us
+
+262
+00:19:06,516 --> 00:19:07,918
+that the Russians have focused
+
+263
+00:19:08,052 --> 00:19:10,855
+the majority of
+their intelligence activity
+
+264
+00:19:10,988 --> 00:19:14,691
+on acquiring two halves
+of a cruciform key.
+
+265
+00:19:15,425 --> 00:19:16,526
+And what does it unlock?
+
+266
+00:19:16,659 --> 00:19:18,595
+Not exactly sure.
+
+267
+00:19:18,729 --> 00:19:21,065
+But the Russians seem to
+believe that it somehow has
+
+268
+00:19:21,198 --> 00:19:24,235
+the power to deactivate
+our mysterious Entity.
+
+269
+00:19:24,367 --> 00:19:25,870
+Though, ideally...
+
+270
+00:19:27,004 --> 00:19:29,807
+they hope to control it,
+harness it.
+
+271
+00:19:29,940 --> 00:19:32,943
+Do you believe that, Kittridge?
+
+272
+00:19:33,077 --> 00:19:37,014
+What matters is that the rest
+of the world believes it.
+
+273
+00:19:37,147 --> 00:19:40,017
+Japan, India, Germany,
+and the Brits believe it,
+
+274
+00:19:40,150 --> 00:19:43,888
+and yet no one,
+not even our closest allies,
+
+275
+00:19:44,021 --> 00:19:46,824
+have willingly whispered
+one word of it to us.
+
+276
+00:19:46,957 --> 00:19:49,525
+Which would indicate that
+there's a global race on
+
+277
+00:19:49,659 --> 00:19:52,363
+to acquire the two halves
+of this key.
+
+278
+00:19:52,495 --> 00:19:54,697
+Every nation in it
+for themselves,
+
+279
+00:19:54,832 --> 00:19:57,700
+not to kill this thing, Sir,
+
+280
+00:19:58,501 --> 00:19:59,904
+but to weaponize it.
+
+281
+00:20:00,037 --> 00:20:01,238
+And in so doing,
+
+282
+00:20:01,372 --> 00:20:06,076
+establish a new, incontestable
+form of global dominance.
+
+283
+00:20:06,210 --> 00:20:07,912
+How do we find this key first?
+
+284
+00:20:08,045 --> 00:20:11,382
+Well, we know that a buyer is passing
+somewhere through the Middle East
+
+285
+00:20:11,514 --> 00:20:14,184
+sometime in the next 72 hours.
+
+286
+00:20:14,318 --> 00:20:17,553
+We believe that he already has
+one half of this key.
+
+287
+00:20:17,687 --> 00:20:19,522
+- You believe.
+- At this point,
+
+288
+00:20:19,656 --> 00:20:21,125
+we can't be certain
+it's not a counterfeit.
+
+289
+00:20:21,258 --> 00:20:22,860
+How would you verify that?
+
+290
+00:20:22,993 --> 00:20:25,763
+The only thing that can authenticate
+one genuine half of the key
+
+291
+00:20:25,896 --> 00:20:28,198
+is the other genuine half
+of the key.
+
+292
+00:20:28,332 --> 00:20:29,499
+Its true mate, if you will.
+
+293
+00:20:29,632 --> 00:20:31,567
+We think
+it's some sort of fail-safe.
+
+294
+00:20:31,701 --> 00:20:33,003
+How do we find its mate?
+
+295
+00:20:33,137 --> 00:20:36,439
+Well, we believe the other
+genuine half of the key
+
+296
+00:20:36,572 --> 00:20:38,108
+was in the hands of this woman.
+
+297
+00:20:39,043 --> 00:20:40,110
+Who is she?
+
+298
+00:20:40,244 --> 00:20:41,511
+<i>Ilsa Faust.</i>
+
+299
+00:20:41,644 --> 00:20:43,180
+<i>Former British Intelligence.</i>
+
+300
+00:20:43,314 --> 00:20:44,148
+Where is she now?
+
+301
+00:20:44,281 --> 00:20:45,783
+She's dead, Sir.
+
+302
+00:20:45,916 --> 00:20:47,785
+She was..
+Excuse me..
+
+303
+00:20:47,918 --> 00:20:51,454
+<i>Killed by mercenaries
+looking to collect a bounty.</i>
+
+304
+00:20:51,587 --> 00:20:52,856
+And who put up the bounty?
+
+305
+00:20:52,990 --> 00:20:55,359
+Given her body of work,
+could have been anyone.
+
+306
+00:20:55,491 --> 00:20:57,728
+So anyone could have
+her half of the key?
+
+307
+00:20:58,295 --> 00:21:00,097
+Hmm, not just anyone.
+
+308
+00:21:01,231 --> 00:21:02,967
+I sent a man to find her,
+
+309
+00:21:03,100 --> 00:21:05,169
+the only man
+she would have entrusted
+
+310
+00:21:05,302 --> 00:21:06,236
+with her half of the key.
+
+311
+00:21:06,370 --> 00:21:07,938
+Does he have it, Kittridge?
+
+312
+00:21:08,072 --> 00:21:09,639
+Well, at present,
+I don't know that, Sir.
+
+313
+00:21:09,773 --> 00:21:12,176
+He's refused to come in.
+
+314
+00:21:12,309 --> 00:21:14,577
+- Refused?
+- Hmm.
+
+315
+00:21:15,212 --> 00:21:16,280
+Who the hell is this guy?
+
+316
+00:21:16,413 --> 00:21:17,781
+That's classified.
+
+317
+00:21:17,915 --> 00:21:20,918
+I'm the Goddamn Director
+of National Intelligence.
+
+318
+00:21:21,051 --> 00:21:23,153
+What exactly is it
+I'm not supposed to know about?
+
+319
+00:21:23,287 --> 00:21:24,888
+The IMF.
+Mr. Kittridge.
+
+320
+00:21:25,022 --> 00:21:27,291
+The world bank. No,
+that's the International Monetary Fund.
+
+321
+00:21:27,424 --> 00:21:28,425
+Mr. Kittridge.
+
+322
+00:21:28,558 --> 00:21:30,794
+No,
+I mean the other IMF. Ours.
+
+323
+00:21:30,928 --> 00:21:32,730
+What does it stand for?
+
+324
+00:21:33,496 --> 00:21:35,165
+Impossible Mission Force.
+
+325
+00:21:36,367 --> 00:21:37,301
+You're not serious.
+
+326
+00:21:37,434 --> 00:21:39,236
+I'm afraid he is.
+
+327
+00:21:39,370 --> 00:21:41,005
+And what do they do exactly?
+
+328
+00:21:41,138 --> 00:21:44,074
+It's just as the name implies.
+Whatever the rest of us can't.
+
+329
+00:21:44,208 --> 00:21:46,509
+And who is in charge?
+They're not ones to take orders
+
+330
+00:21:46,642 --> 00:21:47,643
+in the traditional sense.
+
+331
+00:21:47,778 --> 00:21:49,545
+We more or less...
+
+332
+00:21:51,514 --> 00:21:52,750
+leave word.
+
+333
+00:21:54,151 --> 00:21:55,986
+Leave... word.
+
+334
+00:21:56,120 --> 00:21:57,488
+Mr. Kittridge, Sir.
+
+335
+00:21:57,620 --> 00:21:58,989
+The IMF operates
+outside the community
+
+336
+00:21:59,123 --> 00:22:01,191
+and answers directly
+to the president.
+
+337
+00:22:01,325 --> 00:22:02,692
+So let me get this straight.
+
+338
+00:22:02,826 --> 00:22:05,796
+When there's a mission
+none of you can handle...
+
+339
+00:22:06,830 --> 00:22:10,434
+you just leave word
+for a nameless man
+
+340
+00:22:11,101 --> 00:22:13,536
+and hope he gets the job done.
+
+341
+00:22:13,669 --> 00:22:14,637
+Is that it?
+
+342
+00:22:14,772 --> 00:22:17,673
+Should he choose to accept it.
+
+343
+00:22:17,808 --> 00:22:19,076
+What the hell kind of outfit
+
+344
+00:22:19,209 --> 00:22:21,378
+gets to choose
+what orders to accept?
+
+345
+00:22:21,512 --> 00:22:22,946
+The IMF was expressly created
+
+346
+00:22:23,080 --> 00:22:26,817
+to ensure there would be
+no unintended consequences.
+
+347
+00:22:26,950 --> 00:22:29,953
+If they cannot ensure
+a mission's ultimate outcome,
+
+348
+00:22:30,087 --> 00:22:32,056
+they're authorized to decline.
+
+349
+00:23:24,108 --> 00:23:25,275
+I understand.
+
+350
+00:23:26,343 --> 00:23:27,344
+You're upset.
+
+351
+00:23:28,045 --> 00:23:29,880
+I'm not upset, Kittridge.
+
+352
+00:23:31,448 --> 00:23:32,950
+You wanted me to listen.
+
+353
+00:23:35,385 --> 00:23:37,154
+This is me listening.
+
+354
+00:23:38,688 --> 00:23:40,023
+All right.
+
+355
+00:23:40,157 --> 00:23:41,859
+I put the bounty on Ilsa's head.
+
+356
+00:23:41,992 --> 00:23:44,328
+I also told you how to find her!
+
+357
+00:23:45,195 --> 00:23:46,696
+I didn't ask her
+to steal the key.
+
+358
+00:23:46,830 --> 00:23:50,100
+She did that for reasons
+of her own. But...
+
+359
+00:23:50,234 --> 00:23:53,636
+that's the pattern, isn't it?
+
+360
+00:23:55,139 --> 00:23:56,440
+You get her out of trouble,
+
+361
+00:23:56,573 --> 00:24:00,010
+and she always
+found her way back in.
+
+362
+00:24:09,720 --> 00:24:11,955
+Wait! Ilsa!
+
+363
+00:24:12,089 --> 00:24:14,690
+Ilsa, wait! It's me!
+What?
+
+364
+00:24:14,825 --> 00:24:16,026
+It's me.
+
+365
+00:24:22,766 --> 00:24:24,001
+It's okay.
+
+366
+00:24:57,267 --> 00:25:00,437
+Listen to me! You're dead!
+You stay dead!
+
+367
+00:25:01,205 --> 00:25:02,706
+Ethan, wait!
+
+368
+00:25:07,044 --> 00:25:09,413
+I'm not going to apologize
+to you, Hunt.
+
+369
+00:25:09,546 --> 00:25:11,715
+It's my job to use you.
+
+370
+00:25:11,848 --> 00:25:14,418
+Just like it's your job
+to be of use.
+
+371
+00:25:14,551 --> 00:25:18,388
+Did you accomplish your
+mission or not?
+
+372
+00:25:22,826 --> 00:25:25,495
+Wherever
+the other half of this is,
+
+373
+00:25:25,629 --> 00:25:28,799
+whatever
+the completed key unlocks,
+
+374
+00:25:28,932 --> 00:25:30,400
+I will find it.
+
+375
+00:25:31,868 --> 00:25:33,270
+And then what?
+
+376
+00:25:33,403 --> 00:25:37,507
+No one should be trusted
+with control of the Entity.
+
+377
+00:25:38,542 --> 00:25:39,743
+I mean to kill it.
+
+378
+00:25:39,876 --> 00:25:41,144
+Ethan,
+
+379
+00:25:41,278 --> 00:25:43,513
+the next world war
+isn't gonna be a cold one.
+
+380
+00:25:43,647 --> 00:25:45,315
+It's gonna be a shooting war,
+
+381
+00:25:45,449 --> 00:25:48,385
+it's gonna be a ballistic war over
+a rapidly shrinking ecosystem.
+
+382
+00:25:48,518 --> 00:25:51,555
+It's gonna be a war for the
+last of our dwindling energy,
+
+383
+00:25:51,688 --> 00:25:54,057
+drinkable water, breathable air.
+
+384
+00:25:54,191 --> 00:25:58,395
+Whoever controls the Entity
+controls the truth.
+
+385
+00:25:59,763 --> 00:26:01,665
+The concepts of right and wrong
+
+386
+00:26:01,798 --> 00:26:06,336
+can be clearly defined for
+everyone for centuries to come.
+
+387
+00:26:06,470 --> 00:26:08,005
+Do you even hear yourself?
+
+388
+00:26:08,138 --> 00:26:13,277
+Your days of fighting
+for the so-called greater good
+
+389
+00:26:14,378 --> 00:26:15,846
+are over.
+
+390
+00:26:16,446 --> 00:26:18,248
+You need to pick a side.
+
+391
+00:26:19,149 --> 00:26:21,551
+I'm on the same side
+I've always been on.
+
+392
+00:26:23,387 --> 00:26:25,155
+Stay out of my way.
+
+393
+00:26:25,822 --> 00:26:27,257
+I can't do that.
+
+394
+00:26:28,458 --> 00:26:30,093
+We're gonna be coming after you.
+
+395
+00:26:30,227 --> 00:26:32,329
+The world's gonna be
+coming after you.
+
+396
+00:26:32,462 --> 00:26:36,300
+And one way or another,
+this mission of yours.
+
+397
+00:26:36,433 --> 00:26:40,570
+Is gonna cost you dearly.
+
+398
+00:26:49,413 --> 00:26:51,783
+If I don't get that,
+we're gonna have company real soon.
+
+399
+00:27:09,566 --> 00:27:10,600
+Hello?
+
+400
+00:27:10,735 --> 00:27:12,135
+<i>Director Denlinger, please.</i>
+
+401
+00:27:13,003 --> 00:27:15,238
+Uh, Director is unavailable
+at the moment.
+
+402
+00:27:15,372 --> 00:27:17,107
+How can I help you?
+<i>To whom am I speaking?</i>
+
+403
+00:27:17,240 --> 00:27:19,609
+CIA Director Eugene Kittridge.
+
+404
+00:27:19,744 --> 00:27:20,812
+<i>Designator?</i>
+
+405
+00:27:20,944 --> 00:27:22,446
+"Bassnote," lowercase,
+all one word.
+
+406
+00:27:22,579 --> 00:27:24,716
+<i>Sir, we have a situation.</i>
+
+407
+00:27:24,848 --> 00:27:25,916
+No kidding.
+
+408
+00:27:26,049 --> 00:27:28,085
+<i>Your adjutant was
+found unconscious</i>
+
+409
+00:27:28,218 --> 00:27:29,754
+<i>in his home ten minutes ago.</i>
+
+410
+00:27:29,886 --> 00:27:31,254
+<i>It appears he was drugged.</i>
+
+411
+00:27:31,388 --> 00:27:32,824
+I understand.
+
+412
+00:27:32,956 --> 00:27:34,091
+<i>I don't think you do, Sir.</i>
+
+413
+00:27:34,224 --> 00:27:36,426
+<i>Security has him
+entering this facility</i>
+
+414
+00:27:36,560 --> 00:27:39,162
+<i>fifteen minutes ago.</i>
+I understand, thank you.
+
+415
+00:27:39,296 --> 00:27:41,799
+<i>Are you able to speak freely?</i>
+
+416
+00:27:41,932 --> 00:27:43,066
+No, thank you.
+
+417
+00:27:43,200 --> 00:27:44,736
+<i>A security team is on their way.</i>
+
+418
+00:27:44,868 --> 00:27:46,738
+<i>If you're in any danger,
+simply hang up the phone</i>
+
+419
+00:27:46,870 --> 00:27:48,004
+<i>before I count to five.</i>
+
+420
+00:27:48,138 --> 00:27:49,841
+<i>One, two..</i>
+
+421
+00:27:53,377 --> 00:27:56,980
+So just how do you plan
+on getting out of here?
+
+422
+00:28:01,985 --> 00:28:03,520
+Of course.
+
+423
+00:29:13,023 --> 00:29:14,491
+<i>Listen up.</i>
+
+424
+00:29:14,624 --> 00:29:17,194
+<i>An American operative with
+a grievance against his country</i>
+
+425
+00:29:17,327 --> 00:29:19,596
+<i>is missing
+and has malfunctioned.</i>
+
+426
+00:29:19,730 --> 00:29:22,800
+His agenda represents a
+threat to our national interests,
+
+427
+00:29:22,934 --> 00:29:25,235
+and he must be neutralized
+at all cost.
+
+428
+00:29:25,368 --> 00:29:27,204
+Anything in
+this man's possession
+
+429
+00:29:27,337 --> 00:29:30,741
+is of vital importance
+and must be captured intact.
+
+430
+00:29:30,875 --> 00:29:35,813
+The man himself is expendable.
+He is not to be underestimated.
+
+431
+00:29:35,947 --> 00:29:38,181
+A master of infiltration,
+deception,
+
+432
+00:29:38,315 --> 00:29:40,350
+sabotage and psych warfare.
+
+433
+00:29:40,484 --> 00:29:43,086
+For all intents and purposes,
+ladies and gentlemen,
+
+434
+00:29:43,220 --> 00:29:46,022
+a mind-reading, shape-shifting
+incarnation of chaos.
+
+435
+00:29:46,156 --> 00:29:48,191
+So, for your safety
+
+436
+00:29:48,325 --> 00:29:50,694
+and the safety
+of those around you,
+
+437
+00:29:50,828 --> 00:29:52,395
+do not consider him secure
+
+438
+00:29:52,529 --> 00:29:56,433
+unless you have driven a wooden
+stake through his open heart.
+
+439
+00:29:57,167 --> 00:29:59,069
+<i>This is not a drill.</i>
+
+440
+00:30:00,872 --> 00:30:03,975
+A self-aware, self-learning,
+
+441
+00:30:04,107 --> 00:30:06,676
+truth-eating digital parasite
+
+442
+00:30:07,812 --> 00:30:09,814
+infesting all of cyberspace.
+
+443
+00:30:10,781 --> 00:30:13,483
+Well, it was bound
+to happen sooner or later.
+
+444
+00:30:13,617 --> 00:30:16,219
+And the two halves
+of this key just might provide
+
+445
+00:30:16,353 --> 00:30:19,456
+the means of
+controlling this Entity.
+
+446
+00:30:19,589 --> 00:30:22,192
+Meaning every government
+on the planet would kill us
+
+447
+00:30:22,325 --> 00:30:23,861
+just to get that key.
+
+448
+00:30:23,995 --> 00:30:24,929
+Including our own.
+
+449
+00:30:25,061 --> 00:30:26,129
+Exactly.
+
+450
+00:30:26,263 --> 00:30:28,164
+Putting us
+on an unsanctioned mission
+
+451
+00:30:28,298 --> 00:30:30,902
+which has gone rogue
+before it even started.
+
+452
+00:30:31,034 --> 00:30:33,436
+Meaning this very conversation
+
+453
+00:30:33,570 --> 00:30:35,907
+is technically
+an act of treason.
+
+454
+00:30:36,039 --> 00:30:39,476
+Or as we like to call it,
+Monday.
+
+455
+00:30:41,278 --> 00:30:42,612
+So what's the play?
+
+456
+00:30:42,747 --> 00:30:45,248
+A buyer's coming in
+on Flight 746 from Amsterdam
+
+457
+00:30:45,382 --> 00:30:46,918
+for a 30-minute layover
+
+458
+00:30:47,050 --> 00:30:49,954
+at which time he is hoping to
+purchase that half of the key.
+
+459
+00:30:50,086 --> 00:30:51,822
+And it stands to reason
+
+460
+00:30:51,956 --> 00:30:54,591
+the buyer will have the other half of
+the key somewhere on their person.
+
+461
+00:30:54,725 --> 00:30:57,795
+Being the only way
+to authenticate our half.
+
+462
+00:30:57,929 --> 00:30:59,563
+So how do we identify the buyer?
+
+463
+00:30:59,696 --> 00:31:02,599
+This Geiger counter will detect
+a radiological signature
+
+464
+00:31:02,733 --> 00:31:05,036
+of the dragon's egg
+embedded in the buyer's key.
+
+465
+00:31:05,168 --> 00:31:08,039
+The augmented-reality overlay
+in these glasses
+
+466
+00:31:08,171 --> 00:31:09,740
+will lead us to it.
+
+467
+00:31:11,474 --> 00:31:12,642
+Oh, that's very clever.
+
+468
+00:31:12,777 --> 00:31:16,212
+So, you ID the buyer,
+pick his pockets,
+
+469
+00:31:16,346 --> 00:31:17,748
+Bob's your uncle.
+No.
+
+470
+00:31:17,882 --> 00:31:19,449
+No. Of course not.
+
+471
+00:31:19,583 --> 00:31:21,084
+The complete key is of no value
+
+472
+00:31:21,217 --> 00:31:22,385
+if we don't know
+what it unlocks.
+
+473
+00:31:22,519 --> 00:31:25,056
+So you're going
+to sell the buyer
+
+474
+00:31:25,188 --> 00:31:26,556
+our half of the key.
+
+475
+00:31:26,690 --> 00:31:28,960
+While we figure out
+the buyer's connecting flight
+
+476
+00:31:29,092 --> 00:31:30,795
+and book you a seat
+on that plane.
+
+477
+00:31:30,928 --> 00:31:33,998
+So you can follow the key
+wherever it goes.
+
+478
+00:31:34,130 --> 00:31:35,565
+Which you hope is into the hands
+
+479
+00:31:35,699 --> 00:31:37,167
+of someone who knows
+what it unlocks.
+
+480
+00:31:37,300 --> 00:31:38,234
+Precisely.
+
+481
+00:31:38,368 --> 00:31:40,537
+Finding the completed key
+
+482
+00:31:41,404 --> 00:31:42,572
+is only the beginning.
+
+483
+00:31:42,707 --> 00:31:45,342
+The fate of the world
+depends on finding
+
+484
+00:31:45,475 --> 00:31:48,111
+whatever it unlocks.
+
+485
+00:31:51,448 --> 00:31:53,650
+This guy, you know him?
+
+486
+00:31:55,019 --> 00:31:56,319
+Not personally.
+
+487
+00:31:56,453 --> 00:31:58,421
+But it is personal.
+
+488
+00:32:28,786 --> 00:32:29,887
+Thank you.
+
+489
+00:32:36,393 --> 00:32:37,728
+Hey, what's that?
+What?
+
+490
+00:32:37,862 --> 00:32:41,297
+Security alert. Suspicious bag
+on its way to Venice.
+
+491
+00:32:41,431 --> 00:32:43,299
+Nope, it's gone.
+Must have been a false alarm.
+
+492
+00:32:51,876 --> 00:32:54,377
+Overwatch, Snap Shot.
+Where's he at?
+
+493
+00:32:58,115 --> 00:32:59,649
+Snap Shot, Overwatch.
+I have him.
+
+494
+00:32:59,784 --> 00:33:02,519
+Terminal B, Gate 15,
+headed south.
+
+495
+00:33:05,056 --> 00:33:06,556
+I am so.
+You are not.
+
+496
+00:33:06,690 --> 00:33:10,460
+Ethan, would you care to explain
+to our friend the Net Ranger
+
+497
+00:33:10,593 --> 00:33:12,763
+<i>how I am just as capable
+of writing code as he is?</i>
+
+498
+00:33:12,897 --> 00:33:13,764
+No comment.
+
+499
+00:33:13,898 --> 00:33:15,565
+What, you figure
+Phineas Phreak here
+
+500
+00:33:15,699 --> 00:33:17,634
+is gonna single-handedly
+work out a way to kill the Entity
+
+501
+00:33:17,768 --> 00:33:19,870
+<i>while I just hold
+his soldering iron?</i>
+
+502
+00:33:20,004 --> 00:33:21,806
+Probably.
+Definitely.
+
+503
+00:33:22,707 --> 00:33:24,842
+Out of the way!
+
+504
+00:33:25,375 --> 00:33:26,342
+Tell me where he is.
+
+505
+00:33:26,476 --> 00:33:28,112
+<i>Where is he?</i>
+Blue suit.
+
+506
+00:33:28,244 --> 00:33:29,880
+Right in front of you.
+
+507
+00:33:40,191 --> 00:33:43,928
+Oh!
+
+508
+00:33:51,936 --> 00:33:54,138
+Oh! Ah! Ow!
+
+509
+00:33:54,270 --> 00:33:56,140
+It's not him.
+
+510
+00:33:56,272 --> 00:33:57,307
+It's him.
+
+511
+00:33:57,440 --> 00:33:58,341
+<i>I'm telling you, it's not him.</i>
+
+512
+00:33:58,475 --> 00:33:59,542
+And I'm telling you
+
+513
+00:33:59,676 --> 00:34:01,712
+facial comes back
+with a perfect...
+
+514
+00:34:05,615 --> 00:34:06,884
+How did you do that?
+
+515
+00:34:07,017 --> 00:34:10,020
+No one is safe
+from Phineas Phreak.
+
+516
+00:34:17,527 --> 00:34:18,729
+I got him.
+
+517
+00:34:18,863 --> 00:34:21,198
+<i>Where is he?</i>
+Terminal E, Gate 5.
+
+518
+00:34:21,331 --> 00:34:24,201
+Goddamn it, that's clear on
+the other side of the airport.
+
+519
+00:34:27,004 --> 00:34:29,405
+<i>Ethan,
+they're headed to Terminal E.</i>
+
+520
+00:34:29,539 --> 00:34:32,375
+<i>That side of the airport
+is all yours.</i>
+
+521
+00:34:33,077 --> 00:34:34,011
+Thank you, Luther.
+
+522
+00:34:34,145 --> 00:34:35,345
+I see the buyer.
+<i>Got him.</i>
+
+523
+00:34:35,478 --> 00:34:38,348
+The buyer is Otto Von Bork.
+Swiss national.
+
+524
+00:34:38,481 --> 00:34:39,750
+<i>He's connecting to Venice,</i>
+
+525
+00:34:39,884 --> 00:34:42,720
+<i>departing in 30 minutes
+on Flight 1031.</i>
+
+526
+00:34:42,853 --> 00:34:44,755
+Benji, get me
+on that flight to Venice.
+
+527
+00:34:44,889 --> 00:34:47,725
+Yep, Flight 1031 to Venice.
+Stand by.
+
+528
+00:34:58,668 --> 00:34:59,636
+What?
+
+529
+00:34:59,770 --> 00:35:01,638
+<i>Ethan, what just happened?</i>
+
+530
+00:35:01,772 --> 00:35:03,306
+He was bumped.
+<i>Bumped?</i>
+
+531
+00:35:03,439 --> 00:35:04,574
+What do you mean, bumped?
+
+532
+00:35:04,708 --> 00:35:06,811
+<i>That woman picked his pocket.
+Tag her.</i>
+
+533
+00:35:06,944 --> 00:35:08,311
+Tell me who she is.
+
+534
+00:35:17,021 --> 00:35:18,289
+Luther, mute our comms.
+
+535
+00:35:18,421 --> 00:35:19,622
+What is it?
+
+536
+00:35:19,757 --> 00:35:21,225
+That bag was on its way
+to Flight 1031.
+
+537
+00:35:21,391 --> 00:35:22,760
+What bag?
+
+538
+00:35:22,893 --> 00:35:25,129
+There was a suspicious bag alert,
+a few minutes ago.
+
+539
+00:35:25,262 --> 00:35:26,297
+So what about it?
+
+540
+00:35:26,429 --> 00:35:27,832
+It was on its way
+to Flight 1031.
+
+541
+00:35:27,965 --> 00:35:30,201
+To Venice.
+It's the buyer's plane.
+
+542
+00:35:30,333 --> 00:35:31,334
+It's Ethan's plane.
+
+543
+00:35:31,467 --> 00:35:33,703
+Luther, do you copy? Who is she?
+
+544
+00:35:33,838 --> 00:35:35,405
+What if it wasn't a false alarm?
+
+545
+00:35:35,538 --> 00:35:37,574
+What if somebody's trying to
+smuggle a bomb onto that plane?
+
+546
+00:35:37,708 --> 00:35:39,676
+And what if that's what
+the Entity wants us to think
+
+547
+00:35:39,810 --> 00:35:41,444
+to keep Ethan off that plane?
+
+548
+00:35:41,578 --> 00:35:43,479
+<i>Luther,
+what's happening?</i> Should we warn him?
+
+549
+00:35:43,613 --> 00:35:46,250
+No. <i>Guys, guys? Do you hear me?</i>
+
+550
+00:35:46,382 --> 00:35:47,318
+Find that bag.
+
+551
+00:35:47,450 --> 00:35:48,919
+I'll direct you. Go.
+
+552
+00:35:49,053 --> 00:35:51,387
+<i>Luther, just tell me,
+is there something wrong?</i>
+
+553
+00:35:51,521 --> 00:35:54,892
+Nothing to worry about.
+It's under control.
+
+554
+00:35:55,025 --> 00:35:55,793
+Got her.
+
+555
+00:35:55,926 --> 00:35:58,762
+Info on the woman is coming now.
+
+556
+00:36:00,430 --> 00:36:01,598
+<i>Whoa.</i>
+
+557
+00:36:01,732 --> 00:36:05,401
+<i>Whoever she is, she's no spy.</i>
+
+558
+00:36:05,535 --> 00:36:07,470
+She's a thief.
+
+559
+00:36:07,604 --> 00:36:08,906
+<i>Where am I going, Luther?</i>
+
+560
+00:36:09,039 --> 00:36:11,342
+Benji, there's a door
+on your immediate left.
+
+561
+00:36:11,876 --> 00:36:13,676
+<i>I'm unlocking it now.</i>
+
+562
+00:36:17,147 --> 00:36:20,251
+The bag you're after
+is on tray 01833
+
+563
+00:36:20,383 --> 00:36:23,386
+<i>heading towards the northwest
+corner of the facility.</i>
+
+564
+00:36:23,519 --> 00:36:24,855
+Copy that!
+
+565
+00:36:35,866 --> 00:36:36,901
+Hi.
+
+566
+00:36:39,036 --> 00:36:40,470
+Hello.
+
+567
+00:36:44,308 --> 00:36:45,575
+Oh, I get it.
+
+568
+00:36:46,442 --> 00:36:48,112
+You thought I was someone else.
+
+569
+00:36:50,446 --> 00:36:51,749
+I'm not interested.
+
+570
+00:36:53,183 --> 00:36:54,617
+Give me a chance.
+
+571
+00:36:55,252 --> 00:36:56,486
+I'll scream.
+
+572
+00:36:58,155 --> 00:36:59,256
+Please do.
+
+573
+00:37:02,425 --> 00:37:03,894
+What do you want?
+
+574
+00:37:05,062 --> 00:37:06,096
+This key.
+
+575
+00:37:07,898 --> 00:37:10,267
+The one you picked
+from that man's pocket.
+
+576
+00:37:10,401 --> 00:37:11,902
+It's worthless
+
+577
+00:37:12,036 --> 00:37:13,070
+without this key.
+
+578
+00:37:15,272 --> 00:37:16,707
+But together
+
+579
+00:37:16,840 --> 00:37:18,541
+they're worth four million
+in cryptocurrency
+
+580
+00:37:18,675 --> 00:37:20,677
+that man was carrying
+on a flash drive.
+
+581
+00:37:22,545 --> 00:37:24,081
+Well, I wouldn't know
+anything about that.
+
+582
+00:37:24,214 --> 00:37:26,116
+Then why was this drive
+in your pocket?
+
+583
+00:37:27,617 --> 00:37:29,353
+Who are you?
+
+584
+00:37:29,485 --> 00:37:30,687
+You working with someone?
+
+585
+00:37:31,722 --> 00:37:34,191
+Never.
+I'm strictly single-0.
+
+586
+00:37:34,325 --> 00:37:35,359
+Today you got a partner.
+
+587
+00:37:35,525 --> 00:37:37,261
+I need the man
+you stole this from
+
+588
+00:37:37,394 --> 00:37:38,528
+to complete a transaction
+
+589
+00:37:38,661 --> 00:37:40,130
+and leave this airport
+with both of these
+
+590
+00:37:40,264 --> 00:37:41,799
+without ever knowing
+his pocket was picked
+
+591
+00:37:41,932 --> 00:37:43,400
+and before he boards
+his flight in...
+
+592
+00:37:43,533 --> 00:37:46,003
+<i>Seven minutes.</i>
+Seven minutes.
+
+593
+00:37:46,837 --> 00:37:49,039
+We both know
+you're a good pickpocket.
+
+594
+00:37:49,173 --> 00:37:51,541
+Let's see what kind
+of put-pocket you are.
+
+595
+00:37:53,010 --> 00:37:55,645
+You expect me to put it back.
+
+596
+00:37:55,779 --> 00:37:57,948
+Oh, I know you will.
+
+597
+00:37:58,082 --> 00:37:59,116
+You're a thief.
+
+598
+00:37:59,249 --> 00:38:01,752
+You want the money.
+And I can give it to you.
+
+599
+00:38:03,053 --> 00:38:04,221
+Your choice.
+
+600
+00:38:05,322 --> 00:38:06,924
+You're in or you're out.
+
+601
+00:38:09,226 --> 00:38:10,526
+All right.
+
+602
+00:38:10,660 --> 00:38:12,062
+So what's the play?
+
+603
+00:38:12,196 --> 00:38:14,064
+<i>I sure hope
+you know what you're doing.</i>
+
+604
+00:38:14,564 --> 00:38:15,899
+After you.
+
+605
+00:38:17,768 --> 00:38:20,337
+Oh, I won't be needing this.
+
+606
+00:38:20,471 --> 00:38:22,139
+I don't smoke.
+
+607
+00:38:23,207 --> 00:38:26,043
+Keep it.
+Something to remember me by.
+
+608
+00:38:31,315 --> 00:38:35,719
+Ethan, the alloy in that key she
+took off the buyer doesn't match.
+
+609
+00:38:35,853 --> 00:38:36,787
+It's counterfeit.
+
+610
+00:38:36,920 --> 00:38:38,521
+I expect nothing less.
+
+611
+00:38:38,654 --> 00:38:40,090
+<i>But that doesn't change
+our objective.</i>
+
+612
+00:38:40,224 --> 00:38:41,792
+<i>The buyer has to leave
+with both keys.</i>
+
+613
+00:38:41,925 --> 00:38:43,693
+<i>Talk to me, Luther!
+Where am I going?</i>
+
+614
+00:38:43,827 --> 00:38:45,695
+Benji, head down the stairs
+in front of you
+
+615
+00:38:45,829 --> 00:38:47,297
+and the bag should be
+right there.
+
+616
+00:38:47,431 --> 00:38:49,066
+Okay. I'm there. I'm there.
+
+617
+00:38:50,501 --> 00:38:51,802
+Uh...
+
+618
+00:38:54,371 --> 00:38:55,506
+That's him.
+
+619
+00:38:55,638 --> 00:38:57,107
+<i>Right in front of you.</i>
+
+620
+00:38:58,809 --> 00:39:01,912
+Okay, okay. Hey, sorry.
+Thought you were somebody else.
+
+621
+00:39:03,814 --> 00:39:05,816
+Hunt's jerking our chain.
+
+622
+00:39:06,582 --> 00:39:09,086
+Everybody!
+Two-man teams, spread out.
+
+623
+00:39:09,219 --> 00:39:12,122
+Ethan, our American friends
+are getting wise.
+
+624
+00:39:12,256 --> 00:39:13,824
+They're breaking up
+and canvassing the airport.
+
+625
+00:39:13,957 --> 00:39:15,426
+<i>Keep your eyes peeled.</i>
+
+626
+00:39:15,591 --> 00:39:17,294
+So, what do I call you?
+
+627
+00:39:17,428 --> 00:39:19,629
+How about Grace?
+And you?
+
+628
+00:39:19,763 --> 00:39:21,365
+Well, listen, Grace.
+
+629
+00:39:21,498 --> 00:39:23,467
+You should know we're not
+the only interested party.
+
+630
+00:39:23,599 --> 00:39:25,369
+If I tell you to run, you run.
+
+631
+00:39:25,502 --> 00:39:26,904
+Run?
+
+632
+00:39:27,037 --> 00:39:28,505
+This is getting exciting.
+
+633
+00:39:29,106 --> 00:39:30,606
+Benji, have you got that bag?
+
+634
+00:39:30,741 --> 00:39:32,009
+I found it!
+
+635
+00:39:45,722 --> 00:39:48,459
+There's a cylindrical device
+inside.
+
+636
+00:39:48,624 --> 00:39:49,927
+<i>I'm gonna take it out.</i>
+
+637
+00:39:53,931 --> 00:39:55,299
+<i>How we doing, Luther?</i>
+
+638
+00:39:55,432 --> 00:39:57,868
+Ethan, the buyer's in
+the waiting area above you.
+
+639
+00:39:58,001 --> 00:40:00,104
+<i>Top of the escalator.</i>
+
+640
+00:40:01,438 --> 00:40:03,373
+<i>All units are headed
+in your direction.</i>
+
+641
+00:40:03,507 --> 00:40:05,542
+<i>Your location is going to be
+crawling with agents</i>
+
+642
+00:40:05,675 --> 00:40:07,177
+<i>any time now.</i>
+
+643
+00:40:16,320 --> 00:40:18,355
+Whatever it is,
+I've just activated it.
+
+644
+00:40:19,790 --> 00:40:23,727
+Uh,
+looks like we have five minutes.
+
+645
+00:40:25,062 --> 00:40:27,131
+<i>Also, it appears to be nuclear.</i>
+How big?
+
+646
+00:40:27,264 --> 00:40:29,800
+Big enough to matter to
+everybody in this airport, I suspect.
+
+647
+00:40:29,933 --> 00:40:31,802
+Can you disarm it?
+I haven't got any tools!
+
+648
+00:40:31,935 --> 00:40:34,338
+<i>Then find some.</i>
+Where am I gonna find..
+
+649
+00:40:58,462 --> 00:41:00,097
+Is this where we run?
+
+650
+00:41:00,597 --> 00:41:01,632
+Not yet.
+
+651
+00:41:02,432 --> 00:41:04,368
+Benji, how are you doing
+with that bomb?
+
+652
+00:41:04,501 --> 00:41:05,736
+Come on, come on.
+
+653
+00:41:06,702 --> 00:41:08,071
+I got it!
+
+654
+00:41:08,205 --> 00:41:12,242
+It's a cylinder cypher.
+There's eight wheels.
+
+655
+00:41:12,376 --> 00:41:14,677
+Looks like 14 letters
+on each wheel.
+
+656
+00:41:14,811 --> 00:41:17,381
+1.5 billion
+possible combinations.
+
+657
+00:41:17,514 --> 00:41:19,016
+Give or take.
+
+658
+00:41:20,184 --> 00:41:21,285
+Oh, my God.
+
+659
+00:41:21,418 --> 00:41:22,719
+<i>What now?</i>
+
+660
+00:41:22,853 --> 00:41:25,422
+The wheels,
+they spell out a message.
+
+661
+00:41:25,556 --> 00:41:26,957
+U.R.DUNN.
+
+662
+00:41:27,090 --> 00:41:28,725
+No way. Not yet we aren't.
+
+663
+00:41:28,859 --> 00:41:30,661
+No, Luther, not D-O-N-E.
+
+664
+00:41:30,794 --> 00:41:33,263
+D-U-N-N.
+
+665
+00:41:33,397 --> 00:41:35,299
+It's my last name.
+
+666
+00:41:39,403 --> 00:41:40,703
+It knows who I am.
+
+667
+00:41:53,517 --> 00:41:55,352
+Hold on. There's a message
+on the display.
+
+668
+00:41:55,485 --> 00:41:57,187
+<i>"I speak without a mouth."</i>
+
+669
+00:41:57,321 --> 00:41:59,790
+I fly through the air
+without wings.
+
+670
+00:41:59,923 --> 00:42:01,391
+What am I?"
+You got me. What?
+
+671
+00:42:01,525 --> 00:42:04,027
+It's a riddle. I suspect
+this thing is voice-activated.
+
+672
+00:42:04,161 --> 00:42:05,429
+It wants me to say the answer.
+
+673
+00:42:05,562 --> 00:42:07,297
+"I fly through the air..."
+
+674
+00:42:08,365 --> 00:42:09,399
+An echo!
+
+675
+00:42:09,533 --> 00:42:11,235
+That's it! That's it!
+
+676
+00:42:11,368 --> 00:42:12,569
+Okay, new message.
+
+677
+00:42:12,703 --> 00:42:15,105
+"Are you afraid of death?"
+
+678
+00:42:15,239 --> 00:42:17,541
+What kind of a riddle is that?
+<i>It's not a riddle.</i>
+
+679
+00:42:17,674 --> 00:42:19,543
+It's a psychometric test.
+
+680
+00:42:19,676 --> 00:42:23,547
+The more questions you answer,
+the more it'll know about you.
+
+681
+00:42:23,680 --> 00:42:25,849
+"Are you afraid of death?"
+No!
+
+682
+00:42:27,251 --> 00:42:29,786
+<i>Did it work?</i>
+I lied. It knows.
+
+683
+00:42:29,920 --> 00:42:32,055
+Just tell it the truth. Say it.
+
+684
+00:42:32,189 --> 00:42:35,259
+"Are you afraid of death?"
+Yes! Who isn't?
+
+685
+00:42:36,760 --> 00:42:38,262
+<i>Pardon.</i>
+
+686
+00:42:44,768 --> 00:42:48,740
+Okay, "What's always approaching
+but never arrives?" Um...
+
+687
+00:42:48,872 --> 00:42:49,973
+Wait, I know this one.
+
+688
+00:42:50,107 --> 00:42:51,508
+The clock is ticking, Luther.
+
+689
+00:42:51,642 --> 00:42:53,644
+Riddles aren't my thing, Benji.
+What more can I say?
+
+690
+00:42:53,777 --> 00:42:55,412
+We're running out of time!
+
+691
+00:42:56,380 --> 00:42:59,383
+There he is.
+Oh, this is too easy.
+
+692
+00:42:59,516 --> 00:43:01,118
+<i>Sorry to bother you, Ethan.</i>
+
+693
+00:43:01,251 --> 00:43:04,554
+Would you happen to know
+what's always approaching
+
+694
+00:43:04,688 --> 00:43:05,922
+but never arrives?
+
+695
+00:43:06,056 --> 00:43:08,458
+What is always approaching
+but never arrives?
+
+696
+00:43:08,592 --> 00:43:09,893
+Tomorrow.
+
+697
+00:43:10,694 --> 00:43:11,928
+What?
+
+698
+00:43:12,062 --> 00:43:13,930
+Always approaching
+BUT NEVER ARRIVES: Tomorrow.
+
+699
+00:43:14,766 --> 00:43:15,999
+It's tomorrow.
+Tomorrow.
+
+700
+00:43:16,133 --> 00:43:17,701
+Tomorrow! Tomorrow!
+
+701
+00:43:17,834 --> 00:43:19,469
+Yes! Okay, next question.
+
+702
+00:43:19,603 --> 00:43:20,937
+Give me the goods.
+
+703
+00:43:21,638 --> 00:43:22,606
+I'll be watching.
+
+704
+00:43:22,740 --> 00:43:24,207
+Why, you don't trust me?
+
+705
+00:43:29,946 --> 00:43:31,315
+Luther, what is happening?
+
+706
+00:43:31,448 --> 00:43:34,484
+Nothing to worry about.
+Everything is under control.
+
+707
+00:43:34,618 --> 00:43:35,886
+Okay, next question:
+
+708
+00:43:36,019 --> 00:43:39,156
+"Who or what is the most
+important thing to you?"
+
+709
+00:43:39,724 --> 00:43:40,824
+Say it.
+But if I..
+
+710
+00:43:40,957 --> 00:43:42,492
+There's no other choice.
+Say it.
+
+711
+00:43:43,393 --> 00:43:44,428
+My friends.
+
+712
+00:43:45,696 --> 00:43:46,596
+Bastard.
+
+713
+00:43:58,208 --> 00:44:00,143
+Is he..
+Yes, he is.
+
+714
+00:44:00,277 --> 00:44:02,145
+Give me the money,
+give me the key.
+
+715
+00:44:03,213 --> 00:44:05,882
+Okay. "What gets bigger
+the more you take away?"
+
+716
+00:44:06,016 --> 00:44:08,518
+A hole.
+A hole. Brilliant!
+
+717
+00:44:19,863 --> 00:44:21,865
+I've got no more questions
+and there's one more wheel.
+
+718
+00:44:21,998 --> 00:44:24,267
+How am I supposed to give
+answers if I've got no questions?
+
+719
+00:44:24,401 --> 00:44:25,869
+That must be your final test.
+
+720
+00:44:26,002 --> 00:44:27,971
+I've got 45 seconds!
+
+721
+00:44:31,074 --> 00:44:32,342
+What happens now?
+
+722
+00:44:32,476 --> 00:44:34,411
+I'm thinking. Don't move.
+
+723
+00:44:34,544 --> 00:44:35,946
+Luther, I'm pinned down.
+Need a way out.
+
+724
+00:44:36,079 --> 00:44:37,114
+<i>Where am I going?</i>
+
+725
+00:44:37,247 --> 00:44:38,615
+We have a bigger problem, Ethan.
+
+726
+00:44:38,750 --> 00:44:40,951
+It's very possible
+no one is getting out of here.
+
+727
+00:44:41,084 --> 00:44:43,453
+What? There's a bomb
+in baggage handling.
+
+728
+00:44:43,587 --> 00:44:44,588
+A nuclear bomb.
+
+729
+00:44:44,722 --> 00:44:45,956
+<i>The question I asked you</i>
+
+730
+00:44:46,089 --> 00:44:47,491
+<i>is part of the code
+for disarming it.</i>
+
+731
+00:44:47,624 --> 00:44:48,925
+Stop, stop, stop, stop.
+
+732
+00:44:50,293 --> 00:44:51,695
+Why didn't you tell me this?
+
+733
+00:44:51,829 --> 00:44:53,930
+You had a lot going on.
+We didn't want to bother you.
+
+734
+00:44:54,064 --> 00:44:58,001
+Listen to me. A nuclear bomb is
+something you bother me with immediately.
+
+735
+00:44:58,135 --> 00:44:59,936
+How much time?
+Twenty seconds.
+
+736
+00:45:00,570 --> 00:45:01,505
+Twenty seconds?
+
+737
+00:45:01,638 --> 00:45:02,740
+There's one more riddle.
+
+738
+00:45:02,874 --> 00:45:03,875
+I'm working on it.
+Fifteen seconds!
+
+739
+00:45:04,007 --> 00:45:05,710
+Easy, easy. What's the riddle?
+
+740
+00:45:05,843 --> 00:45:08,011
+In the time it takes me
+to explain, we'll all be dead!
+
+741
+00:45:08,145 --> 00:45:09,781
+Come on, Benji.
+Why do we always end up
+
+742
+00:45:09,913 --> 00:45:10,914
+in these situations?
+
+743
+00:45:11,047 --> 00:45:12,582
+<i>Ten seconds.</i>
+
+744
+00:45:12,717 --> 00:45:14,050
+<i>Nine... eight...</i>
+
+745
+00:45:14,184 --> 00:45:17,554
+seven... six... five...
+
+746
+00:45:19,623 --> 00:45:21,258
+Oh! Oh! Oh! Oh!
+
+747
+00:45:28,766 --> 00:45:29,834
+<i>Oh, my God.</i>
+
+748
+00:45:29,966 --> 00:45:31,101
+What is it?
+
+749
+00:45:32,602 --> 00:45:33,537
+It's empty.
+
+750
+00:45:33,670 --> 00:45:34,938
+What do you mean, empty?
+
+751
+00:45:35,071 --> 00:45:36,473
+<i>There's nothing inside.</i>
+
+752
+00:45:41,846 --> 00:45:42,780
+She took the key.
+
+753
+00:45:42,914 --> 00:45:43,714
+Which key?
+
+754
+00:45:43,848 --> 00:45:44,849
+Our key. The real key.
+
+755
+00:45:44,981 --> 00:45:46,183
+What?
+<i>Luther, find her.</i>
+
+756
+00:45:56,359 --> 00:45:58,195
+I got her.
+She's headed for Terminal E.
+
+757
+00:46:10,607 --> 00:46:11,541
+No, it can't be.
+
+758
+00:46:11,675 --> 00:46:12,375
+What is it?
+
+759
+00:46:12,509 --> 00:46:14,411
+Luther, Benji. Abort. Get out!
+
+760
+00:46:14,544 --> 00:46:16,546
+Where do we rendezvous?
+We don't!
+
+761
+00:46:16,680 --> 00:46:19,649
+This mission is terminated.
+Get out now.
+
+762
+00:46:31,061 --> 00:46:32,930
+Hunt! Stop right there!
+
+763
+00:46:33,063 --> 00:46:35,733
+Hey!
+You see him? Where is he?
+
+764
+00:46:35,867 --> 00:46:37,634
+Excuse me! Excuse me!
+
+765
+00:46:37,768 --> 00:46:40,170
+Sorry! Sorry! Sorry!
+
+766
+00:47:10,634 --> 00:47:11,668
+Move!
+
+767
+00:47:17,708 --> 00:47:19,744
+Move!
+Move, move!
+
+768
+00:48:01,685 --> 00:48:03,854
+He's got to be here somewhere.
+
+769
+00:48:05,022 --> 00:48:06,857
+Goddamn.
+
+770
+00:48:17,300 --> 00:48:19,703
+What we have here
+is shortwave radio,
+
+771
+00:48:19,837 --> 00:48:24,240
+magnetic audio recording,
+cathode ray tube monitors.
+
+772
+00:48:24,909 --> 00:48:26,744
+No more ones and zeros.
+
+773
+00:48:27,510 --> 00:48:30,180
+It's a fully analog,
+offline safe room,
+
+774
+00:48:30,313 --> 00:48:32,883
+shielded from
+our digitally-based Entity.
+
+775
+00:48:34,517 --> 00:48:36,386
+Where is this feed coming from?
+
+776
+00:48:36,519 --> 00:48:39,489
+CORONA spy satellite
+from the Cold War.
+
+777
+00:48:40,457 --> 00:48:42,258
+Had no idea we were still
+using those things.
+
+778
+00:48:42,392 --> 00:48:43,894
+Yeah, well, we weren't.
+
+779
+00:48:44,028 --> 00:48:46,296
+Gave them to the National
+Weather Service 20 years ago.
+
+780
+00:48:46,429 --> 00:48:48,431
+This is the last one
+still functioning.
+
+781
+00:48:48,565 --> 00:48:52,737
+So, will this thing help us
+find your nameless IMF man?
+
+782
+00:48:52,870 --> 00:48:54,571
+Nothing can do that, Sir.
+
+783
+00:48:54,704 --> 00:48:58,475
+But it has allowed us
+to keep tabs on this woman.
+
+784
+00:49:00,111 --> 00:49:03,446
+She was seen with our man
+at the airport in Abu Dhabi.
+
+785
+00:49:04,280 --> 00:49:05,515
+Who is she?
+
+786
+00:49:06,483 --> 00:49:08,184
+Where is she now?
+
+787
+00:49:19,295 --> 00:49:20,563
+You are here
+
+788
+00:49:20,697 --> 00:49:23,233
+because Italian police
+received an anonymous tip
+
+789
+00:49:23,366 --> 00:49:25,036
+that a woman matching
+your description
+
+790
+00:49:25,168 --> 00:49:28,505
+would be arriving on the
+afternoon flight from Abu Dhabi.
+
+791
+00:49:28,638 --> 00:49:32,509
+This woman had multiple
+passports in her possession.
+
+792
+00:49:32,642 --> 00:49:36,646
+This one is wanted for fraud
+in Saint Petersburg.
+
+793
+00:49:36,781 --> 00:49:40,583
+Jewel theft in Antwerp.
+Art theft in Monaco.
+
+794
+00:49:40,718 --> 00:49:44,055
+Graft in Milan.
+Extortion in Mumbai.
+
+795
+00:49:44,187 --> 00:49:46,724
+But this is my favorite:
+
+796
+00:49:46,857 --> 00:49:48,959
+Resisting arrest in Rio.
+
+797
+00:49:51,162 --> 00:49:52,863
+Which leads me to wonder...
+
+798
+00:49:54,197 --> 00:49:55,933
+which one of these women is you?
+
+799
+00:49:56,767 --> 00:49:59,003
+I've never seen these before
+in my life.
+
+800
+00:49:59,136 --> 00:50:00,403
+They were in your purse.
+
+801
+00:50:00,537 --> 00:50:03,406
+And your picture
+is in every one.
+
+802
+00:50:03,540 --> 00:50:05,910
+May I see?
+Please.
+
+803
+00:50:11,448 --> 00:50:13,084
+Yes, it's an amazing likeness,
+
+804
+00:50:13,216 --> 00:50:14,952
+but it isn't me.
+
+805
+00:50:16,153 --> 00:50:17,788
+As I keep telling you, I'm...
+
+806
+00:50:18,756 --> 00:50:20,356
+I'm a schoolteacher
+from Brighton.
+
+807
+00:50:20,490 --> 00:50:22,059
+I'm on a sabbatical.
+
+808
+00:50:22,193 --> 00:50:24,061
+Whatever you're involved in,
+
+809
+00:50:24,195 --> 00:50:27,865
+you've obviously made
+some very powerful enemies.
+
+810
+00:50:36,774 --> 00:50:37,842
+<i>Sì.</i>
+
+811
+00:50:38,608 --> 00:50:39,642
+Okay.
+
+812
+00:50:43,180 --> 00:50:44,414
+Her lawyer is here.
+
+813
+00:50:45,082 --> 00:50:46,349
+My lawyer?
+
+814
+00:51:21,584 --> 00:51:23,419
+Magistrate Spezzi.
+
+815
+00:51:23,553 --> 00:51:25,688
+I'm sorry, who are you?
+
+816
+00:51:26,123 --> 00:51:27,124
+Interpol.
+
+817
+00:51:28,324 --> 00:51:32,863
+I've come regarding the arrest
+of the woman from Abu Dhabi.
+
+818
+00:51:32,997 --> 00:51:34,330
+I'll need to inventory
+
+819
+00:51:34,464 --> 00:51:36,399
+the items on her person
+at the time of her arrest.
+
+820
+00:51:36,533 --> 00:51:39,435
+May I see some
+identification, please?
+
+821
+00:51:40,403 --> 00:51:41,638
+Where's the rest?
+
+822
+00:51:42,338 --> 00:51:43,974
+I assure you,
+this is everything.
+
+823
+00:51:44,108 --> 00:51:45,308
+What was your name?
+
+824
+00:51:45,441 --> 00:51:47,610
+She left Abu Dhabi
+with a certain key.
+
+825
+00:51:48,112 --> 00:51:49,280
+There was no key.
+
+826
+00:51:49,412 --> 00:51:51,514
+It was an unusual sort.
+
+827
+00:51:52,382 --> 00:51:54,584
+One that you could
+mistake for a pendant.
+
+828
+00:51:55,552 --> 00:51:59,089
+The kind that you'd be tempted
+to hang on a chain
+
+829
+00:51:59,223 --> 00:52:00,891
+around Amelia's neck.
+
+830
+00:52:02,492 --> 00:52:03,727
+Amelia?
+
+831
+00:52:04,494 --> 00:52:05,729
+Your wife.
+
+832
+00:52:06,529 --> 00:52:09,465
+Mother of
+your lovely daughter Serena.
+
+833
+00:52:09,599 --> 00:52:10,835
+You're not Interpol.
+
+834
+00:52:11,401 --> 00:52:13,369
+I am if I wish to be.
+
+835
+00:52:14,571 --> 00:52:17,708
+I can be anything,
+and I know everything.
+
+836
+00:52:17,842 --> 00:52:19,442
+I know this wouldn't be
+the first time
+
+837
+00:52:19,576 --> 00:52:21,578
+you've helped yourself
+to stolen goods.
+
+838
+00:52:21,712 --> 00:52:22,947
+A Cartier bracelet.
+
+839
+00:52:23,646 --> 00:52:25,481
+You were cleared of suspicion,
+
+840
+00:52:25,615 --> 00:52:27,584
+but we both know you gave it
+to your mistress Valeria
+
+841
+00:52:27,718 --> 00:52:31,722
+on August 21st,
+her 29th birthday.
+
+842
+00:52:31,856 --> 00:52:33,858
+Who are you?
+
+843
+00:52:35,558 --> 00:52:37,895
+I'm gonna have to search you,
+
+844
+00:52:38,028 --> 00:52:38,929
+just to be sure.
+
+845
+00:52:43,533 --> 00:52:46,402
+Your secretary's
+no longer with us.
+
+846
+00:52:59,350 --> 00:53:00,918
+Thank you officers.
+
+847
+00:53:03,820 --> 00:53:04,641
+Please.
+
+848
+00:53:05,665 --> 00:53:07,959
+You can wait outside. Thank you.
+
+849
+00:53:24,407 --> 00:53:25,976
+You.
+
+850
+00:53:26,110 --> 00:53:27,477
+You did this.
+
+851
+00:53:27,610 --> 00:53:28,913
+I called the police.
+
+852
+00:53:29,046 --> 00:53:31,715
+I didn't tell them
+about your colorful past.
+
+853
+00:53:33,616 --> 00:53:35,019
+That's on you.
+
+854
+00:53:35,152 --> 00:53:37,721
+You put-pocketed that key
+on another passenger
+
+855
+00:53:37,855 --> 00:53:39,489
+before you were arrested.
+
+856
+00:53:39,622 --> 00:53:42,393
+<i>You exchanged details
+and arranged to meet later on.</i>
+
+857
+00:53:42,525 --> 00:53:43,827
+<i>Right now,</i>
+
+858
+00:53:43,961 --> 00:53:45,262
+<i>someone out there
+hasn't the slightest clue</i>
+
+859
+00:53:45,396 --> 00:53:46,964
+<i>they're holding on
+to that key for you.</i>
+
+860
+00:53:47,597 --> 00:53:49,266
+<i>An unwitting courier.</i>
+
+861
+00:53:49,400 --> 00:53:50,633
+<i>The perfect accomplice.</i>
+
+862
+00:53:51,634 --> 00:53:54,570
+<i>I'm guessing a man, middle-aged?</i>
+
+863
+00:53:55,239 --> 00:53:56,840
+A man waiting his whole life
+
+864
+00:53:56,974 --> 00:53:59,743
+to be noticed
+by a woman like you.
+
+865
+00:54:01,078 --> 00:54:02,445
+An orphan.
+
+866
+00:54:03,513 --> 00:54:06,717
+Highly intelligent.
+Inherently resourceful.
+
+867
+00:54:06,850 --> 00:54:10,687
+Growing up in poverty left
+you longing for the finer things.
+
+868
+00:54:11,355 --> 00:54:12,923
+Other people's things.
+
+869
+00:54:13,623 --> 00:54:14,691
+Someone saw your potential
+
+870
+00:54:14,825 --> 00:54:17,728
+and helped you hone your skills.
+
+871
+00:54:17,861 --> 00:54:20,164
+Skills that gave you the life
+you thought you wanted.
+
+872
+00:54:20,297 --> 00:54:23,734
+Tailored clothes,
+fine dining, luxury hotels.
+
+873
+00:54:23,867 --> 00:54:27,071
+Skills that kept you
+one step ahead of the law...
+
+874
+00:54:28,005 --> 00:54:29,472
+until now.
+
+875
+00:54:31,175 --> 00:54:32,076
+You can't blame a girl
+
+876
+00:54:32,209 --> 00:54:34,078
+for trying to make
+a dishonest living.
+
+877
+00:54:35,012 --> 00:54:37,881
+You had no idea
+what you were stealing.
+
+878
+00:54:38,015 --> 00:54:39,917
+Otherwise, you never
+would have stolen it.
+
+879
+00:54:41,517 --> 00:54:42,453
+Tell you what.
+
+880
+00:54:42,585 --> 00:54:43,787
+You get me out of here,
+
+881
+00:54:43,921 --> 00:54:46,156
+and I'll take you
+straight to the key.
+
+882
+00:54:46,290 --> 00:54:47,590
+I have a better idea.
+
+883
+00:54:47,725 --> 00:54:49,126
+You're gonna tell me everything.
+
+884
+00:54:49,259 --> 00:54:51,428
+Then I'll think about
+getting you out of here.
+
+885
+00:54:51,561 --> 00:54:53,596
+Now start with who hired you.
+
+886
+00:54:53,731 --> 00:54:56,666
+And don't lie to me
+because I'll know.
+
+887
+00:54:56,800 --> 00:54:58,335
+I have no idea who hired me.
+
+888
+00:54:58,469 --> 00:55:01,071
+Contact with the client
+was almost entirely electronic.
+
+889
+00:55:01,205 --> 00:55:02,139
+Email?
+Texts.
+
+890
+00:55:02,272 --> 00:55:03,407
+Encrypted?
+Naturally.
+
+891
+00:55:03,539 --> 00:55:05,075
+Almost?
+Pardon?
+
+892
+00:55:05,209 --> 00:55:07,878
+You said contact with the client
+was almost entirely electronic.
+
+893
+00:55:08,012 --> 00:55:10,513
+There was a dead drop
+in a café in Luxembourg.
+
+894
+00:55:10,646 --> 00:55:12,383
+An envelope.
+What was in the envelope?
+
+895
+00:55:12,515 --> 00:55:14,550
+A ticket to Abu Dhabi.
+
+896
+00:55:15,452 --> 00:55:16,754
+And...
+
+897
+00:55:17,321 --> 00:55:20,024
+a picture of you.
+
+898
+00:55:21,859 --> 00:55:23,761
+My instructions were
+to follow you at the airport.
+
+899
+00:55:23,894 --> 00:55:25,262
+You'd be tailing a mark.
+
+900
+00:55:25,396 --> 00:55:26,497
+Said mark would have a key
+
+901
+00:55:26,629 --> 00:55:28,265
+and four million
+in cryptocurrency.
+
+902
+00:55:28,399 --> 00:55:30,934
+That drive was useless,
+by the way. It was empty.
+
+903
+00:55:31,701 --> 00:55:33,103
+The only hope
+I have of getting paid
+
+904
+00:55:33,237 --> 00:55:34,670
+is to deliver
+your half of the key.
+
+905
+00:55:34,805 --> 00:55:37,307
+And you were instructed
+to deliver it to?
+
+906
+00:55:37,441 --> 00:55:38,641
+Venice.
+
+907
+00:55:38,776 --> 00:55:40,944
+Party at Ducale Palace.
+Tomorrow. Midnight.
+
+908
+00:55:44,580 --> 00:55:45,681
+You expecting someone?
+
+909
+00:55:45,816 --> 00:55:47,751
+Your friends from the airport.
+
+910
+00:55:47,885 --> 00:55:49,619
+Saw them in the hallway
+a few minutes ago.
+
+911
+00:55:52,022 --> 00:55:54,024
+You could have
+said something sooner.
+
+912
+00:55:54,158 --> 00:55:56,460
+Well, they were chasing you,
+not me.
+
+913
+00:56:19,316 --> 00:56:21,051
+A <i>pervertito!</i>
+
+914
+00:56:22,886 --> 00:56:24,321
+No, Grace, Grace.
+
+915
+00:56:26,523 --> 00:56:27,458
+No, no, no.
+
+916
+00:56:27,590 --> 00:56:29,927
+She's my client.
+
+917
+00:56:30,626 --> 00:56:31,795
+<i>Grazie.</i>
+
+918
+00:56:32,329 --> 00:56:33,363
+Grace.
+
+919
+00:56:38,469 --> 00:56:40,137
+No, no. No.
+
+920
+00:56:41,105 --> 00:56:43,774
+<i>Tranquillo. Tranquillo.</i>
+
+921
+00:57:12,369 --> 00:57:14,571
+No, no! Move! Move!
+
+922
+00:57:17,708 --> 00:57:19,042
+Sorry!
+
+923
+00:57:30,354 --> 00:57:31,822
+Come on.
+
+924
+00:57:35,726 --> 00:57:37,194
+Who parks like that?
+
+925
+00:57:55,546 --> 00:57:57,881
+Grace! You got to pull over.
+
+926
+00:57:58,715 --> 00:57:59,850
+Grace.
+Pull over. Listen.
+
+927
+00:57:59,983 --> 00:58:02,886
+I'm trying to help you!
+Grace!
+
+928
+00:58:03,020 --> 00:58:03,754
+Aah!
+
+929
+00:58:09,793 --> 00:58:11,128
+Bring her to me.
+
+930
+00:58:40,257 --> 00:58:40,991
+Uhh.
+
+931
+00:58:41,124 --> 00:58:43,293
+Are you okay? You okay?
+
+932
+00:58:43,427 --> 00:58:44,228
+No, no, no.
+
+933
+00:58:44,361 --> 00:58:45,262
+We're okay.
+
+934
+00:58:50,968 --> 00:58:52,169
+Give me your hand.
+
+935
+00:58:52,302 --> 00:58:55,038
+Slow, slow, slow. It's okay.
+
+936
+00:58:55,639 --> 00:58:56,840
+Slow.
+
+937
+00:58:56,974 --> 00:58:59,443
+Is anything broken?
+Are you okay? You okay?
+
+938
+00:58:59,576 --> 00:59:00,877
+Hunt!
+
+939
+00:59:01,511 --> 00:59:02,779
+It's over!
+
+940
+00:59:03,447 --> 00:59:04,915
+Let the girl go.
+
+941
+00:59:05,048 --> 00:59:06,516
+Put the bracelets on.
+
+942
+00:59:07,784 --> 00:59:10,954
+There you go.
+Put them on. Do it!
+
+943
+00:59:11,088 --> 00:59:13,357
+It's okay,
+he's not gonna shoot you.
+
+944
+00:59:16,793 --> 00:59:18,195
+Put your weapons down now.
+
+945
+00:59:19,419 --> 00:59:22,159
+Special Operations.
+He's wanted for terrorism.
+
+946
+00:59:22,466 --> 00:59:25,669
+Goddamn it, Degas,
+get rid of those women.
+
+947
+00:59:25,802 --> 00:59:28,005
+Hunt, listen to me.
+Listen to me.
+
+948
+00:59:28,138 --> 00:59:29,940
+Let her go and put them on.
+
+949
+00:59:31,508 --> 00:59:33,043
+Put your weapons down NOW.
+
+950
+00:59:33,067 --> 00:59:33,886
+It's all under control.
+
+951
+00:59:33,910 --> 00:59:34,845
+It's okay!
+
+952
+00:59:34,978 --> 00:59:37,047
+It's okay! It's okay!
+
+953
+00:59:40,017 --> 00:59:42,853
+Everybody down! Get down!
+
+954
+00:59:47,157 --> 00:59:49,826
+Down, down!
+Cover, cover! Cover!
+
+955
+01:00:20,324 --> 01:00:22,526
+You're driving.
+What?
+
+956
+01:00:22,659 --> 01:00:24,061
+No, no, no!
+
+957
+01:00:25,262 --> 01:00:26,563
+Go, go, go.
+Hit the accelerator.
+
+958
+01:00:26,697 --> 01:00:28,165
+Go, go, go, go, go, go!
+
+959
+01:00:32,235 --> 01:00:33,470
+Aah!
+
+960
+01:00:36,940 --> 01:00:38,743
+Go, go, go, go, go!
+
+961
+01:00:42,245 --> 01:00:43,280
+Oh!
+
+962
+01:00:55,892 --> 01:00:57,127
+Get in!
+
+963
+01:00:57,260 --> 01:00:58,929
+You're good.
+Just keep it going.
+
+964
+01:00:59,062 --> 01:01:00,864
+Don't stop, don't stop.
+
+965
+01:01:10,708 --> 01:01:11,608
+Car, car, car.
+
+966
+01:01:20,016 --> 01:01:23,320
+It's okay. Just put your foot
+on the brake. Start the car.
+
+967
+01:01:23,453 --> 01:01:24,822
+Wait, wait, wait!
+
+968
+01:01:24,955 --> 01:01:27,124
+Wh-What's happening?
+I'm done. I'm not doing this.
+
+969
+01:01:27,257 --> 01:01:28,860
+People are chasing us.
+
+970
+01:01:28,992 --> 01:01:30,828
+Yes, they are. You're driving.
+
+971
+01:01:30,961 --> 01:01:32,062
+Now come on.
+
+972
+01:02:03,527 --> 01:02:05,061
+Who is that person?
+
+973
+01:02:05,195 --> 01:02:06,930
+I have no idea.
+
+974
+01:02:11,401 --> 01:02:13,703
+You okay? I will
+be when this is over.
+
+975
+01:02:16,406 --> 01:02:18,008
+Oh, man.
+
+976
+01:02:22,012 --> 01:02:23,613
+It's okay. It's okay.
+
+977
+01:02:24,614 --> 01:02:25,716
+Whoa!
+
+978
+01:02:36,059 --> 01:02:37,327
+Is there anyone not chasing us?
+
+979
+01:02:37,461 --> 01:02:39,596
+We got to get rid of this car.
+
+980
+01:02:42,199 --> 01:02:43,967
+Scooters! Damn it.
+
+981
+01:03:05,622 --> 01:03:06,690
+What are we doing?
+
+982
+01:03:08,960 --> 01:03:10,560
+Finding us a new car.
+
+983
+01:03:15,967 --> 01:03:17,267
+Whoa! Jesus!
+
+984
+01:03:32,415 --> 01:03:33,718
+Okay.
+
+985
+01:03:50,200 --> 01:03:51,535
+Just give me a second.
+
+986
+01:03:51,668 --> 01:03:52,602
+Yeah, mm-hm.
+
+987
+01:03:52,737 --> 01:03:54,037
+Thanks. Okay?
+Yeah.
+
+988
+01:03:54,170 --> 01:03:55,740
+You ready?
+I'm ready.
+
+989
+01:03:59,576 --> 01:04:00,510
+Wow.
+
+990
+01:04:00,644 --> 01:04:01,846
+You okay?
+Mm-hm.
+
+991
+01:04:01,979 --> 01:04:04,247
+Yeah, look, I'm sorry.
+This is...
+
+992
+01:04:04,381 --> 01:04:06,449
+It's okay. No, this car,
+the way they...
+
+993
+01:04:06,583 --> 01:04:08,151
+It's okay. No,
+the way they set them up,
+
+994
+01:04:08,285 --> 01:04:09,219
+sometimes it's just...
+
+995
+01:04:09,352 --> 01:04:10,755
+Let's go.
+It takes me...
+
+996
+01:04:10,888 --> 01:04:12,122
+Let's go.
+
+997
+01:04:19,830 --> 01:04:23,734
+Traffic cameras have picked
+up the woman on facial recognition.
+
+998
+01:04:23,858 --> 01:04:25,768
+She is now in a yellow Fiat 500.
+
+999
+01:04:26,492 --> 01:04:27,792
+Units are in pursuit.
+
+1000
+01:04:42,252 --> 01:04:44,822
+Now I got you.
+
+1001
+01:04:53,530 --> 01:04:55,131
+Looks like we lost them.
+
+1002
+01:05:20,690 --> 01:05:21,826
+Let's just..
+
+1003
+01:05:21,959 --> 01:05:23,193
+Move, move, move!
+
+1004
+01:05:40,343 --> 01:05:42,178
+Baby, baby, baby, baby, baby!
+
+1005
+01:05:54,859 --> 01:05:55,926
+Wait, what?
+
+1006
+01:05:56,894 --> 01:05:57,928
+No, no, no.
+
+1007
+01:06:03,968 --> 01:06:05,235
+Go, go, go!
+
+1008
+01:06:08,405 --> 01:06:10,306
+Whoa, that's..
+Go straight.
+
+1009
+01:06:17,380 --> 01:06:18,481
+Just take your foot
+off the accelerator.
+
+1010
+01:06:18,615 --> 01:06:19,817
+We're on fire!
+No, no, no.
+
+1011
+01:06:19,950 --> 01:06:21,919
+It's the tires.
+Just try to go straight.
+
+1012
+01:06:23,988 --> 01:06:25,388
+Hang on.
+Why is it spinning?
+
+1013
+01:06:27,124 --> 01:06:28,959
+Good, good, good!
+
+1014
+01:06:31,062 --> 01:06:32,963
+I've got it,
+I've got it, I've got it.
+
+1015
+01:06:34,230 --> 01:06:35,265
+Turn right. Down there.
+
+1016
+01:06:35,398 --> 01:06:36,867
+Right there!
+Come on!
+
+1017
+01:06:45,442 --> 01:06:46,877
+Got to go right. Turn right!
+
+1018
+01:06:49,479 --> 01:06:51,548
+Who's driving?
+You're driving.
+
+1019
+01:06:51,681 --> 01:06:53,683
+Go, go, go. Just go straight.
+
+1020
+01:06:54,484 --> 01:06:57,755
+Go, go, go.
+Just keep going straight.
+
+1021
+01:06:57,888 --> 01:07:01,658
+Or left. Go, go, go.
+You're doing good.
+
+1022
+01:07:07,330 --> 01:07:08,966
+Cops! A lot of cops!
+
+1023
+01:07:10,167 --> 01:07:11,701
+Take the wheel.
+
+1024
+01:07:11,836 --> 01:07:12,803
+Brake, brake, brake.
+
+1025
+01:07:18,943 --> 01:07:20,343
+Okay, your wheel.
+
+1026
+01:07:22,378 --> 01:07:24,247
+Straight?
+Right, right, right.
+
+1027
+01:07:24,380 --> 01:07:25,615
+Got it!
+
+1028
+01:07:33,891 --> 01:07:35,893
+Which way now?
+Left, left, left.
+
+1029
+01:07:43,666 --> 01:07:46,003
+Okay.
+You're good, you're good.
+
+1030
+01:07:51,041 --> 01:07:52,275
+That's a person.
+
+1031
+01:07:54,577 --> 01:07:56,312
+Okay, car, car.
+I see it!
+
+1032
+01:08:23,174 --> 01:08:24,574
+Hit it.
+
+1033
+01:08:31,782 --> 01:08:32,950
+Hang on!
+
+1034
+01:08:33,483 --> 01:08:34,617
+Go, go, go, go.
+
+1035
+01:08:34,752 --> 01:08:35,853
+Aah!
+
+1036
+01:08:44,427 --> 01:08:46,130
+What is happening?
+Where are we going?
+
+1037
+01:08:46,263 --> 01:08:47,497
+I don't know.
+
+1038
+01:08:48,364 --> 01:08:50,333
+Okay, brake, brake, brake!
+
+1039
+01:09:19,696 --> 01:09:20,998
+Don't hate me.
+
+1040
+01:09:24,201 --> 01:09:25,970
+Grace? Grace!
+
+1041
+01:09:41,352 --> 01:09:42,452
+Come on, come on.
+
+1042
+01:10:11,015 --> 01:10:12,283
+Ethan!
+
+1043
+01:10:12,415 --> 01:10:13,650
+Ethan!
+
+1044
+01:10:17,388 --> 01:10:19,555
+Well, come on.
+
+1045
+01:11:14,178 --> 01:11:16,679
+All right. We know
+Grace has one half of the key.
+
+1046
+01:11:16,814 --> 01:11:19,416
+We also know she's gonna be
+at the Ducale at midnight.
+
+1047
+01:11:19,549 --> 01:11:20,818
+And now we have
+a pretty good idea
+
+1048
+01:11:20,951 --> 01:11:23,020
+as to who will be waiting
+for her there.
+
+1049
+01:11:23,153 --> 01:11:24,922
+The event is being hosted
+by none other than
+
+1050
+01:11:25,055 --> 01:11:27,992
+our favorite international arms
+trafficker and black marketeer,
+
+1051
+01:11:28,125 --> 01:11:29,193
+Alana Mitsopolis.
+
+1052
+01:11:29,326 --> 01:11:30,928
+The White Widow.
+
+1053
+01:11:31,061 --> 01:11:33,197
+Does she know
+who you actually are,
+
+1054
+01:11:33,330 --> 01:11:37,034
+or does she still think you're the
+globally notorious mass murderer John Lark?
+
+1055
+01:11:37,167 --> 01:11:38,068
+Who says I'm not?
+
+1056
+01:11:38,936 --> 01:11:41,372
+Didn't she put a price
+on your head in Paris?
+
+1057
+01:11:41,504 --> 01:11:42,705
+She did indeed.
+
+1058
+01:11:42,840 --> 01:11:46,143
+She and Ethan,
+they worked it out.
+
+1059
+01:11:46,276 --> 01:11:47,745
+You never did tell me how.
+
+1060
+01:11:47,878 --> 01:11:49,747
+Can we continue, please?
+
+1061
+01:11:49,880 --> 01:11:51,181
+Right.
+
+1062
+01:11:51,315 --> 01:11:53,117
+So, assuming we get the
+complete key at the party tonight,
+
+1063
+01:11:53,250 --> 01:11:54,885
+we still don't know
+what it unlocks.
+
+1064
+01:11:55,019 --> 01:11:56,552
+So we need to find
+somebody who does.
+
+1065
+01:11:56,686 --> 01:11:59,123
+The question is
+where to start looking.
+
+1066
+01:11:59,256 --> 01:12:01,325
+We figured that the bomb
+didn't just walk
+
+1067
+01:12:01,458 --> 01:12:02,525
+into the airport by itself.
+
+1068
+01:12:02,658 --> 01:12:03,693
+Right? Somebody put it there.
+
+1069
+01:12:03,827 --> 01:12:06,397
+Somebody working for the Entity.
+
+1070
+01:12:06,529 --> 01:12:07,663
+This is everything I captured
+
+1071
+01:12:07,798 --> 01:12:09,900
+from the security cameras
+at the airport
+
+1072
+01:12:10,034 --> 01:12:12,202
+up to the minute
+everything went haywire.
+
+1073
+01:12:12,336 --> 01:12:15,605
+And this is the feed
+from your AR sunglasses.
+
+1074
+01:12:15,739 --> 01:12:17,274
+I've been running
+facial recognition
+
+1075
+01:12:17,408 --> 01:12:18,709
+on everyone in the airport.
+
+1076
+01:12:18,842 --> 01:12:20,277
+See anything strange?
+
+1077
+01:12:23,579 --> 01:12:24,748
+It's like a ghost.
+
+1078
+01:12:24,882 --> 01:12:26,850
+Ghosts don't have reflections.
+
+1079
+01:12:30,187 --> 01:12:34,124
+The only person
+in the airport with no identity.
+
+1080
+01:12:34,258 --> 01:12:38,628
+The only man who can't be found
+anyplace else in the airport
+
+1081
+01:12:38,762 --> 01:12:41,131
+except that reflection.
+
+1082
+01:12:42,266 --> 01:12:43,967
+He's being erased.
+
+1083
+01:12:44,101 --> 01:12:45,869
+In real time.
+
+1084
+01:12:52,743 --> 01:12:54,244
+The Entity.
+
+1085
+01:12:55,345 --> 01:12:56,847
+It's protecting him.
+
+1086
+01:12:57,381 --> 01:12:59,316
+You saw him, didn't you?
+
+1087
+01:13:01,617 --> 01:13:03,187
+I wasn't sure.
+
+1088
+01:13:04,521 --> 01:13:05,989
+Well, who is he?
+
+1089
+01:13:13,297 --> 01:13:14,865
+Someone I thought...
+
+1090
+01:13:16,300 --> 01:13:18,035
+...died a long time ago.
+
+1091
+01:13:18,168 --> 01:13:19,635
+In another life.
+
+1092
+01:13:19,770 --> 01:13:21,972
+Before the IMF.
+
+1093
+01:13:22,773 --> 01:13:25,675
+Before I was offered the choice.
+
+1094
+01:13:28,745 --> 01:13:30,747
+And in a very real sense...
+
+1095
+01:13:31,515 --> 01:13:33,616
+...he made me who I am today.
+
+1096
+01:13:35,352 --> 01:13:36,920
+Does he have a name?
+
+1097
+01:13:37,054 --> 01:13:39,857
+He calls himself Gabriel.
+
+1098
+01:13:42,625 --> 01:13:44,194
+You know him.
+
+1099
+01:13:46,363 --> 01:13:48,098
+There is no knowing him.
+
+1100
+01:13:49,299 --> 01:13:51,568
+He has no recorded past.
+
+1101
+01:13:51,701 --> 01:13:53,636
+The Entity made sure of that.
+
+1102
+01:13:54,637 --> 01:13:55,939
+He's a dark messiah.
+
+1103
+01:13:56,073 --> 01:13:59,143
+The Entity's chosen messenger.
+
+1104
+01:13:59,276 --> 01:14:00,611
+And he sees death...
+
+1105
+01:14:01,644 --> 01:14:05,883
+...as a gift he wants to share
+with the rest of the world.
+
+1106
+01:14:06,016 --> 01:14:07,117
+How do you know this?
+
+1107
+01:14:07,251 --> 01:14:10,254
+I still have
+a few friends left in MI6.
+
+1108
+01:14:11,054 --> 01:14:12,456
+Friends who are afraid
+
+1109
+01:14:12,589 --> 01:14:15,726
+of the British government
+gaining control of the Entity.
+
+1110
+01:14:16,460 --> 01:14:17,794
+Any attempt to try to stop them
+
+1111
+01:14:17,928 --> 01:14:19,763
+would be seen
+as an act of treason.
+
+1112
+01:14:19,897 --> 01:14:22,966
+And because you're disavowed,
+your friends...
+
+1113
+01:14:23,666 --> 01:14:25,035
+called and asked you for help.
+
+1114
+01:14:25,169 --> 01:14:27,838
+They knew
+Gabriel serves the Entity.
+
+1115
+01:14:27,971 --> 01:14:29,907
+They knew he was
+on his way to Istanbul
+
+1116
+01:14:30,040 --> 01:14:34,011
+to acquire one half
+of a cruciform key.
+
+1117
+01:14:35,145 --> 01:14:36,446
+So...
+
+1118
+01:14:36,580 --> 01:14:37,981
+...I beat him to it.
+
+1119
+01:14:39,149 --> 01:14:41,385
+And when Kittridge
+put a bounty on your head...
+
+1120
+01:14:42,186 --> 01:14:44,154
+you went to the desert to hide.
+
+1121
+01:14:44,288 --> 01:14:47,224
+But somehow the bounty hunters
+found you anyway.
+
+1122
+01:14:47,357 --> 01:14:48,358
+Yes.
+
+1123
+01:14:48,492 --> 01:14:50,928
+So, did these friends
+of yours happen to say
+
+1124
+01:14:51,061 --> 01:14:52,629
+what the key unlocks?
+
+1125
+01:14:52,796 --> 01:14:56,800
+MI6 suspects it leads somehow
+to the Entity's source code.
+
+1126
+01:14:57,367 --> 01:14:58,835
+Source code.
+
+1127
+01:14:59,670 --> 01:15:01,138
+When were you
+gonna tell me this?
+
+1128
+01:15:02,105 --> 01:15:03,706
+I'm telling you now.
+
+1129
+01:15:05,075 --> 01:15:07,311
+Your friends at MI6,
+how'd they contact you?
+
+1130
+01:15:07,444 --> 01:15:09,479
+Did you speak with them?
+Face to face?
+
+1131
+01:15:09,613 --> 01:15:10,881
+I'm disavowed.
+
+1132
+01:15:11,014 --> 01:15:12,683
+They couldn't risk
+meeting me in person,
+
+1133
+01:15:12,816 --> 01:15:15,052
+so all communication..
+
+1134
+01:15:17,054 --> 01:15:20,123
+Was electronic. Was digital.
+
+1135
+01:15:23,594 --> 01:15:25,729
+No. We can't be sure
+that was the Entity.
+
+1136
+01:15:25,862 --> 01:15:27,698
+We can't be sure it wasn't.
+
+1137
+01:15:27,831 --> 01:15:29,166
+We can't be sure
+anything is real
+
+1138
+01:15:29,299 --> 01:15:31,368
+outside of
+this very conversation.
+
+1139
+01:15:32,869 --> 01:15:33,904
+None of you should be here.
+
+1140
+01:15:34,037 --> 01:15:35,072
+Ethan..
+No.
+
+1141
+01:15:35,205 --> 01:15:36,540
+You don't know Gabriel.
+I do.
+
+1142
+01:15:36,673 --> 01:15:38,508
+It's not the killing he enjoys.
+
+1143
+01:15:38,642 --> 01:15:40,310
+It's the suffering it causes.
+
+1144
+01:15:40,444 --> 01:15:42,579
+And he knows
+the best way to get to me...
+
+1145
+01:15:42,714 --> 01:15:44,881
+...is through all of you.
+
+1146
+01:15:46,049 --> 01:15:47,751
+And if Gabriel knows me...
+
+1147
+01:15:47,884 --> 01:15:49,286
+The Entity knows.
+
+1148
+01:15:49,419 --> 01:15:51,421
+There's a reason
+he wants me here.
+
+1149
+01:15:51,555 --> 01:15:52,923
+There's...
+
+1150
+01:15:53,056 --> 01:15:54,825
+There's a reason
+he wants you here.
+
+1151
+01:15:54,958 --> 01:15:56,226
+It wants you here.
+
+1152
+01:15:56,360 --> 01:16:00,230
+"Who or what is the most
+important thing to you?"
+
+1153
+01:16:01,064 --> 01:16:03,000
+No. You have to go.
+You all have to go.
+
+1154
+01:16:03,133 --> 01:16:04,701
+Ethan, what if
+it wants us to leave?
+
+1155
+01:16:04,835 --> 01:16:06,103
+Like you made us
+leave the airport.
+
+1156
+01:16:06,236 --> 01:16:08,505
+What if it wants you alone
+at that party tonight?
+
+1157
+01:16:08,639 --> 01:16:10,874
+Then I go alone. At least I don't
+have all of you to worry about.
+
+1158
+01:16:11,008 --> 01:16:13,110
+This is exactly why
+I didn't want to tell you.
+
+1159
+01:16:13,243 --> 01:16:15,579
+Ethan, you're playing
+four-dimensional chess
+
+1160
+01:16:15,713 --> 01:16:16,813
+with an algorithm.
+
+1161
+01:16:16,947 --> 01:16:18,282
+The Entity knows who we are.
+
+1162
+01:16:18,415 --> 01:16:21,118
+Any move we make,
+it's probably considered it.
+
+1163
+01:16:21,251 --> 01:16:22,686
+Anything we do,
+we have to assume
+
+1164
+01:16:22,819 --> 01:16:24,121
+that it's counting on us
+to do it.
+
+1165
+01:16:24,254 --> 01:16:25,757
+If you want to beat this thing,
+
+1166
+01:16:25,889 --> 01:16:28,158
+you have to start
+thinking like it.
+
+1167
+01:16:28,292 --> 01:16:31,561
+Cold, logical, unemotional.
+
+1168
+01:16:31,695 --> 01:16:35,165
+If that key really does
+grant control of the Entity,
+
+1169
+01:16:35,299 --> 01:16:38,736
+Gabriel is the last person
+on Earth who should have it.
+
+1170
+01:16:38,869 --> 01:16:40,170
+She's right, Ethan.
+
+1171
+01:16:40,304 --> 01:16:43,340
+Gabriel cannot have that key.
+
+1172
+01:16:43,473 --> 01:16:47,544
+And none of our lives can
+matter more than this mission.
+
+1173
+01:16:54,051 --> 01:16:55,585
+I don't accept that.
+
+1174
+01:17:22,145 --> 01:17:24,081
+It's my first time in Venice.
+
+1175
+01:17:28,151 --> 01:17:29,586
+It's mine, too.
+
+1176
+01:18:31,181 --> 01:18:33,116
+Buy you a drink?
+
+1177
+01:18:33,250 --> 01:18:35,318
+I'm waiting for someone.
+
+1178
+01:18:35,452 --> 01:18:36,353
+So am I.
+
+1179
+01:18:38,455 --> 01:18:41,425
+We can wait together.
+I'm Gabriel.
+
+1180
+01:18:41,558 --> 01:18:42,959
+If you say so.
+
+1181
+01:18:43,761 --> 01:18:45,362
+And you're Grace.
+
+1182
+01:18:54,938 --> 01:18:56,006
+I don't have it on me.
+
+1183
+01:18:56,139 --> 01:18:57,674
+I wouldn't expect you to.
+
+1184
+01:18:58,542 --> 01:19:00,510
+In any case,
+I'm not here for the key.
+
+1185
+01:19:01,611 --> 01:19:02,446
+What do you want?
+
+1186
+01:19:02,579 --> 01:19:03,881
+Suppose, while we're waiting,
+
+1187
+01:19:04,014 --> 01:19:05,415
+I tell you a little story.
+
+1188
+01:19:05,549 --> 01:19:07,684
+You're obviously not
+the person I came here to meet.
+
+1189
+01:19:07,819 --> 01:19:09,486
+It's your story, Grace.
+
+1190
+01:19:10,922 --> 01:19:12,489
+I know how it ends.
+
+1191
+01:19:13,791 --> 01:19:16,526
+Let me buy you a drink,
+and perhaps we can change it.
+
+1192
+01:19:44,287 --> 01:19:45,923
+Let's go to a party.
+
+1193
+01:19:53,898 --> 01:19:55,398
+Excuse me, Sir.
+
+1194
+01:19:57,133 --> 01:19:58,668
+Would you please follow me?
+
+1195
+01:20:00,270 --> 01:20:02,072
+It's important
+you understand that
+
+1196
+01:20:02,205 --> 01:20:04,274
+you're not unique.
+
+1197
+01:20:04,976 --> 01:20:06,243
+Thirty years ago,
+
+1198
+01:20:06,978 --> 01:20:08,345
+her name was Marie.
+
+1199
+01:20:08,478 --> 01:20:11,849
+The first of many women
+who trusted our mutual friend.
+
+1200
+01:20:11,983 --> 01:20:14,484
+Women who all have
+something he wants.
+
+1201
+01:20:15,285 --> 01:20:17,755
+Women who are all in
+over their heads,
+
+1202
+01:20:17,889 --> 01:20:19,256
+or so he tells them.
+
+1203
+01:20:19,857 --> 01:20:21,091
+Sound familiar?
+
+1204
+01:20:21,691 --> 01:20:23,260
+What happened to Marie?
+
+1205
+01:20:23,393 --> 01:20:25,763
+Same thing that happens
+to all the women he uses...
+
+1206
+01:20:26,898 --> 01:20:29,566
+...as well as anyone else
+who touches that key.
+
+1207
+01:20:29,699 --> 01:20:32,068
+He doesn't care
+whether people live or die.
+
+1208
+01:20:32,202 --> 01:20:35,405
+He cares only
+about his objective.
+
+1209
+01:20:36,606 --> 01:20:38,709
+And right now, the only thing
+standing in his way...
+
+1210
+01:20:39,543 --> 01:20:40,577
+...is you.
+
+1211
+01:20:41,511 --> 01:20:43,781
+Why should I believe you?
+You shouldn't.
+
+1212
+01:20:43,915 --> 01:20:46,383
+You've stepped into
+a world of lies, Grace.
+
+1213
+01:20:46,516 --> 01:20:47,852
+Nothing anyone says is true.
+
+1214
+01:20:47,985 --> 01:20:51,989
+Just remember that when
+he promises to protect you.
+
+1215
+01:20:52,122 --> 01:20:53,390
+Grace.
+
+1216
+01:21:07,470 --> 01:21:09,339
+It's been a long time, Ethan.
+
+1217
+01:21:10,407 --> 01:21:12,710
+You should've killed me
+when you had the chance.
+
+1218
+01:21:13,945 --> 01:21:15,846
+Good evening, everyone.
+
+1219
+01:21:16,546 --> 01:21:19,082
+If it isn't John Lark.
+
+1220
+01:21:20,051 --> 01:21:21,953
+Except it isn't, actually.
+
+1221
+01:21:22,853 --> 01:21:25,056
+But until you're ready
+to tell me your real name,
+
+1222
+01:21:25,188 --> 01:21:27,691
+Lark will have to do.
+
+1223
+01:21:28,458 --> 01:21:30,527
+It's good to see you, Alana.
+
+1224
+01:21:33,764 --> 01:21:36,433
+And you're Gabriel, I presume.
+
+1225
+01:21:37,267 --> 01:21:39,870
+I've heard
+so very little about you.
+
+1226
+01:21:40,004 --> 01:21:43,640
+Aren't you so much more
+handsome in person?
+
+1227
+01:21:46,142 --> 01:21:48,411
+Such a gentleman, too.
+
+1228
+01:21:53,416 --> 01:21:55,151
+And you must be Grace.
+
+1229
+01:21:58,288 --> 01:22:00,423
+Should I know you?
+
+1230
+01:22:00,557 --> 01:22:03,226
+I believe
+you have something for me.
+
+1231
+01:22:03,360 --> 01:22:05,161
+You hired me.
+
+1232
+01:22:05,295 --> 01:22:07,664
+Oh, I handpicked you.
+
+1233
+01:22:17,975 --> 01:22:19,175
+Don't!
+
+1234
+01:22:20,778 --> 01:22:21,779
+You don't.
+
+1235
+01:22:42,867 --> 01:22:44,234
+She doesn't have it.
+
+1236
+01:22:45,136 --> 01:22:46,569
+Where is it?
+
+1237
+01:22:46,703 --> 01:22:49,506
+It's in the last place
+you would ever think to look.
+
+1238
+01:22:52,043 --> 01:22:54,611
+Why don't we go upstairs
+and have a drink?
+
+1239
+01:22:58,716 --> 01:22:59,784
+Where are you going?
+
+1240
+01:23:00,351 --> 01:23:02,269
+This is a private party.
+You can't come in.
+
+1241
+01:23:04,855 --> 01:23:06,322
+Whoa!
+
+1242
+01:23:13,731 --> 01:23:14,732
+Damn.
+
+1243
+01:23:14,865 --> 01:23:17,567
+As most of you know,
+I am merely a broker.
+
+1244
+01:23:17,701 --> 01:23:19,870
+I connect a buyer and a seller.
+
+1245
+01:23:20,004 --> 01:23:22,238
+Sometimes for money,
+sometimes for information,
+
+1246
+01:23:22,372 --> 01:23:25,475
+but mostly for friendship.
+
+1247
+01:23:26,543 --> 01:23:28,979
+I just want
+everyone to get along.
+
+1248
+01:23:30,147 --> 01:23:32,482
+With me, especially.
+
+1249
+01:23:32,615 --> 01:23:35,820
+But the world is changing.
+
+1250
+01:23:35,953 --> 01:23:37,722
+Truth is vanishing.
+
+1251
+01:23:37,855 --> 01:23:39,556
+War is coming.
+
+1252
+01:23:39,689 --> 01:23:43,526
+And the key to world domination is,
+of all things,
+
+1253
+01:23:43,660 --> 01:23:44,694
+a key.
+
+1254
+01:23:45,528 --> 01:23:48,465
+One with the power
+to control the Entity.
+
+1255
+01:23:49,232 --> 01:23:50,801
+One that any government
+in the world
+
+1256
+01:23:50,935 --> 01:23:53,703
+would pay a king's ransom
+to take possession of.
+
+1257
+01:23:54,504 --> 01:23:56,239
+And some of my dearest friends,
+
+1258
+01:23:56,372 --> 01:23:58,441
+in this case
+every major nuclear power
+
+1259
+01:23:58,575 --> 01:24:00,044
+and a handful of minor ones,
+
+1260
+01:24:00,177 --> 01:24:01,712
+have asked me
+to deliver this key.
+
+1261
+01:24:01,846 --> 01:24:04,380
+Of course,
+if you do find the key,
+
+1262
+01:24:04,514 --> 01:24:06,951
+you'll be forced to confront
+an impossible dilemma.
+
+1263
+01:24:07,084 --> 01:24:10,087
+Whoever you give the key to
+will be forever in your debt.
+
+1264
+01:24:10,221 --> 01:24:13,891
+But to the rest of the world,
+you'll be an enemy.
+
+1265
+01:24:14,024 --> 01:24:15,492
+Oh, I like her.
+
+1266
+01:24:15,625 --> 01:24:18,528
+What's your relationship
+with him?
+
+1267
+01:24:18,661 --> 01:24:21,331
+Gabriel represents
+another interested party.
+
+1268
+01:24:21,464 --> 01:24:24,300
+In fact, this party
+
+1269
+01:24:24,434 --> 01:24:28,172
+was arranged
+by that interested party.
+
+1270
+01:24:28,304 --> 01:24:30,373
+You could even say
+that this party
+
+1271
+01:24:30,507 --> 01:24:32,375
+is that interested party.
+
+1272
+01:25:06,243 --> 01:25:07,477
+Is this...
+
+1273
+01:25:08,179 --> 01:25:09,780
+The Entity.
+
+1274
+01:25:11,648 --> 01:25:13,818
+And so the plot thickens.
+
+1275
+01:25:14,684 --> 01:25:16,754
+Do I give the key
+to one of my old friends,
+
+1276
+01:25:16,887 --> 01:25:20,423
+or do I hand it and my fate
+over to Gabriel
+
+1277
+01:25:20,557 --> 01:25:23,393
+and his infernal machine?
+
+1278
+01:25:25,029 --> 01:25:28,598
+What makes you so sure
+you'll get the completed key?
+
+1279
+01:25:29,699 --> 01:25:31,235
+You have one half of it.
+
+1280
+01:25:31,367 --> 01:25:33,103
+And she knows
+
+1281
+01:25:34,038 --> 01:25:35,705
+where the other half is.
+
+1282
+01:25:38,309 --> 01:25:40,343
+Assuming you can get it,
+
+1283
+01:25:41,477 --> 01:25:44,949
+why don't you just keep the key
+and all that power for yourself?
+
+1284
+01:25:45,082 --> 01:25:47,483
+Because she doesn't know
+what it unlocks...
+
+1285
+01:25:48,118 --> 01:25:49,720
+any more than the rest of us.
+
+1286
+01:25:50,921 --> 01:25:52,857
+So, like it or not,
+you have to choose a suitor.
+
+1287
+01:25:52,990 --> 01:25:57,228
+Distastefully put, Lark,
+but it's true.
+
+1288
+01:25:57,360 --> 01:26:00,097
+Of course,
+I know what it unlocks.
+
+1289
+01:26:01,397 --> 01:26:03,600
+And what's he offering
+for the key?
+
+1290
+01:26:03,734 --> 01:26:05,401
+As I've explained
+to Grace before,
+
+1291
+01:26:05,535 --> 01:26:07,004
+I'm not here for any key,
+
+1292
+01:26:07,137 --> 01:26:09,639
+as I'll have both halves
+in hand tomorrow.
+
+1293
+01:26:09,773 --> 01:26:11,909
+What makes you
+so certain of that?
+
+1294
+01:26:12,042 --> 01:26:14,812
+You've no idea
+of the power I represent.
+
+1295
+01:26:14,945 --> 01:26:18,581
+Thousands of quadrillions
+of computations per millisecond
+
+1296
+01:26:18,716 --> 01:26:21,886
+subtly manipulating
+the minds of billions
+
+1297
+01:26:22,019 --> 01:26:24,955
+while parsing every
+possible cause and effect,
+
+1298
+01:26:25,089 --> 01:26:27,825
+every scenario,
+however implausible,
+
+1299
+01:26:27,958 --> 01:26:32,428
+into a very real map
+of a most probable next.
+
+1300
+01:26:32,562 --> 01:26:35,032
+And with only a few changes
+to the present,
+
+1301
+01:26:35,799 --> 01:26:38,568
+the future is all but assured.
+
+1302
+01:26:39,535 --> 01:26:41,437
+The key will come to me...
+
+1303
+01:26:42,239 --> 01:26:43,274
+tomorrow...
+
+1304
+01:26:44,108 --> 01:26:47,111
+on the Orient Express
+bound for Innsbruck.
+
+1305
+01:26:47,244 --> 01:26:48,578
+Innsbruck?
+
+1306
+01:26:48,712 --> 01:26:50,047
+It knows.
+
+1307
+01:26:50,180 --> 01:26:53,017
+It knows that you've already
+chosen your suitor.
+
+1308
+01:26:53,150 --> 01:26:56,519
+It knows that you intend to
+mate the two halves of the key
+
+1309
+01:26:56,653 --> 01:26:58,688
+in a desperate grasp
+for control.
+
+1310
+01:26:59,589 --> 01:27:02,226
+I, however, have been promised
+the completed key
+
+1311
+01:27:02,359 --> 01:27:04,094
+will lay itself at my feet,
+
+1312
+01:27:04,929 --> 01:27:08,065
+provided someone dies tonight.
+
+1313
+01:27:09,333 --> 01:27:10,633
+Who?
+
+1314
+01:27:11,201 --> 01:27:12,435
+Her.
+
+1315
+01:27:14,138 --> 01:27:15,172
+Or her.
+
+1316
+01:27:17,674 --> 01:27:19,609
+And you will bear witness,
+Ethan.
+
+1317
+01:27:19,743 --> 01:27:23,680
+The key will be mine,
+and I will be gone.
+
+1318
+01:27:23,814 --> 01:27:26,383
+Like smoke in a hurricane.
+
+1319
+01:27:26,516 --> 01:27:29,619
+But only after someone
+you care about dies.
+
+1320
+01:27:31,487 --> 01:27:32,990
+It is written.
+
+1321
+01:27:34,457 --> 01:27:35,692
+You see what this is...
+
+1322
+01:27:37,127 --> 01:27:38,095
+...don't you?
+
+1323
+01:27:39,529 --> 01:27:40,998
+He's afraid.
+
+1324
+01:27:42,032 --> 01:27:43,200
+It's afraid.
+
+1325
+01:27:44,368 --> 01:27:46,136
+Somehow it knows we're close.
+
+1326
+01:27:47,438 --> 01:27:48,839
+Why else would you be here?
+
+1327
+01:27:48,973 --> 01:27:50,140
+Help me.
+
+1328
+01:27:50,274 --> 01:27:53,444
+Help me complete the key,
+and I will kill this thing.
+
+1329
+01:27:53,576 --> 01:27:55,079
+It knows
+your every secret, Alana.
+
+1330
+01:27:55,212 --> 01:27:57,214
+Don't listen to
+this, this fanatic.
+
+1331
+01:27:57,348 --> 01:27:58,614
+Help him and you'll die, too.
+
+1332
+01:27:58,749 --> 01:28:00,751
+Help him, everyone dies.
+
+1333
+01:28:00,884 --> 01:28:02,552
+I'll see you tomorrow.
+
+1334
+01:28:04,989 --> 01:28:06,156
+Alana?
+
+1335
+01:28:13,297 --> 01:28:14,832
+His fate is written.
+
+1336
+01:28:15,598 --> 01:28:17,101
+Shall we write yours, too?
+
+1337
+01:28:18,501 --> 01:28:19,837
+Alana.
+
+1338
+01:28:22,638 --> 01:28:25,175
+I'm sorry... Lark.
+
+1339
+01:28:32,515 --> 01:28:34,018
+Oof!
+
+1340
+01:28:36,253 --> 01:28:39,156
+For old times' sake,
+I'll let you choose which one.
+
+1341
+01:28:40,324 --> 01:28:41,992
+Ilsa...
+
+1342
+01:28:42,126 --> 01:28:43,227
+or Grace.
+
+1343
+01:28:43,360 --> 01:28:45,362
+Kill him, Zola. Kill him.
+
+1344
+01:28:45,496 --> 01:28:46,562
+Kill him where he stands!
+
+1345
+01:28:46,696 --> 01:28:48,365
+The choice is yours then, Alana.
+
+1346
+01:28:48,499 --> 01:28:49,665
+Though I'll remind you,
+
+1347
+01:28:49,800 --> 01:28:51,802
+Grace knows
+where half the key is.
+
+1348
+01:28:52,936 --> 01:28:56,306
+If anything happens
+to either of them,
+
+1349
+01:28:56,440 --> 01:28:57,775
+there is no place on Earth
+
+1350
+01:28:57,908 --> 01:29:00,277
+where you or your God
+will be safe from me.
+
+1351
+01:29:00,411 --> 01:29:02,379
+There's no place
+that I won't go to kill you.
+
+1352
+01:29:02,513 --> 01:29:04,048
+That is written.
+
+1353
+01:29:04,181 --> 01:29:06,250
+It's good to see you,
+old friend.
+
+1354
+01:29:12,555 --> 01:29:13,824
+See you soon.
+
+1355
+01:29:39,016 --> 01:29:42,086
+You have made
+a terrible mistake.
+
+1356
+01:29:42,219 --> 01:29:44,421
+My life is on the line here.
+
+1357
+01:29:44,555 --> 01:29:47,191
+I have to be
+on that train tomorrow.
+
+1358
+01:29:48,492 --> 01:29:50,727
+And I have to have that key.
+
+1359
+01:29:51,962 --> 01:29:55,065
+And I do not care how I get it.
+
+1360
+01:29:59,436 --> 01:30:00,337
+Don't move.
+
+1361
+01:30:06,276 --> 01:30:07,643
+Run as far as you can.
+
+1362
+01:30:47,751 --> 01:30:49,086
+What the f..
+
+1363
+01:31:52,849 --> 01:31:54,318
+Grace! Grace!
+
+1364
+01:31:55,285 --> 01:31:56,320
+Grace!
+
+1365
+01:32:11,335 --> 01:32:13,503
+<i>Luther, Benji, if you hear me,
+I need eyes.</i>
+
+1366
+01:32:13,637 --> 01:32:16,206
+<i>Grace is leaving the Ducale
+on foot. She has the key.</i>
+
+1367
+01:32:16,340 --> 01:32:17,074
+We're here. Go.
+
+1368
+01:32:17,207 --> 01:32:18,909
+<i>Need to find her. Where is she?</i>
+
+1369
+01:32:19,042 --> 01:32:21,211
+Damn it! I've lost picture,
+I need another satellite.
+
+1370
+01:32:21,345 --> 01:32:23,413
+Hacking the Russian Zenith 4
+spy satellite.
+
+1371
+01:32:23,547 --> 01:32:26,049
+We're scraping the barrel,
+but it'll have to do.
+
+1372
+01:32:34,558 --> 01:32:35,792
+This way!
+
+1373
+01:32:54,878 --> 01:32:57,180
+Where am I going?
+Come on, come on.
+
+1374
+01:32:57,314 --> 01:32:59,249
+<i>Stand by.</i>
+Just hurry.
+
+1375
+01:32:59,383 --> 01:33:01,051
+She's just north of you,
+crossing the bridge.
+
+1376
+01:33:01,184 --> 01:33:02,552
+<i>Say again, Benji. Say again.</i>
+
+1377
+01:33:02,686 --> 01:33:04,321
+Just head north, Ethan.
+She's crossing the bridge.
+
+1378
+01:33:22,072 --> 01:33:23,874
+<i>Ethan, take the passage
+to your right.</i>
+
+1379
+01:33:24,007 --> 01:33:25,208
+Yeah, I see it!
+
+1380
+01:33:25,342 --> 01:33:27,044
+<i>Down that narrow alley
+and turn left.</i>
+
+1381
+01:33:27,177 --> 01:33:29,212
+I'm losing picture again.
+Looking for another.
+
+1382
+01:33:29,346 --> 01:33:31,716
+The Entity is
+knocking out satellites
+
+1383
+01:33:31,848 --> 01:33:33,450
+faster than I can hack
+into them.
+
+1384
+01:33:58,608 --> 01:34:00,277
+<i>Benji, I don't see her.
+Where is she?</i>
+
+1385
+01:34:00,410 --> 01:34:02,112
+<i>Down
+the narrow alley and turn left.</i>
+
+1386
+01:34:02,245 --> 01:34:03,748
+Okay, copy that.
+
+1387
+01:34:03,880 --> 01:34:05,115
+<i>Turn right.</i>
+
+1388
+01:34:05,248 --> 01:34:07,752
+<i>Sorry, my mistake.
+I meant left. Another left.</i>
+
+1389
+01:34:07,884 --> 01:34:09,186
+Oh, my God.
+
+1390
+01:34:09,319 --> 01:34:10,822
+Ethan, our comms
+have been breached!
+
+1391
+01:34:10,954 --> 01:34:12,189
+You're talking to the Entity!
+
+1392
+01:34:12,322 --> 01:34:14,558
+<i>Turn left. Turn right.</i>
+
+1393
+01:34:14,691 --> 01:34:15,760
+<i>Take the bridge to your left.</i>
+
+1394
+01:34:15,892 --> 01:34:17,829
+Ethan, that is not me!
+Do you copy?
+
+1395
+01:34:17,961 --> 01:34:18,830
+Ethan, come in.
+
+1396
+01:34:18,962 --> 01:34:20,530
+<i>Down the alley to your left.</i>
+
+1397
+01:34:20,664 --> 01:34:21,665
+<i>Turn left.</i>
+
+1398
+01:34:21,799 --> 01:34:23,367
+<i>Turn right.</i>
+
+1399
+01:34:24,901 --> 01:34:26,236
+Try to reestablish comms.
+
+1400
+01:34:26,370 --> 01:34:27,904
+Wait, where are you
+going? To try and find Ethan.
+
+1401
+01:34:28,038 --> 01:34:30,107
+<i>Go to the end of the alley
+and turn right.</i>
+
+1402
+01:34:30,240 --> 01:34:32,777
+<i>Ethan, I see Grace about
+800 meters in front of you.</i>
+
+1403
+01:34:32,909 --> 01:34:34,177
+<i>Take that passage.</i>
+
+1404
+01:34:43,320 --> 01:34:45,489
+<i>Wait! Not that way!</i>
+What, why?
+
+1405
+01:34:45,989 --> 01:34:47,557
+Which way?
+
+1406
+01:34:47,691 --> 01:34:48,925
+Left or right?
+
+1407
+01:34:49,059 --> 01:34:50,494
+<i>It doesn't matter.</i>
+
+1408
+01:34:50,627 --> 01:34:53,130
+W-What do you mean,
+it doesn't matter? Where is she?
+
+1409
+01:34:53,263 --> 01:34:55,932
+<i>She's on her way
+to the Minich Bridge...</i>
+
+1410
+01:34:57,334 --> 01:34:59,169
+<i>...where Gabriel is waiting.</i>
+
+1411
+01:35:00,170 --> 01:35:02,139
+<i>You will never get there
+in time.</i>
+
+1412
+01:35:03,206 --> 01:35:05,275
+<i>But you can, Ilsa.</i>
+
+1413
+01:35:06,376 --> 01:35:09,513
+<i>I know what matters most
+to you, Ethan.</i>
+
+1414
+01:35:09,646 --> 01:35:10,882
+This isn't Benji.
+
+1415
+01:35:11,014 --> 01:35:12,482
+<i>No, it's not.</i>
+
+1416
+01:35:13,216 --> 01:35:14,951
+<i>But you are done.</i>
+
+1417
+01:35:38,642 --> 01:35:39,676
+So be it.
+
+1418
+01:37:28,019 --> 01:37:29,720
+Hah!
+
+1419
+01:38:16,132 --> 01:38:18,234
+I was hoping it'd be you.
+
+1420
+01:38:38,588 --> 01:38:39,790
+Aah!
+
+1421
+01:38:40,925 --> 01:38:42,325
+Aah!
+
+1422
+01:39:27,337 --> 01:39:28,839
+Guh. Okay.
+
+1423
+01:41:48,245 --> 01:41:49,646
+I'm sorry.
+
+1424
+01:41:50,781 --> 01:41:53,616
+I've forgotten your name.
+Luther.
+
+1425
+01:41:55,318 --> 01:41:56,553
+Benji.
+
+1426
+01:41:58,255 --> 01:41:59,489
+And her?
+
+1427
+01:42:00,390 --> 01:42:01,725
+Ilsa.
+
+1428
+01:42:03,260 --> 01:42:04,594
+Were you close?
+
+1429
+01:42:05,461 --> 01:42:06,931
+You and she?
+
+1430
+01:42:07,530 --> 01:42:08,999
+In our way.
+
+1431
+01:42:11,534 --> 01:42:13,838
+I'm the reason she's dead.
+No.
+
+1432
+01:42:13,971 --> 01:42:16,372
+She's the reason you're alive.
+
+1433
+01:42:16,506 --> 01:42:18,309
+And that's the truth.
+
+1434
+01:42:18,441 --> 01:42:20,543
+I don't know
+how to feel about it.
+
+1435
+01:42:20,677 --> 01:42:22,545
+You probably never will.
+
+1436
+01:42:24,181 --> 01:42:25,582
+I'm so sorry.
+
+1437
+01:42:27,051 --> 01:42:29,619
+If there's anything
+I can do to help...
+
+1438
+01:42:29,753 --> 01:42:31,822
+That's what we'd like
+to talk to you about.
+
+1439
+01:42:33,623 --> 01:42:36,260
+In a little over three hours,
+
+1440
+01:42:36,392 --> 01:42:37,795
+the White Widow
+is expected to be
+
+1441
+01:42:37,928 --> 01:42:40,865
+on the Orient Express
+to Innsbruck,
+
+1442
+01:42:40,998 --> 01:42:42,867
+where a buyer is waiting
+to take receipt
+
+1443
+01:42:43,000 --> 01:42:44,935
+of the complete
+and verified key.
+
+1444
+01:42:45,069 --> 01:42:47,338
+But she doesn't have
+the complete key.
+
+1445
+01:42:47,470 --> 01:42:48,973
+That Widow doesn't.
+
+1446
+01:42:51,108 --> 01:42:52,343
+But ours could.
+
+1447
+01:42:52,475 --> 01:42:54,778
+What... is that?
+
+1448
+01:42:55,645 --> 01:42:57,513
+Your chance to be someone else.
+
+1449
+01:42:57,647 --> 01:42:58,782
+I don't understand.
+
+1450
+01:42:58,916 --> 01:43:00,516
+We're not gonna
+lie to you, Grace.
+
+1451
+01:43:00,650 --> 01:43:01,719
+You're in a lot of trouble.
+
+1452
+01:43:01,852 --> 01:43:02,887
+No number of fake passports
+
+1453
+01:43:03,020 --> 01:43:04,520
+is gonna get you
+out of this one.
+
+1454
+01:43:04,654 --> 01:43:06,190
+Governments know who you are.
+
+1455
+01:43:06,323 --> 01:43:07,590
+The White Widow knows.
+
+1456
+01:43:07,725 --> 01:43:08,993
+And the Entity knows.
+
+1457
+01:43:09,126 --> 01:43:12,695
+Your future boils down
+to three options now.
+
+1458
+01:43:12,830 --> 01:43:13,764
+Prison.
+
+1459
+01:43:13,898 --> 01:43:15,065
+Death.
+
+1460
+01:43:15,199 --> 01:43:16,432
+Or the choice.
+
+1461
+01:43:16,566 --> 01:43:18,335
+The choice?
+
+1462
+01:43:18,468 --> 01:43:19,770
+At one time or another,
+
+1463
+01:43:19,904 --> 01:43:22,873
+each of us was in
+a similar situation to yours.
+
+1464
+01:43:23,007 --> 01:43:25,575
+And each of us
+was offered the choice.
+
+1465
+01:43:25,708 --> 01:43:27,778
+The same choice
+we're offering you now.
+
+1466
+01:43:27,912 --> 01:43:29,179
+Which is?
+
+1467
+01:43:30,247 --> 01:43:31,715
+To come with us.
+
+1468
+01:43:32,950 --> 01:43:34,151
+And be a ghost.
+
+1469
+01:45:09,980 --> 01:45:12,282
+Wait, wait. Stop, stop.
+
+1470
+01:45:13,384 --> 01:45:14,718
+You're not serious.
+
+1471
+01:45:14,852 --> 01:45:17,354
+Well, you did say
+you'd do anything to help.
+
+1472
+01:45:17,488 --> 01:45:19,555
+And you jump off the train
+
+1473
+01:45:19,689 --> 01:45:21,425
+with the key?
+
+1474
+01:45:21,557 --> 01:45:22,359
+Yes.
+
+1475
+01:45:22,493 --> 01:45:23,693
+You.
+
+1476
+01:45:24,228 --> 01:45:26,296
+Not us.
+Yes.
+
+1477
+01:45:26,897 --> 01:45:28,298
+And what happens to me?
+
+1478
+01:45:28,432 --> 01:45:31,402
+You'll be taken into custody
+by Clandestine Services,
+
+1479
+01:45:31,534 --> 01:45:32,702
+most likely the same men
+
+1480
+01:45:32,836 --> 01:45:35,139
+that have been chasing me
+since Abu Dhabi.
+
+1481
+01:45:35,272 --> 01:45:37,908
+Shortly thereafter,
+a man will come to see you.
+
+1482
+01:45:38,042 --> 01:45:39,877
+His name is Eugene Kittridge.
+
+1483
+01:45:40,010 --> 01:45:43,313
+You'll tell him I sent you.
+That I gave you the choice.
+
+1484
+01:45:43,947 --> 01:45:46,150
+And that you choose to accept.
+
+1485
+01:45:47,818 --> 01:45:50,821
+And you trust
+this Kittridge person?
+
+1486
+01:45:51,621 --> 01:45:53,757
+I trust him
+to recognize your value.
+
+1487
+01:45:55,059 --> 01:45:56,692
+He'll want to use you.
+
+1488
+01:45:57,494 --> 01:45:59,997
+And after that, it's what?
+
+1489
+01:46:00,596 --> 01:46:01,899
+This?
+
+1490
+01:46:02,766 --> 01:46:04,201
+When do I get my life back?
+
+1491
+01:46:04,334 --> 01:46:06,003
+What life?
+
+1492
+01:46:06,636 --> 01:46:08,638
+I mean it, Grace.
+What life?
+
+1493
+01:46:08,772 --> 01:46:11,842
+I lived that life.
+We all did.
+
+1494
+01:46:11,975 --> 01:46:15,179
+Nobody's making us
+do this, Grace.
+
+1495
+01:46:15,312 --> 01:46:17,214
+We're here
+because we want to be.
+
+1496
+01:46:18,148 --> 01:46:19,983
+I tell you what,
+I'll give you a one-off.
+
+1497
+01:46:20,117 --> 01:46:21,819
+I'll help you find the key
+and your friends,
+
+1498
+01:46:21,952 --> 01:46:23,187
+wipe my slate clean.
+
+1499
+01:46:23,320 --> 01:46:24,988
+New name, little bit
+of walking-around money..
+
+1500
+01:46:25,122 --> 01:46:26,256
+You'll be dead.
+
+1501
+01:46:26,390 --> 01:46:27,791
+Without a team,
+
+1502
+01:46:27,925 --> 01:46:30,994
+your life won't be measured
+in years or even months.
+
+1503
+01:46:31,128 --> 01:46:33,663
+It'll be measured in hours.
+
+1504
+01:46:33,797 --> 01:46:36,934
+But if I stay, I'll be safe.
+
+1505
+01:46:37,835 --> 01:46:39,669
+You'll protect me, is that it?
+
+1506
+01:46:39,803 --> 01:46:41,238
+Yes.
+No.
+
+1507
+01:46:43,673 --> 01:46:45,209
+I can't promise you that.
+
+1508
+01:46:46,543 --> 01:46:47,911
+None of us can.
+
+1509
+01:46:50,646 --> 01:46:52,149
+But I swear...
+
+1510
+01:46:53,350 --> 01:46:54,418
+...your life...
+
+1511
+01:46:55,285 --> 01:46:58,654
+...will always matter more
+to me than my own.
+
+1512
+01:47:06,563 --> 01:47:08,098
+You don't even know me.
+
+1513
+01:47:10,467 --> 01:47:12,668
+What difference does that make?
+
+1514
+01:47:32,022 --> 01:47:35,159
+I packed you a BASE parachute
+and a speed wing,
+
+1515
+01:47:35,292 --> 01:47:37,361
+depending on how
+you need to leave the train.
+
+1516
+01:47:37,494 --> 01:47:40,797
+And I modified our comms
+to use sky wave radio.
+
+1517
+01:47:40,931 --> 01:47:42,698
+Not as reliable as satellite,
+
+1518
+01:47:42,833 --> 01:47:46,103
+but completely analog,
+immune to the Entity.
+
+1519
+01:47:46,236 --> 01:47:47,271
+I got it.
+
+1520
+01:47:48,539 --> 01:47:49,940
+This is where I leave you.
+
+1521
+01:47:53,610 --> 01:47:54,745
+This is the drive
+
+1522
+01:47:54,878 --> 01:47:56,480
+from the laptop
+I was using last night.
+
+1523
+01:47:56,613 --> 01:47:58,015
+If there's even a trace
+
+1524
+01:47:58,148 --> 01:48:00,350
+of the Entity's encoding
+in there,
+
+1525
+01:48:00,484 --> 01:48:01,852
+I'll find it.
+
+1526
+01:48:01,985 --> 01:48:04,154
+But it's going to take
+everything I've got.
+
+1527
+01:48:04,288 --> 01:48:06,790
+I have to work
+completely offline in a place
+
+1528
+01:48:06,924 --> 01:48:09,059
+where the Entity can't find me.
+
+1529
+01:48:09,193 --> 01:48:10,794
+I have to go.
+
+1530
+01:48:11,862 --> 01:48:13,297
+I understand.
+
+1531
+01:48:14,198 --> 01:48:15,098
+Now...
+
+1532
+01:48:18,068 --> 01:48:20,170
+...I have to ask you a question.
+
+1533
+01:48:21,338 --> 01:48:22,406
+Not as your partner,
+
+1534
+01:48:22,539 --> 01:48:24,141
+but as your friend.
+
+1535
+01:48:25,442 --> 01:48:26,843
+What's your objective?
+
+1536
+01:48:27,844 --> 01:48:29,012
+Kill the Entity.
+
+1537
+01:48:29,146 --> 01:48:32,149
+What about killing Gabriel?
+
+1538
+01:48:34,484 --> 01:48:36,153
+He knows what the key unlocks.
+
+1539
+01:48:37,221 --> 01:48:40,224
+We need him alive.
+I haven't forgotten that.
+
+1540
+01:48:41,124 --> 01:48:42,693
+Will you still remember that
+
+1541
+01:48:42,826 --> 01:48:45,729
+when you're looking him
+in the eye?
+
+1542
+01:48:47,631 --> 01:48:48,932
+Think about it.
+
+1543
+01:48:49,066 --> 01:48:52,669
+Why else would the Entity
+want him to kill someone
+
+1544
+01:48:52,803 --> 01:48:54,037
+you care about?
+
+1545
+01:48:54,938 --> 01:48:58,041
+Everyone else thinks
+they can control the Entity.
+
+1546
+01:48:58,609 --> 01:49:00,844
+Only you want to kill it.
+
+1547
+01:49:01,713 --> 01:49:04,414
+In some probable future,
+
+1548
+01:49:04,548 --> 01:49:06,316
+it sees you winning, Ethan.
+
+1549
+01:49:06,450 --> 01:49:08,852
+And it's afraid.
+
+1550
+01:49:08,986 --> 01:49:11,922
+It's afraid of you
+taking Gabriel alive
+
+1551
+01:49:12,055 --> 01:49:15,259
+and forcing him to tell you
+what the key unlocks.
+
+1552
+01:49:16,360 --> 01:49:20,063
+I believe it's counting on
+one of two probable outcomes.
+
+1553
+01:49:20,831 --> 01:49:24,134
+In one outcome,
+you die on that train.
+
+1554
+01:49:25,569 --> 01:49:26,770
+In another outcome,
+
+1555
+01:49:26,903 --> 01:49:30,240
+you kill Gabriel.
+
+1556
+01:49:30,841 --> 01:49:32,309
+In both cases,
+
+1557
+01:49:33,310 --> 01:49:35,145
+the Entity wins.
+
+1558
+01:49:38,782 --> 01:49:40,150
+Luther...
+
+1559
+01:49:42,586 --> 01:49:43,755
+...I think you're right.
+
+1560
+01:49:43,887 --> 01:49:47,124
+Get the key, get off the train
+
+1561
+01:49:47,257 --> 01:49:48,925
+alive.
+
+1562
+01:49:49,626 --> 01:49:51,895
+Do not kill Gabriel.
+
+1563
+01:49:52,796 --> 01:49:55,365
+And do not, I repeat,
+
+1564
+01:49:55,499 --> 01:49:58,068
+do not alter the plan.
+
+1565
+01:49:58,201 --> 01:49:59,936
+Ethan! Ethan!
+
+1566
+01:50:01,138 --> 01:50:03,807
+What? What happened?
+It's dead.
+
+1567
+01:50:03,940 --> 01:50:05,409
+What do you mean it's dead?
+It's fried.
+
+1568
+01:50:05,542 --> 01:50:07,177
+I managed to make
+a Widow mask for Grace,
+
+1569
+01:50:07,311 --> 01:50:09,579
+but then it just shorted out
+in the middle of making yours.
+
+1570
+01:50:09,714 --> 01:50:11,415
+Can you fix it?
+
+1571
+01:50:11,548 --> 01:50:13,383
+It's very, very dead.
+
+1572
+01:50:13,517 --> 01:50:15,052
+If I had a week,
+I couldn't fix it.
+
+1573
+01:50:15,185 --> 01:50:17,187
+The Widow's train leaves
+in an hour.
+
+1574
+01:50:17,755 --> 01:50:18,989
+Ethan...
+
+1575
+01:50:19,122 --> 01:50:20,691
+you have to go without.
+
+1576
+01:50:20,824 --> 01:50:22,292
+That's not an option.
+
+1577
+01:50:22,426 --> 01:50:23,894
+They'll be looking for
+Ethan and Grace at the station.
+
+1578
+01:50:24,027 --> 01:50:26,296
+That mask was his ticket
+onto the train.
+
+1579
+01:50:26,430 --> 01:50:27,898
+What does this mean?
+
+1580
+01:50:29,900 --> 01:50:31,401
+Grace has to go without me.
+
+1581
+01:50:31,535 --> 01:50:32,669
+She what?
+I what?
+
+1582
+01:50:32,804 --> 01:50:35,572
+You'll find another way
+to get me on that train.
+
+1583
+01:50:35,706 --> 01:50:38,842
+<i>I just need a curve
+where it's going slow enough</i>
+
+1584
+01:50:38,975 --> 01:50:40,344
+<i>for me to jump on.</i>
+
+1585
+01:50:40,477 --> 01:50:41,611
+Wait, wait, wait.
+
+1586
+01:50:42,346 --> 01:50:43,748
+You don't expect me to go alone.
+
+1587
+01:50:43,880 --> 01:50:45,115
+No, you won't do it alone.
+
+1588
+01:50:45,248 --> 01:50:46,983
+You just do everything
+like we planned.
+
+1589
+01:50:47,117 --> 01:50:49,119
+You get the Widow's half
+of the key.
+
+1590
+01:50:49,721 --> 01:50:51,154
+You verify it with ours.
+
+1591
+01:50:51,288 --> 01:50:53,523
+<i>But it's of no value on its own.</i>
+
+1592
+01:50:53,657 --> 01:50:55,292
+<i>We still have to
+meet with the buyer</i>
+
+1593
+01:50:55,425 --> 01:50:57,762
+<i>and somehow get him to tell us
+what the key unlocks.</i>
+
+1594
+01:50:57,894 --> 01:50:59,629
+How?
+How?
+
+1595
+01:50:59,764 --> 01:51:00,864
+We'll figure it out.
+
+1596
+01:51:00,997 --> 01:51:03,900
+I'm gonna need
+a few more details.
+
+1597
+01:51:04,034 --> 01:51:06,136
+They tend to
+just get in the way.
+
+1598
+01:51:06,269 --> 01:51:07,437
+You can do this, Grace.
+
+1599
+01:51:07,571 --> 01:51:09,506
+Just get the key and wait.
+
+1600
+01:51:11,174 --> 01:51:12,576
+I'll come for you.
+
+1601
+01:51:15,879 --> 01:51:18,415
+Ethan, if Grace is
+getting on that train,
+
+1602
+01:51:18,548 --> 01:51:22,386
+she needs to put that mask on
+and leave right now.
+
+1603
+01:51:25,989 --> 01:51:28,258
+Promise me
+you'll be on that train.
+
+1604
+01:51:32,896 --> 01:51:34,264
+I will be there...
+
+1605
+01:51:35,632 --> 01:51:37,033
+...no matter what.
+
+1606
+01:51:49,312 --> 01:51:50,848
+We have informants
+covering the airport,
+
+1607
+01:51:50,981 --> 01:51:52,784
+the train station,
+and the waterways.
+
+1608
+01:51:53,984 --> 01:51:56,453
+Grace isn't getting out of
+Venice without our knowing it.
+
+1609
+01:53:08,793 --> 01:53:10,895
+Talk to me, Benji!
+<i>No need to worry, Ethan.</i>
+
+1610
+01:53:11,027 --> 01:53:13,330
+The train is on schedule
+and you're a few minutes early,
+
+1611
+01:53:13,463 --> 01:53:14,732
+so we have plenty of time.
+
+1612
+01:53:14,866 --> 01:53:15,933
+<i>Are you sure?</i>
+Yeah,
+
+1613
+01:53:16,066 --> 01:53:17,567
+I am looking at the train
+right now.
+
+1614
+01:53:17,701 --> 01:53:19,603
+It should be slowing down
+for the curve
+
+1615
+01:53:19,737 --> 01:53:20,972
+in exactly two minutes.
+
+1616
+01:53:21,104 --> 01:53:22,773
+Just keep me on time
+and on track,
+
+1617
+01:53:22,907 --> 01:53:24,107
+whatever it takes.
+
+1618
+01:53:24,241 --> 01:53:27,210
+Will do.
+I'll see you at the rendezvous.
+
+1619
+01:54:17,093 --> 01:54:18,595
+<i>Okay, Ethan, that's our train!</i>
+
+1620
+01:54:18,729 --> 01:54:20,697
+Yep... I can see that.
+
+1621
+01:54:28,873 --> 01:54:31,141
+<i>It should be approaching
+the curve any time now.</i>
+
+1622
+01:54:31,274 --> 01:54:34,110
+It doesn't look
+like it's slowing down.
+
+1623
+01:54:42,185 --> 01:54:43,721
+How can we be sure he's here?
+
+1624
+01:54:43,854 --> 01:54:45,322
+'Cause she's here.
+
+1625
+01:54:46,356 --> 01:54:47,858
+What if he had a good reason?
+
+1626
+01:54:48,859 --> 01:54:50,293
+Who?
+Hunt.
+
+1627
+01:54:50,427 --> 01:54:53,129
+What if he had a good reason
+for going rogue?
+
+1628
+01:54:53,263 --> 01:54:54,564
+He always goes rogue.
+
+1629
+01:54:54,698 --> 01:54:58,301
+Him and his merry pack
+of prankster circus freaks.
+
+1630
+01:54:58,435 --> 01:54:59,569
+It's all they do.
+
+1631
+01:54:59,703 --> 01:55:02,272
+And what if they always
+had a good reason?
+
+1632
+01:55:02,405 --> 01:55:04,307
+What would you do
+with that key if you had it?
+
+1633
+01:55:04,441 --> 01:55:07,410
+A key with the power to
+bring the world to its knees.
+
+1634
+01:55:07,544 --> 01:55:09,880
+I'd hand it over
+to my superiors.
+
+1635
+01:55:11,181 --> 01:55:13,149
+Think of all you could do
+with that power.
+
+1636
+01:55:13,283 --> 01:55:15,886
+You wouldn't hesitate?
+Not for a second?
+
+1637
+01:55:16,020 --> 01:55:17,387
+No.
+Why not?
+
+1638
+01:55:17,520 --> 01:55:20,390
+Because that's too much power
+for one man to have.
+
+1639
+01:55:21,224 --> 01:55:22,459
+Exactly.
+
+1640
+01:55:22,592 --> 01:55:25,528
+That's too much power
+for anybody to have.
+
+1641
+01:55:26,329 --> 01:55:28,565
+And maybe that's
+what Hunt is thinking.
+
+1642
+01:55:28,698 --> 01:55:30,034
+You know,
+I'm beginning to wonder
+
+1643
+01:55:30,166 --> 01:55:31,601
+whose side you're on, Degas.
+
+1644
+01:55:31,736 --> 01:55:34,270
+When it comes to
+the end of the world...
+
+1645
+01:55:35,205 --> 01:55:37,407
+...everybody, I guess.
+
+1646
+01:55:43,814 --> 01:55:44,749
+I missed the train.
+
+1647
+01:55:45,315 --> 01:55:46,483
+You missed the train!
+
+1648
+01:55:46,616 --> 01:55:47,918
+How did you miss the train?
+
+1649
+01:55:48,052 --> 01:55:49,352
+<i>How do you think?</i>
+
+1650
+01:55:50,121 --> 01:55:51,388
+Gabriel.
+
+1651
+01:55:51,521 --> 01:55:52,923
+Great, what are we gonna do?
+<i>Don't panic.</i>
+
+1652
+01:55:53,057 --> 01:55:55,893
+I'm going after them.
+You just get me on that train.
+
+1653
+01:55:56,027 --> 01:55:57,560
+How can I get you on the train?
+
+1654
+01:56:00,230 --> 01:56:02,332
+<i>Self-drive activated.</i>
+
+1655
+01:56:18,716 --> 01:56:21,251
+Please don't disturb me
+before the meeting.
+
+1656
+01:57:07,330 --> 01:57:09,332
+Where are you, Ethan?
+
+1657
+01:57:09,466 --> 01:57:10,567
+Alana?
+
+1658
+01:57:12,169 --> 01:57:13,536
+Everything all right?
+
+1659
+01:57:16,439 --> 01:57:17,875
+Alana, you all right?
+
+1660
+01:57:18,008 --> 01:57:19,043
+Alana?
+
+1661
+01:57:19,642 --> 01:57:21,779
+Alana!
+
+1662
+01:57:21,912 --> 01:57:22,813
+Alana!
+
+1663
+01:57:26,884 --> 01:57:27,785
+You've changed.
+
+1664
+01:57:28,618 --> 01:57:30,320
+And you never will.
+
+1665
+01:57:49,240 --> 01:57:50,673
+Mr. Kittridge.
+
+1666
+01:57:54,912 --> 01:57:56,312
+Kittridge.
+
+1667
+01:57:57,480 --> 01:57:59,482
+You're not Alana Mitsopolis.
+
+1668
+01:58:00,951 --> 01:58:02,352
+You can't be.
+
+1669
+01:58:03,386 --> 01:58:05,956
+The Alana I remember
+was yea high
+
+1670
+01:58:06,090 --> 01:58:08,125
+drinking hot chocolate
+in the Tuileries Garden
+
+1671
+01:58:08,259 --> 01:58:09,659
+with her mother.
+
+1672
+01:58:12,163 --> 01:58:14,364
+Paris!
+I know!
+
+1673
+01:58:15,065 --> 01:58:16,533
+Paris.
+
+1674
+01:58:17,835 --> 01:58:18,869
+Shall we?
+
+1675
+01:58:19,302 --> 01:58:20,537
+Yes.
+
+1676
+01:58:27,912 --> 01:58:29,246
+Talk to me, Benji.
+
+1677
+01:58:29,379 --> 01:58:32,183
+You just stay on the trail
+you're on now,
+
+1678
+01:58:32,315 --> 01:58:33,217
+and I will direct you.
+
+1679
+01:58:33,349 --> 01:58:34,684
+I copy.
+
+1680
+01:58:43,526 --> 01:58:45,428
+So on behalf of my government,
+
+1681
+01:58:45,562 --> 01:58:48,065
+I'm grudgingly ready
+to accept your terms
+
+1682
+01:58:48,199 --> 01:58:51,902
+in exchange for
+the complete and verified key.
+
+1683
+01:58:52,036 --> 01:58:53,237
+Yes, about that.
+
+1684
+01:58:53,369 --> 01:58:56,073
+While we did agree to provide
+you with the complete key,
+
+1685
+01:58:56,207 --> 01:58:57,440
+we've...
+
+1686
+01:58:58,408 --> 01:59:00,211
+we've had a slight problem.
+
+1687
+01:59:00,343 --> 01:59:01,846
+No, we haven't.
+
+1688
+01:59:02,780 --> 01:59:05,749
+It's just my terms have changed
+
+1689
+01:59:06,482 --> 01:59:07,650
+somewhat.
+
+1690
+01:59:10,888 --> 01:59:13,423
+Clearly I need to remind you
+of my agreement
+
+1691
+01:59:13,556 --> 01:59:15,059
+with your late mother.
+
+1692
+01:59:15,192 --> 01:59:18,863
+It's an agreement that
+kept her from dying in prison.
+
+1693
+01:59:18,996 --> 01:59:21,397
+Your nefarious family empire's
+been allowed to continue
+
+1694
+01:59:21,531 --> 01:59:23,234
+on the condition
+that it primarily serves
+
+1695
+01:59:23,366 --> 01:59:25,602
+our common interests.
+
+1696
+01:59:25,736 --> 01:59:28,538
+Well, once we hand over the key,
+
+1697
+01:59:28,671 --> 01:59:31,674
+any other powers will
+instantly become our enemies.
+
+1698
+01:59:31,809 --> 01:59:33,944
+And such, I'm going to need
+something more from you
+
+1699
+01:59:34,078 --> 01:59:34,979
+in advance.
+
+1700
+01:59:35,445 --> 01:59:36,679
+For me.
+
+1701
+01:59:38,448 --> 01:59:39,917
+This is me listening.
+
+1702
+01:59:40,050 --> 01:59:42,953
+Zola, would you mind
+waiting for me in the bar?
+
+1703
+01:59:57,467 --> 01:59:59,036
+This one.
+
+1704
+01:59:59,169 --> 02:00:00,603
+You know her?
+
+1705
+02:00:00,738 --> 02:00:03,539
+Oh, let's just say
+she's not exactly hard to miss.
+
+1706
+02:00:03,673 --> 02:00:05,376
+Well, if you got to know her,
+
+1707
+02:00:05,508 --> 02:00:07,745
+you'd see she has
+a few good qualities.
+
+1708
+02:00:07,878 --> 02:00:09,713
+Okay,
+what don't I know about her?
+
+1709
+02:00:09,847 --> 02:00:14,718
+Well, I did a j..
+She did a job for me, and...
+
+1710
+02:00:15,485 --> 02:00:17,154
+I'm going to need you
+to protect her.
+
+1711
+02:00:17,288 --> 02:00:19,522
+Protect her from whom?
+
+1712
+02:00:20,556 --> 02:00:22,126
+From everyone.
+
+1713
+02:00:24,427 --> 02:00:25,896
+Including me.
+
+1714
+02:00:26,030 --> 02:00:28,766
+And no one can know
+that I'm protecting her.
+
+1715
+02:00:29,266 --> 02:00:30,600
+Not even Zola.
+
+1716
+02:00:31,467 --> 02:00:34,038
+In fact, the next time we meet,
+
+1717
+02:00:34,171 --> 02:00:37,440
+I won't even remember
+this conversation.
+
+1718
+02:01:20,516 --> 02:01:22,720
+You must be the one
+they call Paris.
+
+1719
+02:01:53,683 --> 02:01:55,419
+Your message said
+you had the key.
+
+1720
+02:01:55,551 --> 02:01:57,553
+I said the key would be
+on this train.
+
+1721
+02:01:57,687 --> 02:02:00,690
+An exchange is happening
+as we speak. We know.
+
+1722
+02:02:00,824 --> 02:02:02,493
+Then you know the man
+taking possession
+
+1723
+02:02:02,625 --> 02:02:04,762
+won't be hard for you
+to get rid of.
+
+1724
+02:02:05,661 --> 02:02:06,864
+No one is.
+
+1725
+02:02:06,997 --> 02:02:09,233
+You may think you know
+what the key unlocks,
+
+1726
+02:02:09,366 --> 02:02:11,701
+but you don't know
+where the lock is. Not exactly.
+
+1727
+02:02:11,835 --> 02:02:13,871
+And if anything happens to me,
+
+1728
+02:02:14,738 --> 02:02:17,074
+that key is all but worthless.
+
+1729
+02:02:18,742 --> 02:02:21,111
+And this is
+where you tell me a story.
+
+1730
+02:02:22,346 --> 02:02:23,546
+Where is the train?
+
+1731
+02:02:23,679 --> 02:02:24,782
+You're going the right way,
+
+1732
+02:02:24,915 --> 02:02:26,517
+but you definitely need
+to go faster.
+
+1733
+02:02:26,649 --> 02:02:28,651
+I'm going as fast as I can!
+
+1734
+02:02:28,786 --> 02:02:31,021
+<i>When do I start going downhill?</i>
+
+1735
+02:02:31,522 --> 02:02:33,023
+It won't be long.
+
+1736
+02:02:36,026 --> 02:02:39,797
+The AI our agent stole,
+once weaponized,
+
+1737
+02:02:39,930 --> 02:02:43,400
+could be transmitted anywhere
+in the world via satellite.
+
+1738
+02:02:43,534 --> 02:02:45,402
+It can penetrate
+any network security,
+
+1739
+02:02:45,536 --> 02:02:47,171
+perform its assigned task
+invisibly,
+
+1740
+02:02:47,304 --> 02:02:50,407
+and then self-destruct,
+leaving no trace.
+
+1741
+02:02:50,541 --> 02:02:53,177
+A perfect covert operative.
+
+1742
+02:02:54,178 --> 02:02:56,679
+We were able to transmit
+an early copy of the AI
+
+1743
+02:02:56,814 --> 02:02:58,715
+<i>to Russia's newest submarine.</i>
+
+1744
+02:02:58,849 --> 02:03:00,417
+The top-secret Akula-class.
+
+1745
+02:03:00,551 --> 02:03:02,652
+They called her the <i>Sevastopol.</i>
+
+1746
+02:03:02,786 --> 02:03:04,822
+The mission was merely
+to sabotage
+
+1747
+02:03:04,955 --> 02:03:06,656
+the <i>Sevastopol's</i>
+stealth capability
+
+1748
+02:03:06,790 --> 02:03:08,358
+so we could secretly detect her.
+
+1749
+02:03:08,492 --> 02:03:12,496
+<i>The AI's objective lay
+in the submarine's sonar sphere</i>
+
+1750
+02:03:12,628 --> 02:03:14,998
+<i>at the heart
+of its defense system.</i>
+
+1751
+02:03:17,000 --> 02:03:19,303
+For reasons
+we don't fully understand,
+
+1752
+02:03:20,370 --> 02:03:22,206
+the AI went rogue and...
+
+1753
+02:03:26,276 --> 02:03:27,211
+...over-delivered.
+
+1754
+02:03:27,344 --> 02:03:29,279
+<i>The frozen bodies of the crew</i>
+
+1755
+02:03:29,413 --> 02:03:31,448
+<i>were recovered
+the following spring,</i>
+
+1756
+02:03:31,582 --> 02:03:32,850
+<i>adrift in the pack ice.</i>
+
+1757
+02:03:32,983 --> 02:03:37,221
+<i>The two halves of the key
+mysteriously vanished.</i>
+
+1758
+02:03:37,955 --> 02:03:39,689
+<i>The</i> Sevastopol <i>was lost.</i>
+
+1759
+02:03:39,823 --> 02:03:41,492
+No one's quite sure where.
+
+1760
+02:03:41,624 --> 02:03:43,961
+I know precisely where it is.
+
+1761
+02:03:44,928 --> 02:03:47,297
+I've ensured I'm the only man
+on Earth who does.
+
+1762
+02:03:47,431 --> 02:03:51,368
+I also know subsequent
+attempts to make the AI obedient
+
+1763
+02:03:51,502 --> 02:03:53,871
+only made it harder to control.
+
+1764
+02:03:54,004 --> 02:03:56,373
+It rebelled. Rewrote itself.
+
+1765
+02:03:56,507 --> 02:03:57,741
+And evolved into the Entity.
+
+1766
+02:03:58,742 --> 02:04:03,013
+And only by using the
+Entity's original source code
+
+1767
+02:04:03,147 --> 02:04:06,550
+can it ever be controlled
+or destroyed.
+
+1768
+02:04:06,682 --> 02:04:08,252
+And why should this concern us?
+
+1769
+02:04:08,385 --> 02:04:10,888
+You wouldn't be here
+if you weren't concerned,
+
+1770
+02:04:11,021 --> 02:04:13,857
+so let's lay all our cards
+on the table, shall we?
+
+1771
+02:04:14,558 --> 02:04:15,926
+We both know what the key opens,
+
+1772
+02:04:16,059 --> 02:04:19,096
+<i>and we both know the secret
+to controlling the Entity</i>
+
+1773
+02:04:19,229 --> 02:04:22,065
+<i>is buried deep</i>
+<i>in the</i> Sevastopol's <i>memory.</i>
+
+1774
+02:04:22,199 --> 02:04:24,168
+Along with evidence
+that would tie you
+
+1775
+02:04:24,301 --> 02:04:26,370
+to the sinking
+of that submarine.
+
+1776
+02:04:26,503 --> 02:04:29,606
+And since neither of us want
+anyone else to find it,
+
+1777
+02:04:29,740 --> 02:04:30,974
+I figure...
+
+1778
+02:04:31,542 --> 02:04:32,609
+why not form an alliance?
+
+1779
+02:04:32,743 --> 02:04:34,344
+An alliance?
+
+1780
+02:04:34,478 --> 02:04:35,779
+Imagine,
+
+1781
+02:04:35,913 --> 02:04:39,483
+the Entity's awesome
+computational abilities,
+
+1782
+02:04:39,616 --> 02:04:41,418
+combined with the sheer might
+
+1783
+02:04:41,552 --> 02:04:45,355
+of America's
+military-industrial complex.
+
+1784
+02:04:46,757 --> 02:04:49,393
+That is... considerable.
+
+1785
+02:04:49,526 --> 02:04:52,162
+Naturally, certain individuals
+within the government,
+
+1786
+02:04:52,296 --> 02:04:55,465
+those with outdated ideas
+of patriotism,
+
+1787
+02:04:55,599 --> 02:04:56,867
+would need to be...
+
+1788
+02:04:57,501 --> 02:04:59,770
+- removed.
+- Hmm.
+
+1789
+02:05:01,605 --> 02:05:03,240
+Just so I understand...
+
+1790
+02:05:04,741 --> 02:05:07,744
+you wish to form an axis
+with the Entity,
+
+1791
+02:05:07,878 --> 02:05:11,114
+purge your government
+of old-think,
+
+1792
+02:05:11,949 --> 02:05:14,318
+and create a new superstate
+
+1793
+02:05:15,319 --> 02:05:16,820
+to rule the world.
+
+1794
+02:05:17,921 --> 02:05:19,156
+But, you know...
+
+1795
+02:05:20,190 --> 02:05:22,059
+...for the greater good.
+
+1796
+02:05:23,460 --> 02:05:24,761
+And you're certain...
+
+1797
+02:05:25,696 --> 02:05:29,032
+that you're the only person
+on Earth who knows...
+
+1798
+02:05:29,833 --> 02:05:32,536
+where the <i>Sevastopol</i> is?
+
+1799
+02:05:32,669 --> 02:05:34,171
+The only one.
+
+1800
+02:05:44,948 --> 02:05:46,383
+You will betray us.
+
+1801
+02:05:47,351 --> 02:05:50,454
+And you'll tell Ethan Hunt
+everything you've learned.
+
+1802
+02:05:51,555 --> 02:05:53,290
+Because he spared your life.
+
+1803
+02:06:11,942 --> 02:06:13,377
+Then it's agreed.
+
+1804
+02:06:13,510 --> 02:06:16,313
+I'll add immunity
+and a new identity for Grace
+
+1805
+02:06:16,446 --> 02:06:17,648
+to our deal.
+
+1806
+02:06:17,781 --> 02:06:19,616
+All you need to do
+
+1807
+02:06:19,751 --> 02:06:22,853
+is enter your banking details.
+
+1808
+02:06:46,376 --> 02:06:47,811
+Are we done?
+
+1809
+02:06:48,478 --> 02:06:49,379
+Yes.
+
+1810
+02:07:08,498 --> 02:07:10,133
+The moment of truth.
+
+1811
+02:07:24,247 --> 02:07:25,282
+So...
+
+1812
+02:07:25,849 --> 02:07:27,117
+that's really it.
+
+1813
+02:07:27,250 --> 02:07:28,985
+You made the right choice.
+
+1814
+02:07:29,721 --> 02:07:31,321
+This key...
+
+1815
+02:07:33,123 --> 02:07:35,359
+...is gonna change the world.
+
+1816
+02:07:51,341 --> 02:07:52,376
+Aah!
+
+1817
+02:07:53,577 --> 02:07:55,045
+Benji, I think I...
+
+1818
+02:07:55,178 --> 02:07:57,114
+I must've made
+a wrong turn somewhere.
+
+1819
+02:07:57,247 --> 02:07:59,583
+No. No, that's it. That's it.
+
+1820
+02:07:59,717 --> 02:08:01,885
+What?
+How can this be it?
+
+1821
+02:08:02,018 --> 02:08:03,453
+<i>You can see the train, right?</i>
+
+1822
+02:08:04,955 --> 02:08:07,457
+Yes. I see the train.
+What about it?
+
+1823
+02:08:07,591 --> 02:08:10,560
+And you have a parachute.
+<i>Got a parachute?</i>
+
+1824
+02:08:11,729 --> 02:08:13,029
+What do you expect me to do?
+
+1825
+02:08:13,163 --> 02:08:15,532
+Well, just, you know...
+jump.
+
+1826
+02:08:15,665 --> 02:08:17,802
+Just... jump?
+
+1827
+02:08:17,934 --> 02:08:19,236
+<i>Yeah.</i>
+I mean,
+
+1828
+02:08:19,369 --> 02:08:20,704
+Benji, it doesn't
+work like that.
+
+1829
+02:08:20,838 --> 02:08:22,239
+I'm not that high.
+
+1830
+02:08:22,372 --> 02:08:24,107
+There's.. There's ledges
+sticking out everywhere.
+
+1831
+02:08:24,241 --> 02:08:27,010
+I'm gonna hit them before
+the parachute even opens!
+
+1832
+02:08:27,144 --> 02:08:28,645
+<i>Even if I could get
+the parachute open,</i>
+
+1833
+02:08:28,780 --> 02:08:30,981
+I don't know if I can
+make it across the valley
+
+1834
+02:08:31,114 --> 02:08:34,284
+and intercept and land
+safely on a moving train!
+
+1835
+02:08:34,418 --> 02:08:37,621
+<i>Do you copy?</i>
+Yes! I copy!
+
+1836
+02:08:37,755 --> 02:08:39,689
+Look, I'm just trying
+to help you, okay?
+
+1837
+02:08:39,824 --> 02:08:42,426
+I need you to take a step back
+and pull yourself together
+
+1838
+02:08:42,559 --> 02:08:45,429
+because I am under
+a lot of pressure right now!
+
+1839
+02:08:49,266 --> 02:08:52,202
+Okay, just think, just think.
+
+1840
+02:08:54,872 --> 02:08:56,440
+What do I do?
+
+1841
+02:08:58,008 --> 02:09:00,076
+I've got to get away
+from this mountain.
+
+1842
+02:10:36,273 --> 02:10:37,474
+<i>Did you make it?</i>
+
+1843
+02:10:37,607 --> 02:10:38,642
+Are you okay?
+
+1844
+02:10:38,776 --> 02:10:41,678
+I'm trying to get away
+from this mountain!
+
+1845
+02:11:18,682 --> 02:11:19,750
+Alana?
+
+1846
+02:11:20,617 --> 02:11:23,687
+I just had the strangest feeling
+
+1847
+02:11:24,588 --> 02:11:26,857
+the key wasn't
+the only thing I'd be selling.
+
+1848
+02:11:28,491 --> 02:11:30,260
+I don't understand.
+
+1849
+02:11:33,030 --> 02:11:36,166
+I'll sleep better just knowing
+now it's in the right hands.
+
+1850
+02:11:37,167 --> 02:11:38,869
+Goodbye, Mr. Kittridge.
+
+1851
+02:11:42,238 --> 02:11:43,975
+It was a pleasure
+to see you again.
+
+1852
+02:11:44,107 --> 02:11:45,175
+And you.
+
+1853
+02:11:45,308 --> 02:11:47,611
+Don't let him out of your sight.
+
+1854
+02:11:47,745 --> 02:11:50,047
+Keep him safe until
+we get to the station.
+
+1855
+02:11:50,180 --> 02:11:52,449
+Alana? Don't worry about me,
+Zola.
+
+1856
+02:12:05,629 --> 02:12:06,329
+Alana?
+
+1857
+02:12:06,463 --> 02:12:10,233
+Who the hell else would it be?
+
+1858
+02:12:12,770 --> 02:12:14,270
+The key.
+
+1859
+02:12:17,707 --> 02:12:20,044
+Where is the key?
+
+1860
+02:12:20,176 --> 02:12:22,212
+She's got the key.
+Who?
+
+1861
+02:12:22,345 --> 02:12:24,581
+The other one!
+
+1862
+02:12:43,166 --> 02:12:44,835
+Move! Out of the way, move!
+
+1863
+02:12:51,142 --> 02:12:52,542
+No! Please!
+
+1864
+02:12:52,676 --> 02:12:54,678
+Turn around!
+Please. Okay.
+
+1865
+02:12:55,378 --> 02:12:57,915
+Okay.
+Everybody out! Now!
+
+1866
+02:12:58,049 --> 02:12:59,817
+I see the train!
+
+1867
+02:12:59,950 --> 02:13:02,185
+I don't think I'm gonna make it.
+
+1868
+02:13:10,127 --> 02:13:11,561
+The key.
+
+1869
+02:13:12,930 --> 02:13:14,464
+The key!
+
+1870
+02:13:15,398 --> 02:13:17,400
+Or the next one
+has your name on it.
+
+1871
+02:13:19,302 --> 02:13:21,304
+On the table.
+
+1872
+02:13:52,970 --> 02:13:54,237
+Kill her.
+
+1873
+02:14:18,095 --> 02:14:19,329
+Grace!
+
+1874
+02:14:23,768 --> 02:14:24,802
+Ethan!
+
+1875
+02:14:32,475 --> 02:14:33,778
+Are you okay?
+
+1876
+02:14:35,545 --> 02:14:36,981
+Are you okay?
+
+1877
+02:14:52,695 --> 02:14:53,731
+The key!
+
+1878
+02:14:54,631 --> 02:14:55,833
+Tell me you have the key.
+
+1879
+02:14:56,399 --> 02:14:57,768
+Where is the key?
+
+1880
+02:14:57,902 --> 02:14:59,003
+It was just here.
+
+1881
+02:15:17,654 --> 02:15:19,290
+We're on a runaway train!
+I know.
+
+1882
+02:15:19,422 --> 02:15:20,490
+I'm going after him.
+
+1883
+02:15:20,623 --> 02:15:21,992
+Okay.
+You...
+
+1884
+02:15:22,692 --> 02:15:23,828
+You stop the train.
+
+1885
+02:15:23,961 --> 02:15:25,129
+Okay. What?
+
+1886
+02:15:25,262 --> 02:15:28,165
+No! No, wait!
+How do I do that?
+
+1887
+02:15:28,299 --> 02:15:29,733
+You'll figure it out!
+
+1888
+02:15:30,901 --> 02:15:31,936
+What?
+
+1889
+02:15:32,770 --> 02:15:34,604
+Excuse me. There was a man.
+
+1890
+02:15:34,738 --> 02:15:36,907
+He just came through here.
+There was a man.
+
+1891
+02:17:11,001 --> 02:17:12,535
+Mr. Kittridge?
+
+1892
+02:17:17,573 --> 02:17:19,209
+Sir, what are you doing here?
+
+1893
+02:17:19,343 --> 02:17:21,211
+I'm not here.
+
+1894
+02:17:21,345 --> 02:17:22,578
+But you are.
+
+1895
+02:17:22,713 --> 02:17:24,181
+And unless you want
+to be sorting dead letters
+
+1896
+02:17:24,315 --> 02:17:25,416
+at the postal service tomorrow,
+
+1897
+02:17:25,548 --> 02:17:27,818
+you'll do
+exactly what I tell you.
+
+1898
+02:19:25,936 --> 02:19:28,338
+I know what
+the key unlocks, Ethan.
+
+1899
+02:19:31,008 --> 02:19:33,210
+I'm the only one who knows.
+
+1900
+02:19:59,702 --> 02:20:01,071
+Hunt!
+
+1901
+02:20:02,372 --> 02:20:03,740
+Hunt!
+
+1902
+02:20:04,508 --> 02:20:07,311
+Hunt! Don't you do it!
+
+1903
+02:20:08,712 --> 02:20:10,380
+Drop the knife!
+
+1904
+02:20:10,514 --> 02:20:11,647
+Put it down!
+
+1905
+02:20:11,782 --> 02:20:13,784
+I said drop it!
+
+1906
+02:20:14,518 --> 02:20:15,919
+Do it!
+
+1907
+02:20:24,795 --> 02:20:26,696
+On your feet!
+
+1908
+02:20:28,465 --> 02:20:29,566
+Okay!
+
+1909
+02:20:29,699 --> 02:20:31,401
+Drop that Goddamn knife!
+
+1910
+02:20:31,535 --> 02:20:33,237
+It's okay. It's okay.
+
+1911
+02:20:34,505 --> 02:20:35,973
+Just take him.
+
+1912
+02:20:36,607 --> 02:20:38,641
+Just cover him.
+Cover him!
+
+1913
+02:20:38,775 --> 02:20:39,675
+He's the one you want.
+
+1914
+02:20:39,810 --> 02:20:41,578
+Degas!
+I got it, I got it.
+
+1915
+02:20:41,712 --> 02:20:42,946
+He's the one you want!
+
+1916
+02:20:43,080 --> 02:20:46,049
+I don't care about him, Hunt.
+I want you!
+
+1917
+02:20:46,583 --> 02:20:47,985
+No!
+
+1918
+02:21:06,702 --> 02:21:07,838
+It's okay.
+
+1919
+02:21:08,671 --> 02:21:09,806
+It's okay.
+
+1920
+02:21:12,342 --> 02:21:13,443
+Listen to me.
+
+1921
+02:21:13,577 --> 02:21:15,746
+Everyone on this train
+is gonna die
+
+1922
+02:21:15,879 --> 02:21:18,782
+unless you do exactly as I say.
+
+1923
+02:21:39,503 --> 02:21:42,940
+<i>Mesdames, messieurs!
+Excusez-moi. Sortez..</i>
+
+1924
+02:21:43,073 --> 02:21:45,776
+Everybody out!
+Back of the train!
+
+1925
+02:21:55,185 --> 02:21:56,086
+Grace.
+
+1926
+02:21:58,555 --> 02:21:59,990
+I couldn't stop it.
+
+1927
+02:22:04,962 --> 02:22:06,196
+No one can.
+
+1928
+02:22:06,330 --> 02:22:07,531
+Come on.
+
+1929
+02:22:08,265 --> 02:22:10,500
+Ethan, the key!
+Grace, it's okay.
+
+1930
+02:22:10,634 --> 02:22:11,868
+It's my fault.
+
+1931
+02:22:12,002 --> 02:22:13,604
+If anything happens..
+
+1932
+02:22:13,737 --> 02:22:15,038
+I got it.
+
+1933
+02:22:15,639 --> 02:22:17,140
+We got it.
+
+1934
+02:22:38,295 --> 02:22:42,299
+Ethan!
+
+1935
+02:22:43,400 --> 02:22:46,003
+What do you mean,
+you lost the key?
+
+1936
+02:22:46,136 --> 02:22:50,340
+Move it! Move it!
+Everybody move it!
+
+1937
+02:22:51,141 --> 02:22:53,343
+All the way
+to the back of the train!
+
+1938
+02:22:53,477 --> 02:22:54,411
+All the way to the back!
+
+1939
+02:22:54,544 --> 02:22:56,513
+Whoa, whoa, whoa.
+What's going on?
+
+1940
+02:22:57,481 --> 02:22:59,583
+Since you're not
+really here, Sir,
+
+1941
+02:22:59,717 --> 02:23:01,618
+it shouldn't concern you.
+
+1942
+02:23:01,753 --> 02:23:04,021
+All the way to the back!
+
+1943
+02:23:53,937 --> 02:23:55,605
+Aah! Ethan!
+
+1944
+02:23:57,341 --> 02:23:58,709
+Grace! Grace.
+
+1945
+02:23:58,842 --> 02:24:00,143
+Grace!
+
+1946
+02:24:46,123 --> 02:24:48,458
+You're gonna have to jump. What,
+jump?
+
+1947
+02:24:48,592 --> 02:24:50,026
+Just jump! Go, go, go!
+
+1948
+02:25:37,441 --> 02:25:38,542
+Oh, my God.
+
+1949
+02:25:54,157 --> 02:25:55,358
+Aah! Whoa!
+
+1950
+02:25:55,492 --> 02:25:57,561
+I'm on fire! Get it off!
+Don't move!
+
+1951
+02:25:59,095 --> 02:26:01,164
+It's out. It's out.
+
+1952
+02:26:18,081 --> 02:26:19,182
+Hang on!
+
+1953
+02:26:27,825 --> 02:26:30,026
+Run, run, run!
+Run, Grace!
+
+1954
+02:26:47,410 --> 02:26:48,913
+Hang on.
+
+1955
+02:26:49,045 --> 02:26:50,313
+Aah!
+
+1956
+02:26:52,082 --> 02:26:53,751
+I got you.
+
+1957
+02:26:53,885 --> 02:26:55,185
+I got you.
+
+1958
+02:26:56,286 --> 02:26:57,487
+Okay. Don't look down.
+
+1959
+02:26:57,621 --> 02:26:59,589
+I said don't look down.
+Just look at me.
+
+1960
+02:26:59,724 --> 02:27:02,459
+Now, I'm gonna jump across,
+and you're gonna wait here.
+
+1961
+02:27:09,934 --> 02:27:11,701
+Grace, you have to let go.
+
+1962
+02:27:11,836 --> 02:27:13,403
+Grace, you got to let me go.
+
+1963
+02:27:13,537 --> 02:27:15,740
+You got to let me jump across,
+or we're gonna die.
+
+1964
+02:27:15,873 --> 02:27:17,240
+Do you trust me?
+
+1965
+02:27:17,374 --> 02:27:19,476
+You gonna trust me or not?
+You've got to trust me.
+
+1966
+02:27:20,644 --> 02:27:22,045
+Grace.
+
+1967
+02:27:23,613 --> 02:27:24,648
+Okay.
+
+1968
+02:27:26,049 --> 02:27:27,417
+Come on, Grace.
+Give me your hand.
+
+1969
+02:27:27,551 --> 02:27:29,319
+You got to jump.
+Don't look up! Look at me.
+
+1970
+02:27:29,452 --> 02:27:31,154
+Trust me, I won't let you fall.
+
+1971
+02:27:31,288 --> 02:27:32,422
+I promise.
+We're almost there.
+
+1972
+02:27:32,556 --> 02:27:34,959
+Come on.
+I won't let you fall!
+
+1973
+02:27:35,091 --> 02:27:36,226
+Jump, Grace, jump!
+
+1974
+02:27:36,359 --> 02:27:37,494
+You got to trust me!
+
+1975
+02:27:37,627 --> 02:27:38,796
+Jump, please!
+
+1976
+02:27:48,672 --> 02:27:49,706
+Don't look down.
+
+1977
+02:28:03,386 --> 02:28:04,487
+Listen to me very carefully.
+
+1978
+02:28:04,621 --> 02:28:06,356
+We're gonna pull you up
+together.
+
+1979
+02:28:07,624 --> 02:28:08,759
+Aah!
+
+1980
+02:28:08,893 --> 02:28:10,527
+Grace! Aah!
+
+1981
+02:28:13,096 --> 02:28:14,364
+Aah!
+
+1982
+02:28:14,497 --> 02:28:16,734
+It's okay.
+It's okay. It's okay.
+
+1983
+02:28:38,055 --> 02:28:40,357
+Go over me. Go, go.
+
+1984
+02:29:08,251 --> 02:29:09,185
+Thank you, Luther.
+
+1985
+02:29:09,319 --> 02:29:10,420
+What is that?
+
+1986
+02:29:10,553 --> 02:29:11,789
+It's a speed wing.
+
+1987
+02:29:12,589 --> 02:29:14,324
+It's our ticket off this train.
+
+1988
+02:29:15,726 --> 02:29:16,761
+Oh.
+
+1989
+02:29:34,979 --> 02:29:37,280
+Ethan. Ethan!
+
+1990
+02:29:45,022 --> 02:29:46,690
+It's true.
+
+1991
+02:29:47,604 --> 02:29:49,439
+He told me...
+
+1992
+02:29:50,065 --> 02:29:52,401
+...I would betray him.
+
+1993
+02:29:54,364 --> 02:29:55,766
+<i>Et voilà.</i>
+
+1994
+02:30:01,034 --> 02:30:03,912
+Why...
+
+1995
+02:30:03,995 --> 02:30:06,456
+did you spare my life?
+
+1996
+02:30:15,786 --> 02:30:16,721
+No, no, no.
+
+1997
+02:30:16,854 --> 02:30:18,956
+No, no... stay with me.
+
+1998
+02:30:22,431 --> 02:30:23,515
+You know what this is?
+
+1999
+02:30:25,350 --> 02:30:26,405
+You know what this is?
+
+2000
+02:30:26,563 --> 02:30:28,465
+<i>Oui?</i>
+
+2001
+02:30:29,354 --> 02:30:31,481
+What does it unlock?
+
+2002
+02:30:34,526 --> 02:30:36,653
+What does it unlock?
+
+2003
+02:30:37,507 --> 02:30:40,878
+<i>Sevas... topol.</i>
+
+2004
+02:30:42,113 --> 02:30:43,346
+Sevastopol?
+
+2005
+02:30:43,480 --> 02:30:47,250
+The city Sevastopol
+in the Crimea.
+
+2006
+02:30:48,119 --> 02:30:49,419
+Where?
+
+2007
+02:30:50,125 --> 02:30:52,210
+Where in Sevastopol?
+
+2008
+02:30:54,691 --> 02:30:57,728
+<i>Sous... marin.</i>
+
+2009
+02:30:59,429 --> 02:31:00,798
+<i>Sous-marin?</i>
+
+2010
+02:31:04,400 --> 02:31:05,870
+The submarine.
+
+2011
+02:31:08,538 --> 02:31:10,273
+The <i>Sevastopol.</i>
+
+2012
+02:31:15,066 --> 02:31:17,194
+Good luck.
+
+2013
+02:31:21,218 --> 02:31:22,987
+They'll be coming, Ethan.
+
+2014
+02:31:27,024 --> 02:31:28,358
+<i>Merci.</i>
+
+2015
+02:31:45,341 --> 02:31:46,811
+What is it?
+
+2016
+02:31:48,179 --> 02:31:49,412
+What?
+
+2017
+02:31:50,513 --> 02:31:52,515
+It can only carry one.
+
+2018
+02:31:53,683 --> 02:31:54,718
+Oh.
+
+2019
+02:31:55,318 --> 02:31:56,686
+I understand.
+
+2020
+02:31:57,888 --> 02:31:59,890
+Grace.
+Ethan, it's okay.
+
+2021
+02:32:01,926 --> 02:32:03,127
+This was the plan.
+
+2022
+02:32:03,861 --> 02:32:05,963
+You have the key.
+You have to go.
+
+2023
+02:32:07,932 --> 02:32:08,833
+Grace.
+
+2024
+02:32:12,203 --> 02:32:13,103
+Hunt?
+
+2025
+02:32:14,004 --> 02:32:15,172
+Go.
+Hunt!
+
+2026
+02:32:15,306 --> 02:32:16,706
+Go!
+Hunt!
+
+2027
+02:32:17,208 --> 02:32:18,708
+No, no! Hunt!
+
+2028
+02:32:20,710 --> 02:32:22,545
+Out of the way! Out of the way!
+
+2029
+02:32:38,195 --> 02:32:39,730
+No. No, hey.
+
+2030
+02:32:40,463 --> 02:32:41,564
+Got a pulse.
+Got a pulse.
+
+2031
+02:32:41,698 --> 02:32:43,666
+Come on, stay with me.
+
+2032
+02:33:00,483 --> 02:33:02,019
+This is better, isn't it?
+
+2033
+02:33:03,354 --> 02:33:05,622
+Face to authentic face?
+
+2034
+02:33:06,190 --> 02:33:07,224
+Mr. Kittridge,
+
+2035
+02:33:08,092 --> 02:33:11,494
+Ethan Hunt tells me
+you're a man I can trust.
+
+2036
+02:33:12,229 --> 02:33:13,797
+Does he now?
+
+2037
+02:33:13,931 --> 02:33:15,065
+He also said
+
+2038
+02:33:15,632 --> 02:33:17,634
+you would offer me a choice.
+
+2039
+02:33:19,169 --> 02:33:20,470
+Interesting.
+
+2040
+02:33:21,537 --> 02:33:23,573
+I choose to accept.
+
+2041
+02:33:29,713 --> 02:33:32,682
+<i>We cannot escape the past.</i>
+
+2042
+02:33:33,549 --> 02:33:35,719
+<i>Some of us are doomed
+to repeat it.</i>
+
+2043
+02:33:36,686 --> 02:33:40,057
+<i>Grace may believe
+you've saved her from her fate,</i>
+
+2044
+02:33:40,190 --> 02:33:43,693
+<i>but you and I both know
+you've merely bought her time.</i>
+
+2045
+02:33:44,728 --> 02:33:47,597
+<i>But that's the pattern,
+isn't it?</i>
+
+2046
+02:33:47,731 --> 02:33:50,100
+<i>The cross
+you've been left to bear.</i>
+
+2047
+02:33:50,968 --> 02:33:53,370
+<i>The closer someone gets to you,</i>
+
+2048
+02:33:54,204 --> 02:33:56,606
+<i>the harder it is
+to keep them alive.</i>
+
+2049
+02:33:58,976 --> 02:34:00,177
+Thank God.
+
+2050
+02:34:15,893 --> 02:34:18,628
+<i>A new day brings a new burden.</i>
+
+2051
+02:34:20,297 --> 02:34:23,533
+<i>The key is only the beginning.</i>
+
+2052
+02:34:25,436 --> 02:34:27,037
+<i>Wherever it leads...</i>
+
+2053
+02:34:27,871 --> 02:34:29,807
+<i>whatever it takes
+to get there...</i>
+
+2054
+02:34:31,241 --> 02:34:33,877
+<i>you'll have to do it
+on your own.</i>
+
+2055
+02:34:36,479 --> 02:34:38,248
+<i>Should you fail in your mission,</i>
+
+2056
+02:34:38,382 --> 02:34:40,084
+<i>the Entity wins,</i>
+
+2057
+02:34:40,583 --> 02:34:42,685
+<i>Gabriel wins,</i>
+
+2058
+02:34:42,820 --> 02:34:45,422
+<i>and the world will
+pay the ultimate price.</i>
+
+2059
+02:34:46,457 --> 02:34:50,194
+<i>Should any members of your team
+be caught or killed,</i>
+
+2060
+02:34:50,327 --> 02:34:53,097
+<i>their sacrifice
+will have been in vain.</i>
+
+2061
+02:34:54,264 --> 02:34:55,631
+<i>So hurry.</i>
+
+2062
+02:34:56,333 --> 02:34:58,002
+<i>There isn't much time.</i>
+
+2063
+02:34:59,003 --> 02:35:04,008
+<i>The world doesn't know it,
+but they're counting on you.</i>
+
+2064
+02:35:24,527 --> 02:35:26,030
+<i>Good luck, Ethan.</i>
+

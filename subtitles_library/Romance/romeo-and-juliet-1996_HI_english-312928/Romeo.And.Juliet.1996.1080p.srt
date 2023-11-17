@@ -1,0 +1,2262 @@
+1
+00:00:28,953 --> 00:00:32,025
+...in fair Verona, where we lay our scene...
+
+2
+00:00:32,113 --> 00:00:35,185
+...from ancient grudge
+break to new mutiny...
+
+3
+00:00:35,273 --> 00:00:38,390
+...where civil blood
+makes civil hands unclean.
+
+4
+00:00:38,473 --> 00:00:41,226
+From forth the fatal loins
+of these two foes...
+
+5
+00:00:41,313 --> 00:00:44,305
+...a pair of star-cross'd lovers take their life;
+
+6
+00:00:44,393 --> 00:00:46,953
+...whose misadventured piteous overthrows...
+
+7
+00:00:47,033 --> 00:00:50,230
+...doth with their death
+bury their parents' strife.
+
+8
+00:00:50,313 --> 00:00:53,066
+The fearful passage
+of their death-mark'd love...
+
+9
+00:00:53,153 --> 00:00:55,826
+...and the continuance
+of their parents' rage...
+
+10
+00:00:55,913 --> 00:00:59,667
+...which, but their children's end,
+nought could remove...
+
+11
+00:00:59,753 --> 00:01:02,392
+...is now the two hours' traffic of our stage.
+
+12
+00:01:21,233 --> 00:01:23,872
+Two households...
+
+13
+00:01:23,953 --> 00:01:26,023
+... both alike in dignity...
+
+14
+00:01:26,113 --> 00:01:29,583
+... in fair Verona, where we lay our scene...
+
+15
+00:01:29,673 --> 00:01:34,667
+... from ancient grudge
+break to new mutiny...
+
+16
+00:01:34,753 --> 00:01:39,065
+... where civil blood
+makes civil hands unclean.
+
+17
+00:01:41,073 --> 00:01:46,352
+From forth the fatal loins
+of these two foes...
+
+18
+00:01:47,393 --> 00:01:52,308
+... a pair of star-cross'd lovers
+take their life.
+
+19
+00:02:28,193 --> 00:02:32,983
+A dog of the house of Capulet
+moves me!
+
+20
+00:02:39,273 --> 00:02:41,264
+Pedlar's excrement!
+
+21
+00:02:41,353 --> 00:02:44,629
+King Urinal! Go rot!
+
+22
+00:02:45,233 --> 00:02:47,189
+The boys! The boys!
+
+23
+00:03:00,753 --> 00:03:04,507
+- The quarrel is between our masters.
+- And us their men!
+
+24
+00:03:05,313 --> 00:03:06,268
+Ahh!
+
+25
+00:03:27,393 --> 00:03:31,511
+Hubble, bubble, toil and trouble!
+
+26
+00:03:31,593 --> 00:03:35,552
+And I am a pretty piece of flesh!
+
+27
+00:03:35,633 --> 00:03:37,112
+I am...
+
+28
+00:03:38,593 --> 00:03:41,744
+...a pretty piece of flesh!
+
+29
+00:03:46,153 --> 00:03:49,862
+- Here comes of the house of Capulet!
+- Quarrel, I will back thee.
+
+30
+00:04:09,913 --> 00:04:13,383
+I will bite my thumb at them, which is
+a disgrace to them, if they bear it.
+
+31
+00:04:30,033 --> 00:04:31,751
+Go forth! I will back thee!
+
+32
+00:04:33,873 --> 00:04:36,671
+- Do you bite your thumb at us, sir?
+- I... I do bite my thumb, sir.
+
+33
+00:04:36,753 --> 00:04:38,823
+Do you bite your thumb at us, sir?
+
+34
+00:04:38,913 --> 00:04:41,347
+- Is the law of our side if I say ay?
+- No!
+
+35
+00:04:41,433 --> 00:04:44,505
+No, sir, I do not bite my thumb at you, sir,
+but I bite my thumb, sir!
+
+36
+00:04:44,593 --> 00:04:47,505
+- Do you quarrel, sir?
+- Quarrel, sir? No, sir!
+
+37
+00:04:47,593 --> 00:04:50,505
+But if you do, sir, I am for you.
+I serve as good a man as you.
+
+38
+00:04:50,593 --> 00:04:52,504
+- No better?
+- Uh... uh...
+
+39
+00:04:52,593 --> 00:04:54,629
+Here comes our kinsman. Say better!
+
+40
+00:04:54,713 --> 00:04:56,465
+- Yes, sir, better!
+- You lie!
+
+41
+00:04:57,033 --> 00:04:58,625
+Draw, if you be men!
+
+42
+00:05:02,113 --> 00:05:03,910
+Part, fools! You know not what you do.
+
+43
+00:05:11,073 --> 00:05:12,586
+Put up your Swords!
+
+44
+00:05:42,313 --> 00:05:45,510
+What, art thou drawn
+among these... heartless hinds?
+
+45
+00:05:47,473 --> 00:05:49,304
+Turn thee, Benvolio...
+
+46
+00:05:50,513 --> 00:05:53,152
+...and look upon thy death.
+
+47
+00:05:54,153 --> 00:05:56,144
+I do but keep the peace.
+
+48
+00:05:56,233 --> 00:05:58,189
+Put up thy Sword...
+
+49
+00:05:58,273 --> 00:06:00,787
+...or manage it to part these men with me.
+
+50
+00:06:01,033 --> 00:06:03,024
+Peace?
+
+51
+00:06:03,473 --> 00:06:05,304
+Peace?
+
+52
+00:06:05,393 --> 00:06:07,384
+I hate the word...
+
+53
+00:06:08,673 --> 00:06:10,345
+...as I hate hell...
+
+54
+00:06:10,433 --> 00:06:12,151
+...all Montagues...
+
+55
+00:06:15,993 --> 00:06:17,028
+...and thee.
+
+56
+00:06:17,113 --> 00:06:18,512
+Bang bang!
+
+57
+00:06:20,273 --> 00:06:20,944
+Bang.
+
+58
+00:06:51,993 --> 00:06:53,949
+- Come forth! Come!
+- Wait!
+
+59
+00:06:58,873 --> 00:07:00,943
+Come forth!
+
+60
+00:08:05,113 --> 00:08:07,502
+From ancient grudge
+break to new mutiny...
+
+61
+00:08:12,633 --> 00:08:13,463
+Do not proceed!
+
+62
+00:08:20,473 --> 00:08:22,464
+Give me my Longsword, ho!
+
+63
+00:08:22,553 --> 00:08:25,147
+Thou shalt not stir one foot
+to seek a foe.
+
+64
+00:08:33,033 --> 00:08:34,830
+Rebellious subjects...
+
+65
+00:08:34,913 --> 00:08:36,631
+...enemies to peace!
+
+66
+00:08:36,713 --> 00:08:38,783
+Throw your mistemper'd weapons
+to the ground!
+
+67
+00:08:40,393 --> 00:08:42,145
+On pain of torture...
+
+68
+00:08:42,233 --> 00:08:47,023
+...from those bloody hands throw your
+mistemper'd weapons to the ground!
+
+69
+00:08:48,473 --> 00:08:50,941
+Three civil brawls...
+
+70
+00:08:51,033 --> 00:08:54,628
+...bred of an airy word by thee,
+old Capulet, and Montague...
+
+71
+00:08:54,713 --> 00:08:57,625
+...have thrice disturbed
+the quiet of our streets.
+
+72
+00:08:58,793 --> 00:09:01,990
+If ever you disturb our streets again...
+
+73
+00:09:02,673 --> 00:09:06,063
+...your lives shall pay
+the forfeit of the peace.
+
+74
+00:09:19,833 --> 00:09:22,267
+O where is Romeo? Saw you him today?
+
+75
+00:09:23,313 --> 00:09:25,952
+Right glad I am he was not at this fray.
+
+76
+00:09:26,753 --> 00:09:29,472
+Madam, underneath the Grove
+of Sycamore...
+
+77
+00:09:29,553 --> 00:09:32,272
+...so early walking did I see your son.
+
+78
+00:09:32,353 --> 00:09:34,548
+Many a morning
+hath he there been seen...
+
+79
+00:09:34,633 --> 00:09:37,545
+...with tears augmenting
+the fresh morning's dew.
+
+80
+00:09:37,633 --> 00:09:40,909
+Away from light
+steals home my heavy son...
+
+81
+00:09:40,993 --> 00:09:44,303
+...and private in his chamber
+pens himself...
+
+82
+00:09:44,393 --> 00:09:46,384
+...shuts up his windows...
+
+83
+00:09:46,473 --> 00:09:51,263
+...locks fair daylight out, and
+makes himself an artificial night.
+
+84
+00:10:01,833 --> 00:10:03,346
+Why, then...
+
+85
+00:10:03,433 --> 00:10:07,506
+... O brawling love, O loving hate!
+
+86
+00:10:08,313 --> 00:10:11,669
+O anything of nothing first create!
+
+87
+00:10:11,753 --> 00:10:13,584
+Heavy lightness...
+
+88
+00:10:13,673 --> 00:10:15,664
+... serious vanity.
+
+89
+00:10:16,593 --> 00:10:19,665
+Misshapen chaos of well-seeming forms.
+
+90
+00:11:06,713 --> 00:11:10,103
+Black and portentous
+must this humour prove...
+
+91
+00:11:12,113 --> 00:11:15,025
+...unless good counsel
+may the cause remove.
+
+92
+00:11:16,873 --> 00:11:18,864
+So please you, step aside.
+
+93
+00:11:21,353 --> 00:11:24,425
+I'll know his grievance
+or be much denied.
+
+94
+00:11:25,113 --> 00:11:27,104
+Come, madam, let's away.
+
+95
+00:11:40,793 --> 00:11:42,784
+Good morrow, cousin.
+
+96
+00:11:43,673 --> 00:11:45,664
+Is the day so young?
+
+97
+00:11:45,753 --> 00:11:47,823
+But new struck, coz.
+
+98
+00:11:48,553 --> 00:11:50,544
+Ay me, sad hours seem long.
+
+99
+00:11:53,793 --> 00:11:56,227
+Was that my father that went hence so fast?
+
+100
+00:11:56,313 --> 00:11:58,349
+It was.
+
+101
+00:11:58,433 --> 00:12:00,105
+What sadness lengthens Romeo's hours?
+
+102
+00:12:00,193 --> 00:12:02,263
+Not having that
+which having makes them short.
+
+103
+00:12:02,353 --> 00:12:03,581
+- In love?
+- Out.
+
+104
+00:12:03,673 --> 00:12:05,948
+- Of love?
+- Out of her favour where I am in love.
+
+105
+00:12:06,033 --> 00:12:08,069
+Alas that love,
+so gentle in his view...
+
+106
+00:12:08,153 --> 00:12:10,383
+...should be so tyrannous
+and rough in proof.
+
+107
+00:12:10,473 --> 00:12:12,941
+Alas that love,
+whose view is muffled still...
+
+108
+00:12:13,033 --> 00:12:15,672
+...should without eyes
+see pathways to his will.
+
+109
+00:12:15,753 --> 00:12:17,664
+Where shall we dine?
+
+110
+00:12:17,753 --> 00:12:18,663
+... this costly blood.
+
+111
+00:12:18,753 --> 00:12:21,904
+Never anger made good guard for itself.
+
+112
+00:12:21,993 --> 00:12:23,108
+The law hath not been dead...
+
+113
+00:12:23,193 --> 00:12:25,104
+O me! What fray was here?
+
+114
+00:12:25,193 --> 00:12:27,502
+- Coz, I...
+- Yet tell me not, for I've heard it all.
+
+115
+00:12:27,593 --> 00:12:30,153
+Here's much to do with hate,
+but more with love.
+
+116
+00:12:30,233 --> 00:12:32,463
+Why, then, O brawling love,
+O loving hate!
+
+117
+00:12:32,553 --> 00:12:34,464
+O anything of nothing first create!
+
+118
+00:12:34,553 --> 00:12:37,067
+O heavy lightness, serious vanity!
+
+119
+00:12:37,153 --> 00:12:39,747
+Misshapen chaos of well-seeming forms!
+
+120
+00:12:39,833 --> 00:12:41,869
+Feather of lead, br...
+
+121
+00:12:43,113 --> 00:12:45,104
+Dost thou not laugh?
+
+122
+00:12:45,473 --> 00:12:47,429
+No, coz, I rather weep.
+
+123
+00:12:47,513 --> 00:12:49,504
+Good heart, at what?
+
+124
+00:12:49,793 --> 00:12:53,024
+- At thy good heart's oppression.
+- Farewell, my coz.
+
+125
+00:12:53,113 --> 00:12:56,901
+Soft, I will go along. And if you
+leave me so, you do me wrong.
+
+126
+00:13:04,273 --> 00:13:07,663
+But Montague is bound as well as I,
+in penalty alike.
+
+127
+00:13:07,753 --> 00:13:11,223
+And 'tis not hard, I think, for men
+as old as we to keep the peace.
+
+128
+00:13:11,313 --> 00:13:14,669
+Of honourable reckoning are you both,
+and pity 'tis you lived at odds so long.
+
+129
+00:13:14,833 --> 00:13:16,983
+But now, my lord,
+what say you to my suit?
+
+130
+00:13:17,073 --> 00:13:22,022
+But saying o'er what I have said before:
+My child is yet a stranger in the world.
+
+131
+00:13:22,113 --> 00:13:26,106
+Let two more summers wither in their pride
+ere we may think her ripe to be a bride.
+
+132
+00:13:26,193 --> 00:13:27,990
+Younger than she are happy mothers made.
+
+133
+00:13:28,073 --> 00:13:31,304
+And too soon marr'd are those so early made.
+
+134
+00:13:31,473 --> 00:13:33,748
+This night I hold an old accustom'd feast.
+
+135
+00:13:33,833 --> 00:13:36,267
+At my poor house look to behold this night...
+
+136
+00:13:36,353 --> 00:13:39,823
+...fresh female buds
+that make dark heaven light.
+
+137
+00:13:40,393 --> 00:13:42,384
+Hear all, all see...
+
+138
+00:13:42,473 --> 00:13:45,385
+...and like her most
+whose merit most shall be.
+
+139
+00:13:45,473 --> 00:13:46,986
+Come, go with me.
+
+140
+00:13:48,113 --> 00:13:50,343
+Tell me in sadness,
+who is it that you love?
+
+141
+00:13:50,433 --> 00:13:52,503
+In sadness, cousin, I do love a woman.
+
+142
+00:13:52,593 --> 00:13:55,471
+I aim'd so near when I supposed you loved.
+
+143
+00:13:56,033 --> 00:13:58,547
+A right good marksman!
+And she's fair I love.
+
+144
+00:13:58,633 --> 00:14:01,670
+A right fair mark, fair coz, is soonest hit.
+
+145
+00:14:02,593 --> 00:14:05,903
+Well, in that hit you miss.
+She'll not be hit with Cupid's arrow;
+
+146
+00:14:05,993 --> 00:14:08,382
+...nor bide the encounter of assailing eyes...
+
+147
+00:14:08,473 --> 00:14:10,862
+...nor ope her lap to saint-seducing gold.
+
+148
+00:14:10,953 --> 00:14:13,626
+Then she hath sworn
+that she will still live chaste?
+
+149
+00:14:13,713 --> 00:14:16,307
+She hath, and in that sparing
+makes huge waste.
+
+150
+00:14:16,393 --> 00:14:19,988
+- Be ruled by me. Forget to think of her.
+- Teach me how I should forget to think.
+
+151
+00:14:20,073 --> 00:14:22,906
+By giving liberty unto thine eyes.
+Examine other beauties.
+
+152
+00:14:23,673 --> 00:14:25,584
+Why, Romeo, art thou mad?
+
+153
+00:14:25,673 --> 00:14:28,267
+Not mad,
+but bound more than a madman is.
+
+154
+00:14:28,353 --> 00:14:31,550
+Shut up in prison, kept without
+my food, whipp'd and tormented.
+
+155
+00:14:31,633 --> 00:14:32,543
+Good day, good fellow.
+
+156
+00:14:35,233 --> 00:14:36,985
+Now, I'll tell you without asking.
+
+157
+00:14:37,073 --> 00:14:40,543
+The great rich Capulet
+holds an old accustom'd feast.
+
+158
+00:14:40,633 --> 00:14:43,591
+A fair assembly. Signor Placentio
+and his wife and daughters...
+
+159
+00:14:43,673 --> 00:14:48,189
+... the lady widow of Utruvio, mmm,
+and her lovely nieces Rosaline...
+
+160
+00:14:48,273 --> 00:14:51,071
+At this same ancient feast of Capulet's
+sups the fair Rosaline...
+
+161
+00:14:51,153 --> 00:14:53,587
+...whom thou so loves, with
+all the admired beauties of Verona.
+
+162
+00:14:53,673 --> 00:14:57,586
+If you be not of the House of Montague,
+come and crush a cup of wine!
+
+163
+00:14:57,673 --> 00:14:59,948
+Go thither, and with unattainted eye...
+
+164
+00:15:00,033 --> 00:15:02,752
+...compare her face with some
+that I shall show...
+
+165
+00:15:02,833 --> 00:15:05,552
+...and I will make thee think thy swan a crow.
+
+166
+00:15:05,633 --> 00:15:08,101
+I'll go along, no such sight to be shown...
+
+167
+00:15:08,193 --> 00:15:10,787
+...but to rejoice in splendour of mine own.
+
+168
+00:15:16,033 --> 00:15:19,582
+Juliet!
+
+169
+00:15:22,113 --> 00:15:23,307
+Juliet!
+
+170
+00:15:23,633 --> 00:15:25,430
+Juliet!
+
+171
+00:15:26,193 --> 00:15:27,182
+Juliet!
+
+172
+00:15:27,513 --> 00:15:28,502
+Oh!
+
+173
+00:15:29,913 --> 00:15:31,312
+Ooh!
+
+174
+00:15:35,593 --> 00:15:36,946
+Nurse!
+
+175
+00:15:37,033 --> 00:15:39,149
+Nurse, where's my daughter?
+Call her forth to me.
+
+176
+00:15:39,233 --> 00:15:41,030
+I bade her come. God forbid!
+
+177
+00:15:42,713 --> 00:15:44,590
+Julieta!
+
+178
+00:15:48,753 --> 00:15:49,822
+Juliet!
+
+179
+00:15:51,033 --> 00:15:52,671
+Juliet!
+
+180
+00:15:54,753 --> 00:15:58,143
+Juliet!
+
+181
+00:15:58,233 --> 00:16:00,303
+Madam, I am here. What is your will?
+
+182
+00:16:03,113 --> 00:16:05,946
+O nurse, give us leave awhile.
+We must talk in secret.
+
+183
+00:16:07,713 --> 00:16:10,989
+Nurse, come back again!
+I have remembered me.
+
+184
+00:16:11,073 --> 00:16:12,984
+Thou's hear our counsel.
+
+185
+00:16:13,073 --> 00:16:16,224
+Nurse, thou knowest
+my daughter's of a pretty age.
+
+186
+00:16:16,313 --> 00:16:18,508
+Thou wast the prettiest babe
+that e'er I nursed.
+
+187
+00:16:18,593 --> 00:16:21,585
+By my count, I was your mother
+much upon these years.
+
+188
+00:16:23,673 --> 00:16:25,664
+You are now a maid.
+
+189
+00:16:25,753 --> 00:16:27,744
+Thus then in brief!
+
+190
+00:16:28,393 --> 00:16:31,271
+The valiant Paris seeks you for his love.
+
+191
+00:16:31,713 --> 00:16:33,704
+A man, young lady!
+
+192
+00:16:33,793 --> 00:16:37,263
+Lady, such a man as all the world.
+Why, he's a man of wax!
+
+193
+00:16:37,353 --> 00:16:39,787
+Verona's summer hath not such a flower...
+
+194
+00:16:39,873 --> 00:16:41,989
+Nay, he's a flower. In faith, a very flower...
+
+195
+00:16:42,073 --> 00:16:43,028
+Nurse!
+
+196
+00:16:43,113 --> 00:16:44,944
+This night you shall behold him at our feast.
+
+197
+00:16:45,033 --> 00:16:48,389
+Read o'er the volume of young Paris' face
+and find delight writ there...
+
+198
+00:16:48,473 --> 00:16:49,986
+...with beauty's pen.
+
+199
+00:16:50,073 --> 00:16:53,907
+This... precious book of love,
+this unbound lover...
+
+200
+00:16:53,993 --> 00:16:56,461
+...to beautify him, only lacks a cover.
+
+201
+00:16:56,553 --> 00:16:59,192
+So shall you share all that he doth possess...
+
+202
+00:16:59,273 --> 00:17:02,151
+...by having him making yourself no less.
+
+203
+00:17:03,673 --> 00:17:05,629
+Nay, bigger. Women grow by men.
+
+204
+00:17:07,553 --> 00:17:08,269
+Oh!
+
+205
+00:17:13,273 --> 00:17:15,787
+Speak briefly, could you like of Paris's love?
+
+206
+00:17:15,873 --> 00:17:18,785
+I'll look to like, if looking liking move.
+
+207
+00:17:18,873 --> 00:17:20,943
+But no more deep will I endart mine eye...
+
+208
+00:17:21,033 --> 00:17:23,547
+...than your consent gives strength
+to make it fly.
+
+209
+00:17:26,753 --> 00:17:28,186
+Madam, the guests are come.
+
+210
+00:17:28,273 --> 00:17:29,467
+Go!
+
+211
+00:17:29,553 --> 00:17:31,032
+We follow thee.
+
+212
+00:17:32,993 --> 00:17:34,267
+Juliet! Ugh!
+
+213
+00:17:40,793 --> 00:17:43,990
+Go, girl. Seek happy nights to happy days.
+
+214
+00:18:30,433 --> 00:18:32,503
+You taffeta punk!
+
+215
+00:18:32,593 --> 00:18:34,788
+Die a beggar!
+
+216
+00:18:53,753 --> 00:18:55,550
+Sharing this one and only life
+
+217
+00:18:55,633 --> 00:18:59,751
+Ending up just another
+lost and Ionely wife
+
+218
+00:18:59,833 --> 00:19:01,107
+You count up the years
+
+219
+00:19:01,193 --> 00:19:04,981
+And they will be filled with tears
+
+220
+00:19:07,353 --> 00:19:09,184
+Young hearts
+
+221
+00:19:09,273 --> 00:19:11,423
+Run free
+
+222
+00:19:11,513 --> 00:19:12,389
+Never be hung up
+
+223
+00:19:14,153 --> 00:19:17,543
+Like Rosaline and thee
+
+224
+00:19:18,913 --> 00:19:21,381
+Nay, gentle Romeo,
+we must have you dance.
+
+225
+00:19:21,473 --> 00:19:22,906
+Not I. Not I, believe me.
+
+226
+00:19:22,993 --> 00:19:26,349
+You have dancing shoes with
+nimble soles. I have a soul of lead.
+
+227
+00:19:26,433 --> 00:19:27,707
+You are a lover.
+
+228
+00:19:27,793 --> 00:19:30,387
+Borrow Cupid's wings and soar
+with them above a common bound.
+
+229
+00:19:30,473 --> 00:19:32,668
+Under love's heavy burden do I sink.
+
+230
+00:19:33,393 --> 00:19:36,146
+Too great oppression for a tender thing.
+
+231
+00:19:36,233 --> 00:19:37,791
+Is love a tender thing? It is too rough...
+
+232
+00:19:37,873 --> 00:19:40,706
+...too rude, too boisterous,
+and it pricks like thorn.
+
+233
+00:19:40,793 --> 00:19:42,909
+If love be rough with you, be rough with love.
+
+234
+00:19:42,993 --> 00:19:45,826
+Prick love for pricking,
+and you beat love down.
+
+235
+00:19:47,713 --> 00:19:50,102
+Every man, betake him to his legs!
+
+236
+00:19:50,193 --> 00:19:52,946
+Come, we burn daylight, ho! Ho-o!
+
+237
+00:19:53,033 --> 00:19:54,261
+Ho-o!
+
+238
+00:19:54,353 --> 00:19:57,311
+- But 'tis no wit to go!
+- Why, may one ask?
+
+239
+00:19:57,393 --> 00:19:59,384
+- I dreamt a dream tonight.
+- And so did I.
+
+240
+00:19:59,473 --> 00:20:01,828
+- And what was yours?
+- That dreamers often lie.
+
+241
+00:20:01,913 --> 00:20:04,381
+In bed asleep,
+while they do dream things true.
+
+242
+00:20:04,473 --> 00:20:08,022
+O! Then I see
+Queen Mab hath been with you.
+
+243
+00:20:08,833 --> 00:20:10,551
+She is the fairies' midwife...
+
+244
+00:20:10,633 --> 00:20:13,466
+...and she comes in shape
+no bigger than an agate-stone...
+
+245
+00:20:13,553 --> 00:20:16,704
+...on the forefinger of an alderman...
+
+246
+00:20:16,793 --> 00:20:20,263
+...drawn with a team of little atomies...
+
+247
+00:20:21,113 --> 00:20:24,025
+...over men's noses as they lie asleep.
+
+248
+00:20:24,793 --> 00:20:27,910
+Her chariot is an empty hazelnut...
+
+249
+00:20:28,913 --> 00:20:32,508
+...her waggoner a small grey-coated gnat.
+
+250
+00:20:32,593 --> 00:20:37,906
+And in this state she gallops
+night by night through lovers' brains...
+
+251
+00:20:37,993 --> 00:20:39,984
+...and then they dream of...
+
+252
+00:20:40,873 --> 00:20:41,942
+...Iove;
+
+253
+00:20:42,033 --> 00:20:45,184
+...o'er lawyers' fingers,
+who straight dream on fees.
+
+254
+00:20:45,273 --> 00:20:47,741
+Sometime she driveth o'er a soldier's neck...
+
+255
+00:20:47,833 --> 00:20:50,984
+...and then dreams he
+of cutting foreign throats;
+
+256
+00:20:51,073 --> 00:20:54,861
+...and, being thus frighted, swears
+a prayer or two, and sleeps again.
+
+257
+00:20:54,953 --> 00:20:58,832
+This is the hag,
+when maids lie on their backs...
+
+258
+00:20:58,913 --> 00:21:02,872
+...that presses them
+and learns them first to bear...
+
+259
+00:21:02,953 --> 00:21:06,309
+...making them women of good carriage!
+
+260
+00:21:06,393 --> 00:21:07,872
+This is she!
+
+261
+00:21:08,313 --> 00:21:11,032
+This is she!
+
+262
+00:21:22,513 --> 00:21:24,390
+Peace, good Mercutio, peace!
+
+263
+00:21:25,433 --> 00:21:27,424
+Thou talk'st of nothing.
+
+264
+00:21:29,793 --> 00:21:31,784
+True.
+
+265
+00:21:33,753 --> 00:21:35,744
+I talk of dreams...
+
+266
+00:21:35,833 --> 00:21:38,950
+...which are the children of an idle brain...
+
+267
+00:21:39,033 --> 00:21:41,672
+...begot of nothing but vain fantasy;
+
+268
+00:21:41,753 --> 00:21:46,588
+...which is as thin of substance as the air
+and more inconstant than the wind...
+
+269
+00:21:46,673 --> 00:21:49,471
+...who woos even now
+the frozen bosom of the north...
+
+270
+00:21:49,553 --> 00:21:52,226
+...and, being angered,
+puffs away from thence...
+
+271
+00:21:52,313 --> 00:21:54,952
+...turning aside to the dew-dropping south.
+
+272
+00:21:55,033 --> 00:21:58,025
+This wind you talk of
+blows us from ourselves!
+
+273
+00:21:58,113 --> 00:22:01,105
+Supper is done, and we shall come too late!
+
+274
+00:22:01,353 --> 00:22:03,344
+I fear, too early.
+
+275
+00:22:03,433 --> 00:22:08,905
+For my mind misgives some... consequence,
+yet hanging in the stars...
+
+276
+00:22:10,233 --> 00:22:14,226
+...shall bitterly begin his fearful date
+with this night's revels...
+
+277
+00:22:14,313 --> 00:22:16,304
+...and expire the term...
+
+278
+00:22:16,393 --> 00:22:20,181
+...of a despised life closed within my breast...
+
+279
+00:22:21,913 --> 00:22:24,905
+...by some vile forfeit of untimely death.
+
+280
+00:22:26,713 --> 00:22:29,307
+But he that hath the steerage of my course...
+
+281
+00:22:30,633 --> 00:22:32,305
+...direct my sail!
+
+282
+00:22:44,233 --> 00:22:46,030
+On, lusty gentlemen!
+
+283
+00:22:46,353 --> 00:22:53,350
+Young hearts
+
+284
+00:22:54,833 --> 00:23:01,181
+Run free
+
+285
+00:23:22,073 --> 00:23:23,142
+Grr!
+
+286
+00:23:23,233 --> 00:23:25,030
+Thy drugs are quick.
+
+287
+00:23:28,233 --> 00:23:30,224
+Young hearts
+
+288
+00:23:30,313 --> 00:23:32,144
+Run free
+
+289
+00:23:32,233 --> 00:23:33,905
+Never be hung up
+
+290
+00:23:33,993 --> 00:23:36,188
+Hung up like my man and me
+
+291
+00:23:38,633 --> 00:23:39,668
+Mm...
+
+292
+00:23:39,753 --> 00:23:41,471
+And me
+
+293
+00:23:42,873 --> 00:23:45,023
+Young hearts
+
+294
+00:23:45,113 --> 00:23:47,183
+To yourself be true
+
+295
+00:23:47,273 --> 00:23:48,911
+Don't be no fool
+
+296
+00:23:48,993 --> 00:23:53,464
+When love really don't love you
+
+297
+00:23:54,713 --> 00:23:56,704
+I said don't love you
+
+298
+00:23:58,913 --> 00:24:00,983
+I have seen the day that I could tell...
+
+299
+00:24:01,073 --> 00:24:04,190
+...a whispering tale in a fair lady's ear
+such as would please.
+
+300
+00:24:04,273 --> 00:24:06,070
+Amore! Amore!
+
+301
+00:24:06,153 --> 00:24:07,222
+Amore...
+
+302
+00:24:09,833 --> 00:24:10,822
+Whoo!
+
+303
+00:24:48,593 --> 00:24:55,669
+Pride can stand a thousand trials
+
+304
+00:24:55,953 --> 00:25:01,425
+The strong will never fall
+
+305
+00:25:02,313 --> 00:25:08,104
+But watching stars without you
+
+306
+00:25:08,193 --> 00:25:12,550
+My soul cried
+
+307
+00:25:16,473 --> 00:25:21,627
+Heaving heart
+
+308
+00:25:21,713 --> 00:25:29,028
+Is full of pain
+
+309
+00:25:30,433 --> 00:25:36,588
+Oh, oh
+
+310
+00:25:36,673 --> 00:25:43,749
+The aching
+
+311
+00:25:45,793 --> 00:25:55,384
+Cos I'm kissing you
+
+312
+00:25:55,473 --> 00:25:59,546
+Oh
+
+313
+00:25:59,633 --> 00:26:13,183
+I'm kissing you
+
+314
+00:26:13,273 --> 00:26:15,264
+Madam, your mother calls!
+
+315
+00:26:15,353 --> 00:26:18,550
+Touch me deep
+
+316
+00:26:19,633 --> 00:26:26,505
+Pure and true
+
+317
+00:26:28,593 --> 00:26:30,948
+Will you now deny to dance?
+
+318
+00:26:31,033 --> 00:26:33,627
+A man, young lady. Such a man!
+
+319
+00:26:44,433 --> 00:26:45,627
+What!
+
+320
+00:26:45,713 --> 00:26:49,308
+Dares that slave come hither
+to fleer and scorn at our solemnity?
+
+321
+00:26:49,393 --> 00:26:54,262
+Now, by the stock and honour of my kin,
+to strike him dead I hold it not a sin!
+
+322
+00:26:54,873 --> 00:26:57,592
+Why, how now, kinsman!
+Wherefore storm you so?
+
+323
+00:26:57,673 --> 00:27:00,585
+Uncle, this is that villain Romeo.
+A Montague, our foe.
+
+324
+00:27:00,673 --> 00:27:02,664
+- Romeo is it?
+- 'Tis he.
+
+325
+00:27:02,753 --> 00:27:05,745
+Content thee, gentle coz, let him alone.
+
+326
+00:27:05,833 --> 00:27:08,188
+I would not for the wealth of all this town...
+
+327
+00:27:08,273 --> 00:27:10,582
+...here in my house do him disparagement.
+
+328
+00:27:10,673 --> 00:27:13,107
+Therefore be patient, take no note of him.
+
+329
+00:27:13,193 --> 00:27:14,512
+Uncle, I'll not endure him.
+
+330
+00:27:15,673 --> 00:27:17,664
+He shall be endured.
+
+331
+00:27:18,593 --> 00:27:19,742
+Go to!
+
+332
+00:27:19,833 --> 00:27:22,063
+What, goodman boy? I say he shall!
+
+333
+00:27:22,153 --> 00:27:23,302
+Go to!
+
+334
+00:27:23,393 --> 00:27:24,985
+Uncle, 'tis a shame.
+
+335
+00:27:25,073 --> 00:27:26,904
+Make a mutiny among my guests?
+
+336
+00:27:45,273 --> 00:27:47,025
+Did my heart love till now?
+
+337
+00:27:48,033 --> 00:27:50,024
+Forswear it, sight.
+
+338
+00:27:50,113 --> 00:27:53,071
+For I never saw true beauty till this night.
+
+339
+00:27:54,113 --> 00:28:04,102
+Where are you now?
+
+340
+00:28:04,953 --> 00:28:15,784
+Where are you now?
+
+341
+00:28:18,753 --> 00:28:31,507
+Cos I'm kissing you
+
+342
+00:28:32,753 --> 00:28:48,590
+I'm kissing you now
+
+343
+00:29:11,513 --> 00:29:14,664
+If I profane with my unworthiest hand
+this holy shrine...
+
+344
+00:29:14,753 --> 00:29:16,744
+...the gentle sin is this.
+
+345
+00:29:22,353 --> 00:29:25,902
+My lips, two blushing pilgrims,
+ready stand...
+
+346
+00:29:25,993 --> 00:29:29,747
+...to smooth that rough touch
+with a tender kiss.
+
+347
+00:29:30,113 --> 00:29:32,786
+Good pilgrim,
+you do wrong your hand too much...
+
+348
+00:29:32,873 --> 00:29:35,148
+...which mannerly devotion shows in this.
+
+349
+00:29:35,233 --> 00:29:39,272
+For saints have hands
+that pilgrims' hands do touch...
+
+350
+00:29:39,353 --> 00:29:42,629
+...and palm to palm is holy palmers' kiss.
+
+351
+00:29:43,113 --> 00:29:46,549
+Have not saints lips, and holy palmers too?
+
+352
+00:29:47,073 --> 00:29:50,383
+Ay, pilgrim, lips that they must use in prayer.
+
+353
+00:29:50,913 --> 00:29:53,586
+Well, then, dear saint,
+let lips do what hands do.
+
+354
+00:29:53,673 --> 00:29:56,904
+They pray, grant thou,
+lest faith turn to despair.
+
+355
+00:29:56,993 --> 00:30:00,872
+Saints do not move,
+though grant for prayers' sake.
+
+356
+00:30:01,553 --> 00:30:04,386
+Then move not,
+while my prayer's effect I take.
+
+357
+00:30:04,473 --> 00:30:06,065
+Yoo-hoo!
+
+358
+00:30:08,753 --> 00:30:09,390
+Dave!
+
+359
+00:30:20,393 --> 00:30:23,465
+Thus from my lips,
+by thine, my sin is purged.
+
+360
+00:30:23,553 --> 00:30:25,509
+Then have my lips the sin
+that they have took?
+
+361
+00:30:25,593 --> 00:30:28,312
+Sin from my lips?
+O trespass sweetly urged!
+
+362
+00:30:28,393 --> 00:30:29,951
+Give me my sin again.
+
+363
+00:30:32,673 --> 00:30:34,664
+You kiss by the book.
+
+364
+00:30:42,033 --> 00:30:43,910
+Juliet! Juliet! Oh!
+
+365
+00:30:44,193 --> 00:30:45,785
+Juliet?
+
+366
+00:30:46,433 --> 00:30:47,582
+Juliet!
+
+367
+00:30:56,353 --> 00:30:59,186
+Madam, your mother craves a word with you.
+
+368
+00:31:00,993 --> 00:31:02,585
+Come, let's away!
+
+369
+00:31:28,553 --> 00:31:30,748
+Is she a Capulet?
+
+370
+00:31:32,433 --> 00:31:35,470
+His name is Romeo, and he's a Montague...
+
+371
+00:31:35,553 --> 00:31:38,021
+...the only son of your great enemy.
+
+372
+00:31:57,113 --> 00:32:00,025
+Away, be gone. The sport is at its best.
+
+373
+00:32:00,513 --> 00:32:03,027
+Ay, so I fear. The more is my unrest.
+
+374
+00:32:34,113 --> 00:32:38,345
+I am a pretty piece of flesh!
+
+375
+00:32:38,593 --> 00:32:43,223
+I am a pretty piece of flesh!
+
+376
+00:32:43,553 --> 00:32:48,343
+I am a pretty piece of flesh! I am!
+
+377
+00:32:56,593 --> 00:32:59,232
+My only love sprung from my only hate!
+
+378
+00:33:00,113 --> 00:33:03,185
+Too early seen unknown, and known too late!
+
+379
+00:33:03,273 --> 00:33:08,142
+Prodigious birth of love it is to me,
+that I must love a loathed enemy.
+
+380
+00:33:20,553 --> 00:33:22,623
+I will withdraw.
+
+381
+00:33:22,713 --> 00:33:26,149
+But this intrusion shall,
+now seeming sweet...
+
+382
+00:33:26,233 --> 00:33:28,622
+...convert to bitterest gall.
+
+383
+00:33:32,073 --> 00:33:34,587
+A pretty piece of flesh! I am!
+
+384
+00:33:36,433 --> 00:33:38,947
+A pretty piece of...
+
+385
+00:33:39,033 --> 00:33:40,022
+Romeo!
+
+386
+00:33:40,113 --> 00:33:41,910
+- Romeo!
+- Romeo!
+
+387
+00:33:41,993 --> 00:33:42,948
+Romeo!
+
+388
+00:33:43,073 --> 00:33:45,462
+Humours! Madman!
+
+389
+00:33:45,713 --> 00:33:48,307
+Passion! Lover!
+
+390
+00:33:48,833 --> 00:33:51,631
+I will conjure thee
+by Rosaline's bright eyes...
+
+391
+00:33:51,713 --> 00:33:54,671
+...by her high forehead
+and her scarlet lip...
+
+392
+00:33:54,753 --> 00:33:58,792
+...by her fine foot, straight leg,
+and quivering thigh!
+
+393
+00:34:02,433 --> 00:34:06,711
+O Romeo, that she were an open-ass
+and thou a poperin pear!
+
+394
+00:34:06,793 --> 00:34:09,227
+He jests at scars that never felt the wound.
+
+395
+00:34:09,313 --> 00:34:09,984
+Romeo!
+
+396
+00:34:11,193 --> 00:34:12,262
+Good night!
+
+397
+00:34:12,353 --> 00:34:16,824
+I'll to my truckle-bed.
+This field-bed is too cold for me to sleep.
+
+398
+00:34:37,913 --> 00:34:39,312
+Oh!
+
+399
+00:34:54,073 --> 00:34:55,745
+But soft!
+
+400
+00:34:55,833 --> 00:34:58,063
+What light through yonder window breaks?
+
+401
+00:35:03,873 --> 00:35:05,864
+It is the east...
+
+402
+00:35:05,953 --> 00:35:08,706
+...and Juliet is the sun!
+
+403
+00:35:12,513 --> 00:35:16,142
+Arise, fair sun,
+and kill the envious moon...
+
+404
+00:35:16,233 --> 00:35:18,827
+...who is already sick and pale with grief...
+
+405
+00:35:18,913 --> 00:35:22,701
+...that thou, her maid,
+art far more fair than she.
+
+406
+00:35:22,793 --> 00:35:25,865
+Be not her maid, since she is envious.
+
+407
+00:35:25,953 --> 00:35:30,151
+Her vestal livery is but sick and green,
+and none but fools do wear it.
+
+408
+00:35:32,393 --> 00:35:35,271
+O cast it off!
+
+409
+00:35:44,113 --> 00:35:46,502
+It is my lady, it is my love.
+
+410
+00:35:46,993 --> 00:35:48,984
+O that she knew she were.
+
+411
+00:35:56,393 --> 00:35:57,587
+Ay me!
+
+412
+00:36:00,673 --> 00:36:02,664
+She speaks.
+
+413
+00:36:02,753 --> 00:36:04,744
+Speak again, bright angel.
+
+414
+00:36:06,553 --> 00:36:07,952
+Romeo.
+
+415
+00:36:09,233 --> 00:36:10,871
+O Romeo!
+
+416
+00:36:10,953 --> 00:36:12,944
+Wherefore art thou Romeo?
+
+417
+00:36:17,433 --> 00:36:19,628
+Deny thy father and refuse thy name.
+
+418
+00:36:19,713 --> 00:36:24,423
+Or, if thou wilt not, be but sworn my love,
+and I'll no longer be a Capulet.
+
+419
+00:36:25,993 --> 00:36:27,984
+Shall I hear more...
+
+420
+00:36:28,073 --> 00:36:29,984
+...or shall I speak at this?
+
+421
+00:36:30,073 --> 00:36:32,462
+'Tis but thy name that is my enemy.
+
+422
+00:36:32,913 --> 00:36:35,632
+Thou art thyself, though not a Montague.
+
+423
+00:36:35,713 --> 00:36:37,669
+What's Montague?
+
+424
+00:36:37,753 --> 00:36:39,550
+It is not hand...
+
+425
+00:36:39,633 --> 00:36:42,022
+...nor foot, nor arm, nor face...
+
+426
+00:36:44,153 --> 00:36:47,145
+...nor any other part belonging to a man.
+
+427
+00:36:47,713 --> 00:36:49,704
+O be some other name!
+
+428
+00:36:51,993 --> 00:36:53,984
+What's in a name?
+
+429
+00:36:54,553 --> 00:36:58,592
+That which we call a rose by
+any other word would smell as sweet.
+
+430
+00:36:58,673 --> 00:37:01,790
+So Romeo would,
+were he not Romeo called...
+
+431
+00:37:01,873 --> 00:37:06,469
+...retain that dear perfection
+which he owes without that title.
+
+432
+00:37:07,553 --> 00:37:09,430
+Romeo, doff thy name;
+
+433
+00:37:09,513 --> 00:37:12,903
+...and for thy name, which is
+no part of thee, take all myself.
+
+434
+00:37:12,993 --> 00:37:14,984
+- I take thee at thy word.
+- Agh!
+
+435
+00:37:25,233 --> 00:37:27,224
+Art thou not Romeo, and a Montague?
+
+436
+00:37:27,313 --> 00:37:29,588
+Neither, fair maid, if either thee dislike.
+
+437
+00:37:29,673 --> 00:37:32,028
+How camest thou hither, tell me,
+and wherefore?
+
+438
+00:37:32,113 --> 00:37:34,069
+The garden walls are high
+and hard to climb...
+
+439
+00:37:34,153 --> 00:37:36,508
+...and the place death,
+considering who thou art.
+
+440
+00:37:36,593 --> 00:37:39,187
+With love's light wings
+did I o'erperch these walls...
+
+441
+00:37:39,273 --> 00:37:41,264
+...for stony limits cannot hold love out...
+
+442
+00:37:41,353 --> 00:37:43,708
+...and what love can do,
+that dares love attempt.
+
+443
+00:37:43,793 --> 00:37:46,432
+Therefore thy kinsmen are no stop to me!
+
+444
+00:38:08,113 --> 00:38:10,911
+If they do see thee, they will murder thee.
+
+445
+00:38:14,873 --> 00:38:18,183
+I have night's cloak
+to hide me from their eyes.
+
+446
+00:38:18,433 --> 00:38:20,424
+But thou love me...
+
+447
+00:38:20,513 --> 00:38:22,504
+...let them find me here.
+
+448
+00:38:22,993 --> 00:38:27,589
+My life were better ended by their hate
+than death prorogued...
+
+449
+00:38:30,593 --> 00:38:32,584
+...wanting of thy love.
+
+450
+00:39:10,353 --> 00:39:12,821
+Thou knowest
+the mask of night is on my face;
+
+451
+00:39:12,913 --> 00:39:15,222
+...else would a maiden blush
+bepaint my cheek...
+
+452
+00:39:15,313 --> 00:39:17,873
+...for that which thou hast
+heard me speak tonight.
+
+453
+00:39:17,953 --> 00:39:19,944
+Fain would I dwell on form...
+
+454
+00:39:20,033 --> 00:39:22,069
+...fain, fain deny what I have spoke.
+
+455
+00:39:22,153 --> 00:39:24,542
+But... farewell compliment.
+
+456
+00:39:26,193 --> 00:39:28,184
+Dost thou love me?
+
+457
+00:39:29,793 --> 00:39:32,261
+I know thou wilt say "Ay",
+and I will take thy word.
+
+458
+00:39:32,353 --> 00:39:34,787
+Yet, if thou swear'st,
+thou may'st prove false.
+
+459
+00:39:34,873 --> 00:39:38,229
+O gentle Romeo, if thou dost love,
+pronounce it faithfully.
+
+460
+00:39:38,313 --> 00:39:40,702
+Lady, by yonder blessed moon I vow...
+
+461
+00:39:40,793 --> 00:39:43,990
+...that tips with silver all these fruit tree tops...
+
+462
+00:39:44,073 --> 00:39:46,064
+O swear not by the moon...
+
+463
+00:39:46,153 --> 00:39:49,862
+...the inconstant moon that monthly
+changes in her circled orb...
+
+464
+00:39:49,953 --> 00:39:52,672
+...lest that thy love prove likewise variable.
+
+465
+00:39:52,753 --> 00:39:55,392
+What shall I swear by?
+
+466
+00:39:55,473 --> 00:39:57,464
+Do not swear at all.
+
+467
+00:39:57,553 --> 00:39:59,544
+Or, if thou wilt...
+
+468
+00:39:59,633 --> 00:40:03,421
+...swear by thy gracious self
+which is the god of my idolatry...
+
+469
+00:40:03,513 --> 00:40:05,504
+...and I'll believe thee.
+
+470
+00:40:05,953 --> 00:40:07,944
+If my heart's...
+
+471
+00:40:08,473 --> 00:40:10,464
+...dear love...
+
+472
+00:40:19,753 --> 00:40:25,111
+Do not swear. Although I joy in thee,
+I have no joy in this contract tonight.
+
+473
+00:40:25,193 --> 00:40:28,503
+It is too rash, too unadvised,
+too sudden, too like the lightning...
+
+474
+00:40:28,593 --> 00:40:31,153
+...which doth cease to be
+ere one can say "It lightens".
+
+475
+00:40:31,233 --> 00:40:32,632
+Sweet, good night!
+
+476
+00:40:32,713 --> 00:40:35,307
+This bud of love,
+by summer's ripening breath...
+
+477
+00:40:35,393 --> 00:40:38,032
+...may prove a beauteous flower
+when next we meet.
+
+478
+00:40:38,113 --> 00:40:39,148
+Good night.
+
+479
+00:40:40,593 --> 00:40:42,072
+Good night!
+
+480
+00:40:44,393 --> 00:40:46,349
+O wilt thou leave me so unsatisfied?
+
+481
+00:40:48,393 --> 00:40:50,782
+What satisfaction canst thou have tonight?
+
+482
+00:40:52,793 --> 00:40:56,263
+The exchange of thy love's
+faithful vow for mine.
+
+483
+00:40:59,713 --> 00:41:02,591
+I gave thee mine before thou didst request it!
+
+484
+00:41:12,393 --> 00:41:13,872
+Juliet!
+
+485
+00:41:21,513 --> 00:41:23,822
+Three words, dear Romeo,
+and good night indeed.
+
+486
+00:41:23,913 --> 00:41:26,871
+If that thy bent of love be honourable,
+thy purpose marriage...
+
+487
+00:41:26,953 --> 00:41:29,751
+...send me word tomorrow, by one
+that I'll procure to come to thee...
+
+488
+00:41:29,833 --> 00:41:32,028
+...where and what time thou wilt
+perform the rite...
+
+489
+00:41:32,113 --> 00:41:33,990
+...and all my fortunes at thy foot I'll lay...
+
+490
+00:41:34,073 --> 00:41:36,223
+...and follow thee, my lord,
+throughout the world.
+
+491
+00:41:36,313 --> 00:41:37,428
+Julieta!
+
+492
+00:41:38,033 --> 00:41:40,069
+Ay! By and by, I come!
+
+493
+00:41:40,153 --> 00:41:43,031
+But if thou meanest not well,
+I do beseech thee...
+
+494
+00:41:43,113 --> 00:41:45,104
+- Juliet!
+- By and by, I come!
+
+495
+00:41:45,193 --> 00:41:47,866
+...to cease thy strife,
+and leave me to my grief.
+
+496
+00:41:49,313 --> 00:41:51,031
+Tomorrow will I send.
+
+497
+00:41:51,113 --> 00:41:52,944
+So thrive my soul.
+
+498
+00:42:00,353 --> 00:42:02,230
+A thousand times good night.
+
+499
+00:42:02,313 --> 00:42:05,350
+A thousand times the worse,
+to want thy light!
+
+500
+00:42:06,553 --> 00:42:07,702
+Juliet!
+
+501
+00:42:09,593 --> 00:42:11,185
+Julieta!
+
+502
+00:42:15,313 --> 00:42:17,031
+Good night.
+
+503
+00:42:19,353 --> 00:42:23,187
+Love goes toward love
+as schoolboys from their books;
+
+504
+00:42:24,513 --> 00:42:26,504
+...but love from love...
+
+505
+00:42:27,793 --> 00:42:30,023
+...toward school with heavy looks.
+
+506
+00:42:30,593 --> 00:42:32,390
+Romeo!
+
+507
+00:42:33,193 --> 00:42:35,070
+What o'clock tomorrow
+shall I send to thee?
+
+508
+00:42:36,113 --> 00:42:38,104
+By the hour of nine.
+
+509
+00:42:38,193 --> 00:42:41,265
+I will not fail. 'Tis twenty year till then.
+
+510
+00:42:41,713 --> 00:42:43,431
+Good night.
+
+511
+00:42:50,873 --> 00:42:52,591
+Good night. Good night.
+
+512
+00:43:01,713 --> 00:43:03,704
+Parting is such sweet sorrow...
+
+513
+00:43:03,793 --> 00:43:06,910
+...that I shall say good night till it be morrow.
+
+514
+00:43:08,553 --> 00:43:12,182
+Juliet!
+
+515
+00:43:12,433 --> 00:43:16,108
+You and me always
+
+516
+00:43:16,193 --> 00:43:18,582
+And for ever
+
+517
+00:43:18,673 --> 00:43:22,109
+You and me always
+
+518
+00:43:22,193 --> 00:43:24,991
+And for ever
+
+519
+00:43:25,073 --> 00:43:29,908
+Ba ba-ba ba-ba
+
+520
+00:43:29,993 --> 00:43:33,349
+It was always you and me...
+
+521
+00:43:34,153 --> 00:43:38,943
+Almighty is the powerful grace
+that lies in plants, herbs, stones...
+
